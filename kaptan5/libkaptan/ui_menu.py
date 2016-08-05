@@ -15,7 +15,7 @@ class MenuWidget(QWizardPage):
             extremely lightweight (and fast) structure.</p>"),
             self.tr("<p>Application Launcher is the standard for KDE. \
             Application shortcuts are arranged under a tab structure.</p>"),
-            self.tr("<p>Aplication Panel is a full screen menu style. \
+            self.tr("<p>Application Panel is a full screen menu style. \
             Application shortcuts are arranged so that you can access them quickly and easily.</p>")
         ]
 

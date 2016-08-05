@@ -140,32 +140,32 @@
     <message>
         <location filename="../kaptan5/libkaptan/ui_mouse.py" line="54"/>
         <source>Double-click to open files and folders.</source>
-        <translation type="unfinished"/>
+        <translation>Dubbelklik om bestanden en mappen te openen.</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_mouse.py" line="59"/>
         <source>Single-click to open files and folders.</source>
-        <translation type="unfinished"/>
+        <translation>Enkele klik om bestanden en mappen te openen.</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_mouse.py" line="69"/>
         <source>Button Order</source>
-        <translation type="unfinished"/>
+        <translation>Button Order</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_mouse.py" line="78"/>
         <source>Right hand.</source>
-        <translation type="unfinished"/>
+        <translation>Rechterhand</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_mouse.py" line="83"/>
         <source>Left hand.</source>
-        <translation type="unfinished"/>
+        <translation>Linkerhand</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_mouse.py" line="92"/>
         <source>Reverse scrolling.</source>
-        <translation type="unfinished"/>
+        <translation>Reverse scrollen.</translation>
     </message>
 </context>
 <context>
@@ -173,7 +173,7 @@
     <message>
         <location filename="../kaptan5/libkaptan/ui_other.py" line="10"/>
         <source>&lt;h2&gt;Congratulations!&lt;/h2&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;h2&gt;Gefeliciteerd!&lt;/h2&gt;</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_other.py" line="20"/>
@@ -183,7 +183,7 @@
     <message>
         <location filename="../kaptan5/libkaptan/ui_other.py" line="40"/>
         <source>System Settings</source>
-        <translation type="unfinished"/>
+        <translation>Systeem Instellingen</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_other.py" line="37"/>
@@ -193,7 +193,7 @@
     <message>
         <location filename="../kaptan5/libkaptan/ui_other.py" line="64"/>
         <source>Help and Support</source>
-        <translation type="unfinished"/>
+        <translation>Hulp en Ondersteuning</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_other.py" line="61"/>
@@ -206,22 +206,22 @@
     <message>
         <location filename="../kaptan5/libkaptan/tabwidget.py" line="396"/>
         <source>Preview</source>
-        <translation type="unfinished"/>
+        <translation>Voorbeeld</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/tabwidget.py" line="410"/>
         <source>Window Text</source>
-        <translation type="unfinished"/>
+        <translation>Venster Text</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/tabwidget.py" line="415"/>
         <source>Button</source>
-        <translation type="unfinished"/>
+        <translation>Knop</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/tabwidget.py" line="424"/>
         <source>&lt;p&gt;Normal text &lt;a id=&apos;unclicked&apos; href=&apos;#&apos;&gt;link&lt;/a&gt; &lt;a id=&apos;clicked&apos; href=&apos;#&apos;&gt;visited&lt;/a&gt;&lt;/p&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;p&gt;Normale text &lt;a id=&apos;unclicked&apos; href=&apos;#&apos;&gt;link&lt;/a&gt; &lt;a id=&apos;clicked&apos; href=&apos;#&apos;&gt;visited&lt;/a&gt;&lt;/p&gt;</translation>
     </message>
 </context>
 <context>
@@ -229,42 +229,42 @@
     <message>
         <location filename="../kaptan5/libkaptan/tabwidget.py" line="251"/>
         <source>Preview</source>
-        <translation type="unfinished"/>
+        <translation>Voorbeeld</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/tabwidget.py" line="268"/>
         <source>Group Box</source>
-        <translation type="unfinished"/>
+        <translation>Groepsvak</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/tabwidget.py" line="282"/>
         <source>Radio Button</source>
-        <translation type="unfinished"/>
+        <translation>Radio Knop</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/tabwidget.py" line="293"/>
         <source>Check Box</source>
-        <translation type="unfinished"/>
+        <translation>Selectievak</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/tabwidget.py" line="324"/>
         <source>Button</source>
-        <translation type="unfinished"/>
+        <translation>Knop</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/tabwidget.py" line="332"/>
         <source>Combo Box</source>
-        <translation type="unfinished"/>
+        <translation>Combobox</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/tabwidget.py" line="342"/>
         <source>Tab 1</source>
-        <translation type="unfinished"/>
+        <translation>Tab 1</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/tabwidget.py" line="347"/>
         <source>Tab 2</source>
-        <translation type="unfinished"/>
+        <translation>Tab 2</translation>
     </message>
 </context>
 <context>
@@ -272,7 +272,7 @@
     <message>
         <location filename="../kaptan5/libkaptan/ui_summary.py" line="7"/>
         <source>&lt;h2&gt;Save Your Settings&lt;/h2&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;h2&gt;Instellingen Opslaan&lt;/h2&gt;</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_summary.py" line="13"/>
@@ -282,52 +282,52 @@
     <message>
         <location filename="../kaptan5/libkaptan/ui_summary.py" line="19"/>
         <source>The following settings will be applied</source>
-        <translation type="unfinished"/>
+        <translation>De volgende instellingen zullen worden toegepast</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_summary.py" line="58"/>
         <source>Right Handed</source>
-        <translation type="unfinished"/>
+        <translation>Rechtshandig</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_summary.py" line="60"/>
         <source>Left Handed</source>
-        <translation type="unfinished"/>
+        <translation>Linkshandig</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_summary.py" line="63"/>
         <source>Single Click</source>
-        <translation type="unfinished"/>
+        <translation>Enkele Klik</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_summary.py" line="65"/>
         <source>Double Click</source>
-        <translation type="unfinished"/>
+        <translation>Dubbelklik</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_summary.py" line="68"/>
         <source>Desktop View</source>
-        <translation type="unfinished"/>
+        <translation>Beraublad View</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_summary.py" line="70"/>
         <source>Folder View</source>
-        <translation type="unfinished"/>
+        <translation>Folder View</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_summary.py" line="73"/>
         <source>Application Launcher</source>
-        <translation type="unfinished"/>
+        <translation>Programma Launcher</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_summary.py" line="75"/>
         <source>Application Menu</source>
-        <translation type="unfinished"/>
+        <translation>Programma Menu</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_summary.py" line="77"/>
         <source>Application Panel</source>
-        <translation type="unfinished"/>
+        <translation>Programma Paneel</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_summary.py" line="89"/>
@@ -356,12 +356,36 @@
                 &lt;/ul&gt;
             &lt;/li&gt;
         &lt;/ul&gt;</source>
-        <translation type="unfinished"/>
+        <translation>
+        &lt;ul&gt;
+            &lt;li&gt;&lt;strong&gt;Mouse Options&lt;/strong&gt;
+            &lt;/li&gt;
+                &lt;ul&gt;
+                    &lt;li&gt;Selected Hand: &lt;strong&gt;{}&lt;/strong&gt;&lt;/li&gt;
+                    &lt;li&gt;Selected Clicking Behavior: &lt;strong&gt;{}&lt;/strong&gt;&lt;/li&gt;
+                &lt;/ul&gt;
+            &lt;li&gt;&lt;strong&gt;Theme Options&lt;/strong&gt;
+                &lt;ul&gt;
+                    &lt;li&gt;Desktop Count: &lt;strong&gt;{}&lt;/strong&gt;&lt;/li&gt;
+                    &lt;li&gt;Desktop Type: &lt;strong&gt;{}&lt;/strong&gt;&lt;/li&gt;
+                    &lt;li&gt;Widget Style: &lt;strong&gt;{}&lt;/strong&gt;&lt;/li&gt;
+                    &lt;li&gt;Window Style: &lt;strong&gt;{}&lt;/strong&gt;&lt;/li&gt;
+                    &lt;li&gt;Color Scheme: &lt;strong&gt;{}&lt;/strong&gt;&lt;/li&gt;
+                    &lt;li&gt;Desktop Theme: &lt;strong&gt;{}&lt;/strong&gt;&lt;/li&gt;
+                    &lt;li&gt;Icon Set: &lt;strong&gt;{}&lt;/strong&gt;&lt;/li&gt;
+                &lt;/ul&gt;
+            &lt;/li&gt;
+            &lt;li&gt;&lt;strong&gt;Menu Option&lt;/strong&gt;
+                &lt;ul&gt;
+                    &lt;li&gt;Selected Menu: &lt;strong&gt;{}&lt;/strong&gt;&lt;/li&gt;
+                &lt;/ul&gt;
+            &lt;/li&gt;
+        &lt;/ul&gt;</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_summary.py" line="135"/>
         <source>Unspecified.</source>
-        <translation type="unfinished"/>
+        <translation>Niet gespecificeerd.</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_summary.py" line="121"/>
@@ -378,7 +402,19 @@
                 &lt;/ul&gt;
             &lt;/li&gt;
         &lt;/ul&gt;</source>
-        <translation type="unfinished"/>
+        <translation>
+        &lt;ul&gt;
+            &lt;li&gt;&lt;strong&gt;Geselecteerde Wallpaper&lt;/strong&gt;
+                &lt;ul&gt;
+                    &lt;li&gt;&lt;strong&gt;{}&lt;/strong&gt;&lt;/li&gt;
+                &lt;/ul&gt;
+            &lt;/li&gt;
+            &lt;li&gt;&lt;strong&gt;Geselecteerde Avatar&lt;/strong&gt;
+                &lt;ul&gt;
+                    &lt;li&gt;&lt;strong&gt;{}&lt;/strong&gt;&lt;/li&gt;
+                &lt;/ul&gt;
+            &lt;/li&gt;
+        &lt;/ul&gt;</translation>
     </message>
 </context>
 <context>
@@ -386,57 +422,57 @@
     <message>
         <location filename="../kaptan5/libkaptan/tabwidget.py" line="38"/>
         <source>Widget Style:</source>
-        <translation type="unfinished"/>
+        <translation>Widget Stijl:</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/tabwidget.py" line="44"/>
         <source>QtCurve</source>
-        <translation type="unfinished"/>
+        <translation>QtCurve</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/tabwidget.py" line="45"/>
         <source>Breeze</source>
-        <translation type="unfinished"/>
+        <translation>Breeze</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/tabwidget.py" line="46"/>
         <source>Oxygen</source>
-        <translation type="unfinished"/>
+        <translation>Oxygen</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/tabwidget.py" line="47"/>
         <source>Fusion</source>
-        <translation type="unfinished"/>
+        <translation>Fusion</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/tabwidget.py" line="61"/>
         <source>Widget Style</source>
-        <translation type="unfinished"/>
+        <translation>Widget Stijl</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/tabwidget.py" line="120"/>
         <source>Window Style</source>
-        <translation type="unfinished"/>
+        <translation>Window Stijl</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/tabwidget.py" line="147"/>
         <source>Color Scheme</source>
-        <translation type="unfinished"/>
+        <translation>Kleurenschema</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/tabwidget.py" line="152"/>
         <source>&lt;p&gt;Normal text &lt;a id=&apos;unclicked&apos; href=&apos;#&apos;&gt;link&lt;/a&gt; &lt;a id=&apos;clicked&apos; href=&apos;#&apos;&gt;visited&lt;/a&gt;&lt;/p&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;p&gt;Normale text &lt;a id=&apos;unclicked&apos; href=&apos;#&apos;&gt;link&lt;/a&gt; &lt;a id=&apos;clicked&apos; href=&apos;#&apos;&gt;visited&lt;/a&gt;&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/tabwidget.py" line="212"/>
         <source>Desktop Theme</source>
-        <translation type="unfinished"/>
+        <translation>Beraublad Thema</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/tabwidget.py" line="245"/>
         <source>Icon Set</source>
-        <translation type="unfinished"/>
+        <translation>Iconen Set</translation>
     </message>
 </context>
 <context>

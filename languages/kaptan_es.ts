@@ -4,42 +4,42 @@
     <message>
         <location filename="../kaptan5/libkaptan/ui_avatar.py" line="16"/>
         <source>&lt;h2&gt;Create Your Avatar&lt;/h2&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;h2&gt;Crea tu Avatar&lt;/h2&gt;</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_avatar.py" line="28"/>
         <source>&lt;p&gt;This screen helps you set your &lt;strong&gt;user picture&lt;/strong&gt;. You can either choose an image from a         file or you can capture an image from your camera. Select an option from the &lt;strong&gt;options&lt;/strong&gt; menu.&lt;/p&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;p&gt;Esta pantalla le ayudará a ajustar su &lt;strong&gt;imagen de usuario&lt;/strong&gt;. Puede elegir un archivo de imagen o bien puede tomar una captura con su cámara. Seleccione un opción del menú &lt;strong&gt;opciones&lt;/strong&gt;.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_avatar.py" line="45"/>
         <source>Options</source>
-        <translation type="unfinished"/>
+        <translation>Opciones</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_avatar.py" line="45"/>
         <source>Choose an image...</source>
-        <translation type="unfinished"/>
+        <translation>Elija una imagen...</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_avatar.py" line="55"/>
         <source>Camera </source>
-        <translation type="unfinished"/>
+        <translation>Cámara</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_avatar.py" line="69"/>
         <source>Capture</source>
-        <translation type="unfinished"/>
+        <translation>Capturar</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_avatar.py" line="74"/>
         <source>Recapture</source>
-        <translation type="unfinished"/>
+        <translation>Recapturar</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_avatar.py" line="133"/>
         <source>Choose Avatar</source>
-        <translation type="unfinished"/>
+        <translation>Elija un Avatar</translation>
     </message>
 </context>
 <context>
@@ -47,32 +47,32 @@
     <message>
         <location filename="../kaptan5/kaptan.py" line="81"/>
         <source>Next</source>
-        <translation type="unfinished"/>
+        <translation>Siguiente</translation>
     </message>
     <message>
         <location filename="../kaptan5/kaptan.py" line="28"/>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <location filename="../kaptan5/kaptan.py" line="33"/>
         <source>Back</source>
-        <translation type="unfinished"/>
+        <translation>Volver</translation>
     </message>
     <message>
         <location filename="../kaptan5/kaptan.py" line="38"/>
         <source>Finish</source>
-        <translation type="unfinished"/>
+        <translation>Terminar</translation>
     </message>
     <message>
         <location filename="../kaptan5/kaptan.py" line="77"/>
         <source>Apply Settings</source>
-        <translation type="unfinished"/>
+        <translation>Aplicar configuración</translation>
     </message>
     <message>
         <location filename="../kaptan5/kaptan.py" line="15"/>
         <source>Kapta Desktop</source>
-        <translation type="unfinished"/>
+        <translation>Kapta Desktop</translation>
     </message>
 </context>
 <context>
@@ -80,42 +80,42 @@
     <message>
         <location filename="../kaptan5/libkaptan/ui_menu.py" line="11"/>
         <source>&lt;h2&gt;Select Menu Style&lt;/h2&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;h2&gt;Seleccione Estilo del Menú&lt;/h2&gt;</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_menu.py" line="14"/>
         <source>&lt;p&gt;Application Menu is the default for KaOS because of its             extremely lightweight (and fast) structure.&lt;/p&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;p&gt;El Menú Aplicaciones está por defecto en KaOS debido a su estructura extremadamente ligera (y rápido).&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_menu.py" line="16"/>
         <source>&lt;p&gt;Application Launcher is the standard for KDE.             Application shortcuts are arranged under a tab structure.&lt;/p&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;p&gt;El Lanzador de Aplicaciones es el estándar para KDE.  Los accesos directos a las aplicaciones están dispuestas bajo una estructura de pestañas.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_menu.py" line="18"/>
         <source>&lt;p&gt;Aplication Panel is a full screen menu style.             Application shortcuts are arranged so that you can access them quickly and easily.&lt;/p&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;p&gt;El Tablero de Aplicaciones es un menú estilo pantalla completa. Los accesos directos a las aplicaciones están dispuestos de manera que pueda accederlos de forma rápida y sencilla.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_menu.py" line="36"/>
         <source>&lt;p&gt;You can also customize your &lt;strong&gt;KDE menu&lt;/strong&gt; as you like.         Please choose one from the following styles.&lt;/p&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;p&gt;También puede personalizar su &lt;strong&gt;menú KDE&lt;/strong&gt; como guste. Por favor escoja uno de los siguientes estilos.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_menu.py" line="44"/>
         <source>Application Menu</source>
-        <translation type="unfinished"/>
+        <translation>Menú Aplicaciones</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_menu.py" line="45"/>
         <source>Application Launcher</source>
-        <translation type="unfinished"/>
+        <translation>Lanzador de Aplicaciones</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_menu.py" line="46"/>
         <source>Application Dashboard</source>
-        <translation type="unfinished"/>
+        <translation>Tablero de Aplicaciones</translation>
     </message>
 </context>
 <context>
@@ -123,49 +123,51 @@
     <message>
         <location filename="../kaptan5/libkaptan/ui_mouse.py" line="11"/>
         <source>&lt;h2&gt;Setup Mouse Behavior&lt;/h2&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;h2&gt;Configurar Comportamiento del Ratón&lt;/h2&gt;</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_mouse.py" line="22"/>
         <source>&lt;p&gt;The &lt;strong&gt;clicking behavior&lt;/strong&gt; defines how many times you want
         to click when you are opening a file. If you are &lt;strong&gt;left handed&lt;/strong&gt;, you may prefer to
         swap the left and right buttons of your pointing device.&lt;/p&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;p&gt;El &lt;strong&gt;comportamiento de los clics&lt;/strong&gt; define  cuantas veces hará clic        
+cuando quiera abrir un archivo. Si Ud. usa &lt;strong&gt;la mano izquierda&lt;/strong&gt;, tal vez prefiera
+        intercambiar los botones de su ratón.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_mouse.py" line="45"/>
         <source>Clicking Behavior</source>
-        <translation type="unfinished"/>
+        <translation>Comportamiento del clic</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_mouse.py" line="54"/>
         <source>Double-click to open files and folders.</source>
-        <translation type="unfinished"/>
+        <translation>Doble clic abre archivos y carpetas.</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_mouse.py" line="59"/>
         <source>Single-click to open files and folders.</source>
-        <translation type="unfinished"/>
+        <translation>Un sólo clic abre archivos y carpetas.</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_mouse.py" line="69"/>
         <source>Button Order</source>
-        <translation type="unfinished"/>
+        <translation>Orden de botones</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_mouse.py" line="78"/>
         <source>Right hand.</source>
-        <translation type="unfinished"/>
+        <translation>Mano derecha.</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_mouse.py" line="83"/>
         <source>Left hand.</source>
-        <translation type="unfinished"/>
+        <translation>Mano Izquierda.</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_mouse.py" line="92"/>
         <source>Reverse scrolling.</source>
-        <translation type="unfinished"/>
+        <translation>Desplazamiento inverso.</translation>
     </message>
 </context>
 <context>
@@ -173,7 +175,7 @@
     <message>
         <location filename="../kaptan5/libkaptan/ui_other.py" line="10"/>
         <source>&lt;h2&gt;Congratulations!&lt;/h2&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;h2&gt;¡Felicitaciones!&lt;/h2&gt;</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_other.py" line="20"/>
