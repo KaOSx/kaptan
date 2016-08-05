@@ -22,5 +22,9 @@
         <file>data/images/air_panel.png</file>
         <file>data/images/midna_panel.png</file>
         <file>data/images/midna-dark_panel.png</file>
+        <file>languages/kaptan_fr.qm</file>
+        <file>languages/kaptan_es.qm</file>
+        <file>languages/kaptan_nl_NL.qm</file>
+        <file>languages/kaptan_es_AR.qm</file>
     </qresource>
 </RCC>
