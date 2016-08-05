@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/">
+        <file>data/images/kaptan.png</file>
+        <file>data/images/kaptan-logo.png</file>
+        <file>data/images/welcome.png</file>
+        <file>data/images/menu-kicker.png</file>
+        <file>data/images/menu-kickoff.png</file>
+        <file>data/images/menu-kimpanel.png</file>
+        <file>data/images/midna-set.png</file>
+        <file>data/images/midna-dark-set.png</file>
+        <file>data/images/breeze-set.png</file>
+        <file>data/images/oxygen-set.png</file>
+        <file>data/images/breeze_deco.png</file>
+        <file>data/images/midna-flat_deco.png</file>
+        <file>data/images/midna-dark_deco.png</file>
+        <file>data/images/midna-grey_deco.png</file>
+        <file>data/images/midna-wide_deco.png</file>
+        <file>data/images/oxygen_deco.png</file>
+        <file>data/images/oxygen_panel.png</file>
+        <file>data/images/breeze_panel.png</file>
+        <file>data/images/breeze-dark_panel.png</file>
+        <file>data/images/air_panel.png</file>
+        <file>data/images/midna_panel.png</file>
+        <file>data/images/midna-dark_panel.png</file>
+    </qresource>
+</RCC>

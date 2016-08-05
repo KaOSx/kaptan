@@ -1,0 +1,14 @@
+QWizard {
+background-image: url(:/data/images/bg2.png);
+}
+
+QLabel {color: white;}
+
+QListWidget {}
+
+QGroupBox {}
+
+QWizardPage {}
+
+//QFrame {background: #8F2556;}
+
