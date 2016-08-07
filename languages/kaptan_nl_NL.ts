@@ -9,7 +9,7 @@
     <message>
         <location filename="../kaptan5/libkaptan/ui_avatar.py" line="28"/>
         <source>&lt;p&gt;This screen helps you set your &lt;strong&gt;user picture&lt;/strong&gt;. You can either choose an image from a         file or you can capture an image from your camera. Select an option from the &lt;strong&gt;options&lt;/strong&gt; menu.&lt;/p&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;p&gt;Via dit scherm kun je een &lt;strong&gt;gebruikers afbeelding&lt;/strong&gt; instellen. Je kunt of een bestands afbeelding gebruiken         of je kunt een foto met je camara maken. Selecteer een optie van de &lt;strong&gt;opties&lt;/strong&gt; menu.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_avatar.py" line="45"/>
@@ -130,7 +130,9 @@
         <source>&lt;p&gt;The &lt;strong&gt;clicking behavior&lt;/strong&gt; defines how many times you want
         to click when you are opening a file. If you are &lt;strong&gt;left handed&lt;/strong&gt;, you may prefer to
         swap the left and right buttons of your pointing device.&lt;/p&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;p&gt;Het &lt;strong&gt;klik gedrag&lt;/strong&gt; bepaalt hoe vaak je wilt
+        klikken om een bestand te openen. Als je &lt;strong&gt;linkshandig&lt;/strong&gt; bent, kan het zijn dat je prefereerd om
+        de linker en rechter muis buttons om te zetten .&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_mouse.py" line="45"/>
@@ -178,7 +180,7 @@
     <message>
         <location filename="../kaptan5/libkaptan/ui_other.py" line="20"/>
         <source>&lt;p&gt;&lt;strong&gt;Your settings have been applied.&lt;/strong&gt; Now you can start enjoying KaOS.         Don&apos;t forget to &lt;strong&gt;join our community!&lt;strong&gt;&lt;/p&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;p&gt;&lt;strong&gt;Je instellingen zijn toegepast.&lt;/strong&gt; Nu kun je beginnen met genieten van KaOS         Vergeet niet je &lt;strong&gt;aan te melden bij onze gemeenschap!&lt;strong&gt;&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_other.py" line="40"/>
@@ -188,7 +190,7 @@
     <message>
         <location filename="../kaptan5/libkaptan/ui_other.py" line="37"/>
         <source>&lt;p&gt;Configuration tools for KaOS such as the display, network, keyboard, user manager...&lt;/p&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;p&gt;Instelling tools voor KaOS zoals hey beeldscherm, network, keyboard, gebruikers manager...&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_other.py" line="64"/>
@@ -198,7 +200,7 @@
     <message>
         <location filename="../kaptan5/libkaptan/ui_other.py" line="61"/>
         <source>&lt;p&gt;KaOS community, mailing lists, chat rooms, documents, help and support pages...&lt;/p&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;p&gt;KaOS gemeenschap, verzendlijst, chat rooms, documenten, help and ondersteuning paginas...&lt;/p&gt;</translation>
     </message>
 </context>
 <context>
@@ -277,7 +279,7 @@
     <message>
         <location filename="../kaptan5/libkaptan/ui_summary.py" line="13"/>
         <source>&lt;p&gt;You have successfully finished all steps. Here&apos;s a summary of the settings you want to apply.         Click &lt;strong&gt;Apply Settings&lt;/strong&gt; to save them now. You are now ready to enjoy KaOS!&lt;/p&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;p&gt;Je hebt alle stappen voltooid. Hier is een overzicht van de instellingen die je wilt toepassen.         Klik &lt;strong&gt;Instellinger Toepassen&lt;/strong&gt; om ze nu te bewaren. U bent nu klaar om te genieten van KAOS!&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_summary.py" line="19"/>
@@ -480,37 +482,37 @@
     <message>
         <location filename="../kaptan5/libkaptan/ui_theme.py" line="13"/>
         <source>&lt;h2&gt;Customize Your Desktop&lt;/h2&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;h2&gt;Je Bureaublad Aanpassen&lt;/h2&gt;</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_theme.py" line="24"/>
         <source>&lt;p&gt;Choose your favorite theme and desktop type. Customize KaOS with different styles and themes.&lt;/p&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;p&gt;Kies je favoriete thema and bureaublad type. Pas KaOS aan met verschillende stijlen en themas.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_theme.py" line="70"/>
         <source>Desktop Type</source>
-        <translation type="unfinished"/>
+        <translation>Beraublad Type</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_theme.py" line="73"/>
         <source>Number of Desktops</source>
-        <translation type="unfinished"/>
+        <translation>Aantal Bureaubladen</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_theme.py" line="77"/>
         <source>Desktop View</source>
-        <translation type="unfinished"/>
+        <translation>Beraublad View</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_theme.py" line="78"/>
         <source>Folder View</source>
-        <translation type="unfinished"/>
+        <translation>Folder View</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_theme.py" line="87"/>
         <source>Add Show Desktop Plasmoid</source>
-        <translation type="unfinished"/>
+        <translation>Voeg de Toon Bureablad Plasmoid toe</translation>
     </message>
 </context>
 <context>
@@ -518,32 +520,32 @@
     <message>
         <location filename="../kaptan5/libkaptan/ui_wallpaper.py" line="12"/>
         <source>&lt;h2&gt;Choose Wallpaper&lt;/h2&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;h2&gt;Kies Wallpaper&lt;/h2&gt;</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_wallpaper.py" line="23"/>
         <source>&lt;p&gt;Choose your favorite wallpaper for KaOS. Don&apos;t forget to check out         &lt;strong&gt;Desktop Settings&lt;/strong&gt; for downloading new and cool wallpapers.&lt;/p&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;p&gt;Kies je favoriete wallpaper voor KaOS. Vergeet niet om de         &lt;strong&gt;Bureaublad Instellingen&lt;/strong&gt; na te kijken voor nieuwe en coole wallpapers.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_wallpaper.py" line="32"/>
         <source>Wallpapers</source>
-        <translation type="unfinished"/>
+        <translation>Wallpapers</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_wallpaper.py" line="46"/>
         <source>Choose wallpaper from file</source>
-        <translation type="unfinished"/>
+        <translation>Kies wallpaper van bestand</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_wallpaper.py" line="52"/>
         <source>Don&apos;t change wallpaper</source>
-        <translation type="unfinished"/>
+        <translation>Verander de wallpaper niet</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_wallpaper.py" line="100"/>
         <source>Choose wallpaper</source>
-        <translation type="unfinished"/>
+        <translation>Kies wallpaper</translation>
     </message>
 </context>
 <context>
@@ -551,7 +553,7 @@
     <message>
         <location filename="../kaptan5/libkaptan/ui_welcome.py" line="8"/>
         <source>&lt;h2&gt;Welcome to KaOS&lt;/h2&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;h2&gt;Welkom bij KaOS&lt;/h2&gt;</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_welcome.py" line="15"/>
@@ -562,7 +564,13 @@
         Plus a focus on evaluating and selecting the most suitable tools and applications.&lt;/p&gt;
         This wizard will help you personalize your KaOS workspace easily and quickly.&lt;p&gt;
         Please click &lt;i&gt;Next&lt;/i&gt; in order to begin.&lt;/p&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;h1&gt;Wat is KaOS?&lt;/h1&gt;
+        Het idee achter KaOS is om een nauw geïntegreerde rolling en&lt;p&gt;
+        transparante distributie voor de moderne desktop te maken, opgebouwd vanuit het niets met&lt;p&gt;
+        een zeer specifeke focus. Focus op één DE (KDE), één toolkit (Qt) &amp; één architectuur (x86_64).&lt;p&gt;
+        Plus een focus op de beoordeling en selectie van de meest geschikte tools en applicaties&lt;/p&gt;
+        Deze wizard zal je helpen je Kaos werkruimte gemakkelijk en snel te personaliseren.&lt;p&gt;
+        Gaarne klik &lt;i&gt;Volgende&lt;/i&gt; om te beginnnen.&lt;/p&gt;</translation>
     </message>
 </context>
 </TS>

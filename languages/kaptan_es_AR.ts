@@ -180,27 +180,27 @@ cuando quiera abrir un archivo. Si Ud. usa &lt;strong&gt;la mano izquierda&lt;/s
     <message>
         <location filename="../kaptan5/libkaptan/ui_other.py" line="20"/>
         <source>&lt;p&gt;&lt;strong&gt;Your settings have been applied.&lt;/strong&gt; Now you can start enjoying KaOS.         Don&apos;t forget to &lt;strong&gt;join our community!&lt;strong&gt;&lt;/p&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;p&gt;&lt;strong&gt;Se ha aplicado su configuración&lt;/strong&gt; Ahora puede empezar a distrutar KaOS. ¡No olvide &lt;strong&gt;unirse a nuestra comunidad!&lt;strong&gt;&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_other.py" line="40"/>
         <source>System Settings</source>
-        <translation type="unfinished"/>
+        <translation>Configuración del Sistema</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_other.py" line="37"/>
         <source>&lt;p&gt;Configuration tools for KaOS such as the display, network, keyboard, user manager...&lt;/p&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;p&gt;Herramientas de configuración para KaOS, para la pantalla, red, teclado, gestor de usuaros...&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_other.py" line="64"/>
         <source>Help and Support</source>
-        <translation type="unfinished"/>
+        <translation>Ayuda y Soporte</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_other.py" line="61"/>
         <source>&lt;p&gt;KaOS community, mailing lists, chat rooms, documents, help and support pages...&lt;/p&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;p&gt;Comunidad de KaOS, listas de correo, salas de chat, documentación, ayuda y páginas de soporte...&lt;/p&gt;</translation>
     </message>
 </context>
 <context>
@@ -208,22 +208,22 @@ cuando quiera abrir un archivo. Si Ud. usa &lt;strong&gt;la mano izquierda&lt;/s
     <message>
         <location filename="../kaptan5/libkaptan/tabwidget.py" line="396"/>
         <source>Preview</source>
-        <translation type="unfinished"/>
+        <translation>Vista previa</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/tabwidget.py" line="410"/>
         <source>Window Text</source>
-        <translation type="unfinished"/>
+        <translation>Texto de la Ventana</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/tabwidget.py" line="415"/>
         <source>Button</source>
-        <translation type="unfinished"/>
+        <translation>Botón</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/tabwidget.py" line="424"/>
         <source>&lt;p&gt;Normal text &lt;a id=&apos;unclicked&apos; href=&apos;#&apos;&gt;link&lt;/a&gt; &lt;a id=&apos;clicked&apos; href=&apos;#&apos;&gt;visited&lt;/a&gt;&lt;/p&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;p&gt;Texto normal &lt;a id=&apos;unclicked&apos; href=&apos;#&apos;&gt;link&lt;/a&gt; &lt;a id=&apos;clicked&apos; href=&apos;#&apos;&gt;visitado&lt;/a&gt;&lt;/p&gt;</translation>
     </message>
 </context>
 <context>
@@ -231,42 +231,42 @@ cuando quiera abrir un archivo. Si Ud. usa &lt;strong&gt;la mano izquierda&lt;/s
     <message>
         <location filename="../kaptan5/libkaptan/tabwidget.py" line="251"/>
         <source>Preview</source>
-        <translation type="unfinished"/>
+        <translation>Vista previa</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/tabwidget.py" line="268"/>
         <source>Group Box</source>
-        <translation type="unfinished"/>
+        <translation>Cuadro de Grupo</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/tabwidget.py" line="282"/>
         <source>Radio Button</source>
-        <translation type="unfinished"/>
+        <translation>Botón de selección excluyente</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/tabwidget.py" line="293"/>
         <source>Check Box</source>
-        <translation type="unfinished"/>
+        <translation>Casilla de Selección</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/tabwidget.py" line="324"/>
         <source>Button</source>
-        <translation type="unfinished"/>
+        <translation>Botón</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/tabwidget.py" line="332"/>
         <source>Combo Box</source>
-        <translation type="unfinished"/>
+        <translation>Cuadro de Combo</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/tabwidget.py" line="342"/>
         <source>Tab 1</source>
-        <translation type="unfinished"/>
+        <translation>Pestaña 1</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/tabwidget.py" line="347"/>
         <source>Tab 2</source>
-        <translation type="unfinished"/>
+        <translation>Pestaña 2</translation>
     </message>
 </context>
 <context>
@@ -274,62 +274,62 @@ cuando quiera abrir un archivo. Si Ud. usa &lt;strong&gt;la mano izquierda&lt;/s
     <message>
         <location filename="../kaptan5/libkaptan/ui_summary.py" line="7"/>
         <source>&lt;h2&gt;Save Your Settings&lt;/h2&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;h2&gt;Grabar Sus Configuraciones&lt;/h2&gt;</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_summary.py" line="13"/>
         <source>&lt;p&gt;You have successfully finished all steps. Here&apos;s a summary of the settings you want to apply.         Click &lt;strong&gt;Apply Settings&lt;/strong&gt; to save them now. You are now ready to enjoy KaOS!&lt;/p&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;p&gt;Ha terminado satisfactoriamente todos los pasos. Aquí hay un resumen de las configuraciones que quiere aplicar. Clic en &lt;strong&gt;Aplicar Configuraciones&lt;/strong&gt; para grabarlos ahora. ¡Ahora está listo para disfrutar KaOS!&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_summary.py" line="19"/>
         <source>The following settings will be applied</source>
-        <translation type="unfinished"/>
+        <translation>Se aplicarán las siguientes configuraciones</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_summary.py" line="58"/>
         <source>Right Handed</source>
-        <translation type="unfinished"/>
+        <translation>Diestro</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_summary.py" line="60"/>
         <source>Left Handed</source>
-        <translation type="unfinished"/>
+        <translation>Zurdo</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_summary.py" line="63"/>
         <source>Single Click</source>
-        <translation type="unfinished"/>
+        <translation>Un Sólo Clic</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_summary.py" line="65"/>
         <source>Double Click</source>
-        <translation type="unfinished"/>
+        <translation>Doble Clic</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_summary.py" line="68"/>
         <source>Desktop View</source>
-        <translation type="unfinished"/>
+        <translation>Vista del Escritorio</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_summary.py" line="70"/>
         <source>Folder View</source>
-        <translation type="unfinished"/>
+        <translation>Vista de Carpeta</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_summary.py" line="73"/>
         <source>Application Launcher</source>
-        <translation type="unfinished"/>
+        <translation>Lanzador de Aplicaciones</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_summary.py" line="75"/>
         <source>Application Menu</source>
-        <translation type="unfinished"/>
+        <translation>Menú de Aplicaciones</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_summary.py" line="77"/>
         <source>Application Panel</source>
-        <translation type="unfinished"/>
+        <translation>Tablero de Aplicaciones</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_summary.py" line="89"/>
@@ -358,12 +358,36 @@ cuando quiera abrir un archivo. Si Ud. usa &lt;strong&gt;la mano izquierda&lt;/s
                 &lt;/ul&gt;
             &lt;/li&gt;
         &lt;/ul&gt;</source>
-        <translation type="unfinished"/>
+        <translation>
+        &lt;ul&gt;
+            &lt;li&gt;&lt;strong&gt;Opciones de Ratón&lt;/strong&gt;
+            &lt;/li&gt;
+                &lt;ul&gt;
+                    &lt;li&gt;Mano Seleccionada: &lt;strong&gt;{}&lt;/strong&gt;&lt;/li&gt;
+                    &lt;li&gt;Comportamiento del Ratón Seleccionado: &lt;strong&gt;{}&lt;/strong&gt;&lt;/li&gt;
+                &lt;/ul&gt;
+            &lt;li&gt;&lt;strong&gt;Opciones de Tema&lt;/strong&gt;
+                &lt;ul&gt;
+                    &lt;li&gt;Recuento de Escritorio: &lt;strong&gt;{}&lt;/strong&gt;&lt;/li&gt;
+                    &lt;li&gt;Tipo de Escritorio: &lt;strong&gt;{}&lt;/strong&gt;&lt;/li&gt;
+                    &lt;li&gt;Estilo de Widget: &lt;strong&gt;{}&lt;/strong&gt;&lt;/li&gt;
+                    &lt;li&gt;Estilo de Ventana: &lt;strong&gt;{}&lt;/strong&gt;&lt;/li&gt;
+                    &lt;li&gt;Esquema de Color: &lt;strong&gt;{}&lt;/strong&gt;&lt;/li&gt;
+                    &lt;li&gt;Tema de Escritorio: &lt;strong&gt;{}&lt;/strong&gt;&lt;/li&gt;
+                    &lt;li&gt;Conjunto de Iconos: &lt;strong&gt;{}&lt;/strong&gt;&lt;/li&gt;
+                &lt;/ul&gt;
+            &lt;/li&gt;
+            &lt;li&gt;&lt;strong&gt;Opción de Menú&lt;/strong&gt;
+                &lt;ul&gt;
+                    &lt;li&gt;Menú Seleccionado: &lt;strong&gt;{}&lt;/strong&gt;&lt;/li&gt;
+                &lt;/ul&gt;
+            &lt;/li&gt;
+        &lt;/ul&gt;</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_summary.py" line="135"/>
         <source>Unspecified.</source>
-        <translation type="unfinished"/>
+        <translation>Sin especificar.</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_summary.py" line="121"/>
@@ -380,7 +404,19 @@ cuando quiera abrir un archivo. Si Ud. usa &lt;strong&gt;la mano izquierda&lt;/s
                 &lt;/ul&gt;
             &lt;/li&gt;
         &lt;/ul&gt;</source>
-        <translation type="unfinished"/>
+        <translation>
+        &lt;ul&gt;
+            &lt;li&gt;&lt;strong&gt;Wallpaper Seleccionado&lt;/strong&gt;
+                &lt;ul&gt;
+                    &lt;li&gt;&lt;strong&gt;{}&lt;/strong&gt;&lt;/li&gt;
+                &lt;/ul&gt;
+            &lt;/li&gt;
+            &lt;li&gt;&lt;strong&gt;Avatar Seleccionado&lt;/strong&gt;
+                &lt;ul&gt;
+                    &lt;li&gt;&lt;strong&gt;{}&lt;/strong&gt;&lt;/li&gt;
+                &lt;/ul&gt;
+            &lt;/li&gt;
+        &lt;/ul&gt;</translation>
     </message>
 </context>
 <context>
@@ -388,57 +424,57 @@ cuando quiera abrir un archivo. Si Ud. usa &lt;strong&gt;la mano izquierda&lt;/s
     <message>
         <location filename="../kaptan5/libkaptan/tabwidget.py" line="38"/>
         <source>Widget Style:</source>
-        <translation type="unfinished"/>
+        <translation>Estilo de Widget:</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/tabwidget.py" line="44"/>
         <source>QtCurve</source>
-        <translation type="unfinished"/>
+        <translation>QtCurve</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/tabwidget.py" line="45"/>
         <source>Breeze</source>
-        <translation type="unfinished"/>
+        <translation>Breeze</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/tabwidget.py" line="46"/>
         <source>Oxygen</source>
-        <translation type="unfinished"/>
+        <translation>Oxygen</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/tabwidget.py" line="47"/>
         <source>Fusion</source>
-        <translation type="unfinished"/>
+        <translation>Fusion</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/tabwidget.py" line="61"/>
         <source>Widget Style</source>
-        <translation type="unfinished"/>
+        <translation>Estilo de Widget</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/tabwidget.py" line="120"/>
         <source>Window Style</source>
-        <translation type="unfinished"/>
+        <translation>Estilo de Ventana</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/tabwidget.py" line="147"/>
         <source>Color Scheme</source>
-        <translation type="unfinished"/>
+        <translation>Esquema de Color</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/tabwidget.py" line="152"/>
         <source>&lt;p&gt;Normal text &lt;a id=&apos;unclicked&apos; href=&apos;#&apos;&gt;link&lt;/a&gt; &lt;a id=&apos;clicked&apos; href=&apos;#&apos;&gt;visited&lt;/a&gt;&lt;/p&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;p&gt;Texto Normal &lt;a id=&apos;unclicked&apos; href=&apos;#&apos;&gt;link&lt;/a&gt; &lt;a id=&apos;clicked&apos; href=&apos;#&apos;&gt;visitado&lt;/a&gt;&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/tabwidget.py" line="212"/>
         <source>Desktop Theme</source>
-        <translation type="unfinished"/>
+        <translation>Tema de Escritorio</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/tabwidget.py" line="245"/>
         <source>Icon Set</source>
-        <translation type="unfinished"/>
+        <translation>Conjunto de Iconos</translation>
     </message>
 </context>
 <context>
@@ -446,37 +482,37 @@ cuando quiera abrir un archivo. Si Ud. usa &lt;strong&gt;la mano izquierda&lt;/s
     <message>
         <location filename="../kaptan5/libkaptan/ui_theme.py" line="13"/>
         <source>&lt;h2&gt;Customize Your Desktop&lt;/h2&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;h2&gt;Personalice Su Escritorio&lt;/h2&gt;</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_theme.py" line="24"/>
         <source>&lt;p&gt;Choose your favorite theme and desktop type. Customize KaOS with different styles and themes.&lt;/p&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;p&gt;Escoja su tema favorito y tipo de escritorio. Personalice KaOS con diferentes estilos y temas.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_theme.py" line="70"/>
         <source>Desktop Type</source>
-        <translation type="unfinished"/>
+        <translation>Tipo de Escritorio</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_theme.py" line="73"/>
         <source>Number of Desktops</source>
-        <translation type="unfinished"/>
+        <translation>Número de Escritorios</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_theme.py" line="77"/>
         <source>Desktop View</source>
-        <translation type="unfinished"/>
+        <translation>Vista de Escritorio</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_theme.py" line="78"/>
         <source>Folder View</source>
-        <translation type="unfinished"/>
+        <translation>Vista de Carpeta</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_theme.py" line="87"/>
         <source>Add Show Desktop Plasmoid</source>
-        <translation type="unfinished"/>
+        <translation>Añadir Plasmoide Mostrar Escritorio</translation>
     </message>
 </context>
 <context>
@@ -484,32 +520,32 @@ cuando quiera abrir un archivo. Si Ud. usa &lt;strong&gt;la mano izquierda&lt;/s
     <message>
         <location filename="../kaptan5/libkaptan/ui_wallpaper.py" line="12"/>
         <source>&lt;h2&gt;Choose Wallpaper&lt;/h2&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;h2&gt;Escoja Wallpaper&lt;/h2&gt;</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_wallpaper.py" line="23"/>
         <source>&lt;p&gt;Choose your favorite wallpaper for KaOS. Don&apos;t forget to check out         &lt;strong&gt;Desktop Settings&lt;/strong&gt; for downloading new and cool wallpapers.&lt;/p&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;p&gt;Escoja su wallpaper favorito para KaOS. No olvide pasar por &lt;strong&gt;Preferencias de Escritorio&lt;/strong&gt; para descargar nuevos y fabulosos wallpapers.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_wallpaper.py" line="32"/>
         <source>Wallpapers</source>
-        <translation type="unfinished"/>
+        <translation>Wallpapers</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_wallpaper.py" line="46"/>
         <source>Choose wallpaper from file</source>
-        <translation type="unfinished"/>
+        <translation>Escoja wallpaper desde archivo</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_wallpaper.py" line="52"/>
         <source>Don&apos;t change wallpaper</source>
-        <translation type="unfinished"/>
+        <translation>No cambiar wallpaper</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_wallpaper.py" line="100"/>
         <source>Choose wallpaper</source>
-        <translation type="unfinished"/>
+        <translation>Escoja Wallpaper</translation>
     </message>
 </context>
 <context>
@@ -517,7 +553,7 @@ cuando quiera abrir un archivo. Si Ud. usa &lt;strong&gt;la mano izquierda&lt;/s
     <message>
         <location filename="../kaptan5/libkaptan/ui_welcome.py" line="8"/>
         <source>&lt;h2&gt;Welcome to KaOS&lt;/h2&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;h2&gt;Bienvenido a KaOS&lt;/h2&gt;</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_welcome.py" line="15"/>
@@ -528,7 +564,13 @@ cuando quiera abrir un archivo. Si Ud. usa &lt;strong&gt;la mano izquierda&lt;/s
         Plus a focus on evaluating and selecting the most suitable tools and applications.&lt;/p&gt;
         This wizard will help you personalize your KaOS workspace easily and quickly.&lt;p&gt;
         Please click &lt;i&gt;Next&lt;/i&gt; in order to begin.&lt;/p&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;h1&gt;¿Qué es KaOS?&lt;/h1&gt;
+KaOS nace con la idea de crear una distribución rolling transparente y&lt;p&gt;
+plenamente integrada en un escritorio moderno. KaOS, construida desde cero,&lt;p&gt;
+está exclusivamente centrada en un sólo DE (KDE), en un sólo toolkit (Qt) y sólo una arquitectura (x86_64).&lt;p&gt;
+Además, se realiza una cuidadosa evaluación y selección de las mejores herramientas y aplicaciones.&lt;/p&gt;
+Este asistente le ayudará a personalizar el espacio de trabajo de su KaOS fácil y rápidamente.&lt;p&gt;
+Por favor haga clic en &lt;i&gt;Siguiente&lt;/i&gt; para comenzar.&lt;/p&gt;</translation>
     </message>
 </context>
 </TS>
