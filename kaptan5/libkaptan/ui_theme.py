@@ -90,6 +90,7 @@ class ThemeWidget(QWizardPage):
 
     def windowStyleSelect(self, item):
         self.windowStyle = item.setStyleText
+        self.winDeco = item.themeText
 
     def widgetStyleSelect(self, text):
         self.widgetStyle = text.lower()
@@ -136,10 +137,7 @@ class ThemeWidget(QWizardPage):
         if self.windowStyle != None:
             settings = QSettings(join(QDir.homePath(), ".config", "kwinrc"), QSettings.IniFormat)
             settings.setValue("org.kde.kdecoration2/library", self.windowStyle)
-            settings.sync()
-        if self.windowStyle == "org.kde.kwin.aurorae":
-            settings = QSettings(join(QDir.homePath(), ".config", "kwinrc"), QSettings.IniFormat)
-            settings.setValue("org.kde.kdecoration2/theme", self.windowTheme)
+            settings.setValue("org.kde.kdecoration2/theme", self.winDeco)
             settings.sync()
 
             prc = QProcess()

@@ -20,7 +20,6 @@ for l in listdir('languages'):
 system('pyrcc5 kaptan.qrc -o kaptan5/rc_kaptan.py')
 
 datas = [('/usr/share/applications', ['data/kaptan.desktop']),
-         ('/etc/skel/.config/autostart', ['data/kaptan.desktop']),
          ('/usr/share/icons/hicolor/64x64/apps', ['data/images/kaptan.svg']),
          ('/usr/share/kaptan/languages', langs)]
 
@@ -30,7 +29,7 @@ setup(
     packages = find_packages(),
     version = "5.0",
     license = "GPL v3",
-    description = "KaoS desktop configurate.",
+    description = "KaOS desktop configuration wizard.",
     author = "Metehan Özbek, Anke Boermsa",
     author_email = "mthnzbk@gmail.com, demm@kaosx.us",
     url = "https://github.com/KaOSx/kaptan",

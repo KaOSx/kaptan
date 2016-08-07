@@ -84,36 +84,42 @@ class ThemeTabWidget(QTabWidget):
         item.setIcon(icon)
         item.setText("Breeze")
         item.setStyleText = "org.kde.breeze"
+        item.themeText = ""
         item = QListWidgetItem(self.listWidgetWindowStyle)
         icon = QIcon()
         icon.addPixmap(QPixmap(":/data/images/midna-flat_deco.png"))
         item.setIcon(icon)
-        item.setText("__aurorae__svg__MidnaFlatNarrow")
+        item.setText("Midna Flat")
         item.setStyleText = "org.kde.kwin.aurorae"
+        item.themeText = "__aurorae__svg__MidnaFlatNarrow"
         item = QListWidgetItem(self.listWidgetWindowStyle)
         icon = QIcon()
         icon.addPixmap(QPixmap(":/data/images/midna-dark_deco.png"))
         item.setIcon(icon)
-        item.setText("__aurorae__svg__MidnaDark")
+        item.setText("Midna Dark")
         item.setStyleText = "org.kde.kwin.aurorae"
+        item.themeText = "__aurorae__svg__MidnaDark"
         item = QListWidgetItem(self.listWidgetWindowStyle)
         icon = QIcon()
         icon.addPixmap(QPixmap(":/data/images/midna-grey_deco.png"))
         item.setIcon(icon)
-        item.setText("__aurorae__svg__MidnaFlatWideGray")
+        item.setText("Midna Gray")
         item.setStyleText = "org.kde.kwin.aurorae"
+        item.themeText = "__aurorae__svg__MidnaFlatWideGray"
         item = QListWidgetItem(self.listWidgetWindowStyle)
         icon = QIcon()
         icon.addPixmap(QPixmap(":/data/images/midna-wide_deco.png"))
         item.setIcon(icon)
-        item.setText("__aurorae__svg__MidnaFlatWideBlue")
+        item.setText("Midna Wide")
         item.setStyleText = "org.kde.kwin.aurorae"
+        item.themeText = "__aurorae__svg__MidnaFlatWideBlue"
         item = QListWidgetItem(self.listWidgetWindowStyle)
         icon1 = QIcon()
         icon1.addPixmap(QPixmap(":/data/images/oxygen_deco.png"))
         item.setIcon(icon1)
         item.setText("Oxygen")
         item.setStyleText = "org.kde.oxygen"
+        item.themeText = ""
 
         self.verticalLayout_6.addWidget(self.listWidgetWindowStyle)
 

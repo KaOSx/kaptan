@@ -9,9 +9,9 @@ class OtherWidget(QWizardPage):
         super().__init__(parent)
         self.setSubTitle(self.tr("<h2>Congratulations!</h2>"))
 
-        self.homepage_url = "https://kaosx.us/about"
-        self.forum_url = "http://forum.kaosx.us"
-        self.wiki_url = "http://kaosx.us/docs"
+        self.homepage_url = "https://kaosx.us/"
+        self.forum_url = "http://kaosx.us/about/contact/"
+        self.wiki_url = "http://kaosx.us/docs/"
 
         vlayout = QVBoxLayout(self)
 
