@@ -71,8 +71,8 @@
     </message>
     <message>
         <location filename="../kaptan5/kaptan.py" line="15"/>
-        <source>Kapta Desktop</source>
-        <translation>Bureau Kapta</translation>
+        <source>Kaptan Desktop</source>
+        <translation>Bureau Kaptan</translation>
     </message>
 </context>
 <context>
@@ -93,11 +93,6 @@
         <translation>&lt;p&gt;Le lanceur d’application est le lanceur standard pour KDE. Les raccourcis applications sont organisés dans une structure en onglets.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../kaptan5/libkaptan/ui_menu.py" line="18"/>
-        <source>&lt;p&gt;Aplication Panel is a full screen menu style.             Application shortcuts are arranged so that you can access them quickly and easily.&lt;/p&gt;</source>
-        <translation>&lt;p&gt;Le tableau de bord des applications et le style de menu en plein écran. Les raccourcis des applications sont arrangés pour y accéder rapidement et facilement.&lt;/p</translation>
-    </message>
-    <message>
         <location filename="../kaptan5/libkaptan/ui_menu.py" line="36"/>
         <source>&lt;p&gt;You can also customize your &lt;strong&gt;KDE menu&lt;/strong&gt; as you like.         Please choose one from the following styles.&lt;/p&gt;</source>
         <translation>&lt;p&gt;Vous pouvez également configurer &lt;strong&gt;le menu KDE&lt;/strong&gt; comme vous le souhaitez. Veuillez choisir un des styles suivants.&lt;/p&gt;</translation>
@@ -116,6 +111,11 @@
         <location filename="../kaptan5/libkaptan/ui_menu.py" line="46"/>
         <source>Application Dashboard</source>
         <translation>Tableau de bord des applications</translation>
+    </message>
+    <message>
+        <location filename="../kaptan5/libkaptan/ui_menu.py" line="18"/>
+        <source>&lt;p&gt;Application Panel is a full screen menu style.             Application shortcuts are arranged so that you can access them quickly and easily.&lt;/p&gt;</source>
+        <translation>&lt;p&gt;Le tableau de bord des applications et le style de menu en plein écran. Les raccourcis des applications sont arrangés pour y accéder rapidement et facilement.&lt;/p</translation>
     </message>
 </context>
 <context>
@@ -140,12 +140,12 @@ inverser les boutons gauche et droit de votre souris.&lt;/p&gt;</translation>
         <translation>Comportement du clic</translation>
     </message>
     <message>
-        <location filename="../kaptan5/libkaptan/ui_mouse.py" line="54"/>
+        <location filename="../kaptan5/libkaptan/ui_mouse.py" line="59"/>
         <source>Double-click to open files and folders.</source>
         <translation>Double-cliquez pour ouvrir des fichiers et des dossiers.</translation>
     </message>
     <message>
-        <location filename="../kaptan5/libkaptan/ui_mouse.py" line="59"/>
+        <location filename="../kaptan5/libkaptan/ui_mouse.py" line="54"/>
         <source>Single-click to open files and folders.</source>
         <translation>Cliquez une fois pour ouvrir des fichiers et des dossiers.</translation>
     </message>
@@ -206,22 +206,22 @@ inverser les boutons gauche et droit de votre souris.&lt;/p&gt;</translation>
 <context>
     <name>PreviewWidgetColor</name>
     <message>
-        <location filename="../kaptan5/libkaptan/tabwidget.py" line="396"/>
+        <location filename="../kaptan5/libkaptan/tabwidget.py" line="404"/>
         <source>Preview</source>
         <translation>Prévisualiser</translation>
     </message>
     <message>
-        <location filename="../kaptan5/libkaptan/tabwidget.py" line="410"/>
+        <location filename="../kaptan5/libkaptan/tabwidget.py" line="418"/>
         <source>Window Text</source>
         <translation>Texte de fenêtre</translation>
     </message>
     <message>
-        <location filename="../kaptan5/libkaptan/tabwidget.py" line="415"/>
+        <location filename="../kaptan5/libkaptan/tabwidget.py" line="423"/>
         <source>Button</source>
         <translation>Bouton</translation>
     </message>
     <message>
-        <location filename="../kaptan5/libkaptan/tabwidget.py" line="424"/>
+        <location filename="../kaptan5/libkaptan/tabwidget.py" line="432"/>
         <source>&lt;p&gt;Normal text &lt;a id=&apos;unclicked&apos; href=&apos;#&apos;&gt;link&lt;/a&gt; &lt;a id=&apos;clicked&apos; href=&apos;#&apos;&gt;visited&lt;/a&gt;&lt;/p&gt;</source>
         <translation>&lt;p&gt;Texte normal &lt;a id=&apos;unclicked&apos; href=&apos;#&apos;&gt;lien&lt;/a&gt; &lt;a id=&apos;clicked&apos; href=&apos;#&apos;&gt;visité&lt;/a&gt;&lt;/p&gt;</translation>
     </message>
@@ -229,42 +229,42 @@ inverser les boutons gauche et droit de votre souris.&lt;/p&gt;</translation>
 <context>
     <name>PreviewWidgetStyle</name>
     <message>
-        <location filename="../kaptan5/libkaptan/tabwidget.py" line="251"/>
+        <location filename="../kaptan5/libkaptan/tabwidget.py" line="259"/>
         <source>Preview</source>
         <translation>Prévisualiser</translation>
     </message>
     <message>
-        <location filename="../kaptan5/libkaptan/tabwidget.py" line="268"/>
+        <location filename="../kaptan5/libkaptan/tabwidget.py" line="276"/>
         <source>Group Box</source>
         <translation>Boîte de groupe</translation>
     </message>
     <message>
-        <location filename="../kaptan5/libkaptan/tabwidget.py" line="282"/>
+        <location filename="../kaptan5/libkaptan/tabwidget.py" line="290"/>
         <source>Radio Button</source>
         <translation>Bouton radio</translation>
     </message>
     <message>
-        <location filename="../kaptan5/libkaptan/tabwidget.py" line="293"/>
+        <location filename="../kaptan5/libkaptan/tabwidget.py" line="301"/>
         <source>Check Box</source>
         <translation>Case à cocher</translation>
     </message>
     <message>
-        <location filename="../kaptan5/libkaptan/tabwidget.py" line="324"/>
+        <location filename="../kaptan5/libkaptan/tabwidget.py" line="332"/>
         <source>Button</source>
         <translation>Bouton</translation>
     </message>
     <message>
-        <location filename="../kaptan5/libkaptan/tabwidget.py" line="332"/>
+        <location filename="../kaptan5/libkaptan/tabwidget.py" line="340"/>
         <source>Combo Box</source>
         <translation>Liste déroulante</translation>
     </message>
     <message>
-        <location filename="../kaptan5/libkaptan/tabwidget.py" line="342"/>
+        <location filename="../kaptan5/libkaptan/tabwidget.py" line="350"/>
         <source>Tab 1</source>
         <translation>Onglet 1</translation>
     </message>
     <message>
-        <location filename="../kaptan5/libkaptan/tabwidget.py" line="347"/>
+        <location filename="../kaptan5/libkaptan/tabwidget.py" line="355"/>
         <source>Tab 2</source>
         <translation>Onglet 2</translation>
     </message>
@@ -452,27 +452,27 @@ inverser les boutons gauche et droit de votre souris.&lt;/p&gt;</translation>
         <translation>Style de widgets</translation>
     </message>
     <message>
-        <location filename="../kaptan5/libkaptan/tabwidget.py" line="120"/>
+        <location filename="../kaptan5/libkaptan/tabwidget.py" line="128"/>
         <source>Window Style</source>
         <translation>Style de fenêtres</translation>
     </message>
     <message>
-        <location filename="../kaptan5/libkaptan/tabwidget.py" line="147"/>
+        <location filename="../kaptan5/libkaptan/tabwidget.py" line="155"/>
         <source>Color Scheme</source>
         <translation>Schéma de couleurs</translation>
     </message>
     <message>
-        <location filename="../kaptan5/libkaptan/tabwidget.py" line="152"/>
+        <location filename="../kaptan5/libkaptan/tabwidget.py" line="160"/>
         <source>&lt;p&gt;Normal text &lt;a id=&apos;unclicked&apos; href=&apos;#&apos;&gt;link&lt;/a&gt; &lt;a id=&apos;clicked&apos; href=&apos;#&apos;&gt;visited&lt;/a&gt;&lt;/p&gt;</source>
         <translation>&lt;p&gt;Texte normal &lt;a id=&apos;unclicked&apos; href=&apos;#&apos;&gt;lien&lt;/a&gt; &lt;a id=&apos;clicked&apos; href=&apos;#&apos;&gt;visité&lt;/a&gt;&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../kaptan5/libkaptan/tabwidget.py" line="212"/>
+        <location filename="../kaptan5/libkaptan/tabwidget.py" line="220"/>
         <source>Desktop Theme</source>
         <translation>Thème de bureau</translation>
     </message>
     <message>
-        <location filename="../kaptan5/libkaptan/tabwidget.py" line="245"/>
+        <location filename="../kaptan5/libkaptan/tabwidget.py" line="253"/>
         <source>Icon Set</source>
         <translation>Set d’icônes</translation>
     </message>
@@ -563,14 +563,16 @@ inverser les boutons gauche et droit de votre souris.&lt;/p&gt;</translation>
         a very specific focus. Focus on one DE (KDE), one toolkit (Qt) &amp; one architecture (x86_64).&lt;p&gt;
         Plus a focus on evaluating and selecting the most suitable tools and applications.&lt;/p&gt;
         This wizard will help you personalize your KaOS workspace easily and quickly.&lt;p&gt;
-        Please click &lt;i&gt;Next&lt;/i&gt; in order to begin.&lt;/p&gt;</source>
+        Please click &lt;i&gt;Next&lt;/i&gt; in order to begin. Click &lt;i&gt;Cancel&lt;/i&gt; anytime and changes won't be saved,&lt;/p&gt;
+        click &lt;i&gt;close window&lt;/i&gt; or &lt;i&gt;Close&lt;/i&gt; and the wizard won&apos;t autostart any longer.&lt;/p&gt;</source>
         <translation>&lt;h1&gt;Qu’est-ce que KaOS ?&gt;/h1&gt;
 L’idée derrière KaOS est de créer une distribution entièrement rolling et transparente,
 avec un bureau moderne, conçue à partir de zéro
 et focalisée sur des éléments précis : un bureau (KDE), un toolkit (Qt), une architecture (x86_64)
 ainsi qu’un soin apporté pour évaluer et sélectionner les meilleurs outils et applications.
 Cet outil va vous aider à personnaliser l’espace de travail KaOS facilement et rapidement.
-Veuillez cliquer sur &lt;i&gt;Suivant&lt;/i&gt; afin de commencer.</translation>
+Veuillez cliquer sur &lt;i&gt;Suivant&lt;/i&gt; afin de commencer.
+Si vous cliquez sur &lt;i&gt;Fermer la fenêtre&lt;/i&gt; ou sur le bouton &lt;i&gt;Fermer&lt;/i&gt; l’aide à la configuration ne démarrera plus automatiquement.</translation>
     </message>
 </context>
 </TS>

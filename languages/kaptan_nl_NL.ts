@@ -71,7 +71,7 @@
     </message>
     <message>
         <location filename="../kaptan5/kaptan.py" line="15"/>
-        <source>Kapta Desktop</source>
+        <source>Kaptan Desktop</source>
         <translation>Kaptan Desktop</translation>
     </message>
 </context>
@@ -93,11 +93,6 @@
         <translation>&lt;p&gt;Application Launcher is de standaard voor KDE. Snelkoppelingen naar applicaties zijn gerangschikt onder een tab structuur.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../kaptan5/libkaptan/ui_menu.py" line="18"/>
-        <source>&lt;p&gt;Aplication Panel is a full screen menu style.             Application shortcuts are arranged so that you can access them quickly and easily.&lt;/p&gt;</source>
-        <translation>&lt;p&gt;Aplication Panel is een full screen menu stijl. Snelkoppelingen naar applicaties zijn gerangschikt, zodat u deze snel en gemakkelijk kunt openen.&lt;/p&gt;</translation>
-    </message>
-    <message>
         <location filename="../kaptan5/libkaptan/ui_menu.py" line="36"/>
         <source>&lt;p&gt;You can also customize your &lt;strong&gt;KDE menu&lt;/strong&gt; as you like.         Please choose one from the following styles.&lt;/p&gt;</source>
         <translation>&lt;p&gt;Je kunt ook je&lt;strong&gt;KDE menu&lt;/strong&gt; naar wens aanpassen.  Kies een van de volgende stijlen.&lt;/p&gt;</translation>
@@ -116,6 +111,11 @@
         <location filename="../kaptan5/libkaptan/ui_menu.py" line="46"/>
         <source>Application Dashboard</source>
         <translation>Application Dashboard</translation>
+    </message>
+    <message>
+        <location filename="../kaptan5/libkaptan/ui_menu.py" line="18"/>
+        <source>&lt;p&gt;Application Panel is a full screen menu style.             Application shortcuts are arranged so that you can access them quickly and easily.&lt;/p&gt;</source>
+        <translation>&lt;p&gt;Application Panel is een full screen menu stijl. Snelkoppelingen naar applicaties zijn gerangschikt, zodat u deze snel en gemakkelijk kunt openen.&lt;/p&gt;</translation>
     </message>
 </context>
 <context>
@@ -140,12 +140,12 @@
         <translation>Klik Gedrag</translation>
     </message>
     <message>
-        <location filename="../kaptan5/libkaptan/ui_mouse.py" line="54"/>
+        <location filename="../kaptan5/libkaptan/ui_mouse.py" line="59"/>
         <source>Double-click to open files and folders.</source>
         <translation>Dubbelklik om bestanden en mappen te openen.</translation>
     </message>
     <message>
-        <location filename="../kaptan5/libkaptan/ui_mouse.py" line="59"/>
+        <location filename="../kaptan5/libkaptan/ui_mouse.py" line="54"/>
         <source>Single-click to open files and folders.</source>
         <translation>Enkele klik om bestanden en mappen te openen.</translation>
     </message>
@@ -206,22 +206,22 @@
 <context>
     <name>PreviewWidgetColor</name>
     <message>
-        <location filename="../kaptan5/libkaptan/tabwidget.py" line="396"/>
+        <location filename="../kaptan5/libkaptan/tabwidget.py" line="404"/>
         <source>Preview</source>
         <translation>Voorbeeld</translation>
     </message>
     <message>
-        <location filename="../kaptan5/libkaptan/tabwidget.py" line="410"/>
+        <location filename="../kaptan5/libkaptan/tabwidget.py" line="418"/>
         <source>Window Text</source>
         <translation>Venster Text</translation>
     </message>
     <message>
-        <location filename="../kaptan5/libkaptan/tabwidget.py" line="415"/>
+        <location filename="../kaptan5/libkaptan/tabwidget.py" line="423"/>
         <source>Button</source>
         <translation>Knop</translation>
     </message>
     <message>
-        <location filename="../kaptan5/libkaptan/tabwidget.py" line="424"/>
+        <location filename="../kaptan5/libkaptan/tabwidget.py" line="432"/>
         <source>&lt;p&gt;Normal text &lt;a id=&apos;unclicked&apos; href=&apos;#&apos;&gt;link&lt;/a&gt; &lt;a id=&apos;clicked&apos; href=&apos;#&apos;&gt;visited&lt;/a&gt;&lt;/p&gt;</source>
         <translation>&lt;p&gt;Normale text &lt;a id=&apos;unclicked&apos; href=&apos;#&apos;&gt;link&lt;/a&gt; &lt;a id=&apos;clicked&apos; href=&apos;#&apos;&gt;visited&lt;/a&gt;&lt;/p&gt;</translation>
     </message>
@@ -229,42 +229,42 @@
 <context>
     <name>PreviewWidgetStyle</name>
     <message>
-        <location filename="../kaptan5/libkaptan/tabwidget.py" line="251"/>
+        <location filename="../kaptan5/libkaptan/tabwidget.py" line="259"/>
         <source>Preview</source>
         <translation>Voorbeeld</translation>
     </message>
     <message>
-        <location filename="../kaptan5/libkaptan/tabwidget.py" line="268"/>
+        <location filename="../kaptan5/libkaptan/tabwidget.py" line="276"/>
         <source>Group Box</source>
         <translation>Groepsvak</translation>
     </message>
     <message>
-        <location filename="../kaptan5/libkaptan/tabwidget.py" line="282"/>
+        <location filename="../kaptan5/libkaptan/tabwidget.py" line="290"/>
         <source>Radio Button</source>
         <translation>Radio Knop</translation>
     </message>
     <message>
-        <location filename="../kaptan5/libkaptan/tabwidget.py" line="293"/>
+        <location filename="../kaptan5/libkaptan/tabwidget.py" line="301"/>
         <source>Check Box</source>
         <translation>Selectievak</translation>
     </message>
     <message>
-        <location filename="../kaptan5/libkaptan/tabwidget.py" line="324"/>
+        <location filename="../kaptan5/libkaptan/tabwidget.py" line="332"/>
         <source>Button</source>
         <translation>Knop</translation>
     </message>
     <message>
-        <location filename="../kaptan5/libkaptan/tabwidget.py" line="332"/>
+        <location filename="../kaptan5/libkaptan/tabwidget.py" line="340"/>
         <source>Combo Box</source>
         <translation>Combobox</translation>
     </message>
     <message>
-        <location filename="../kaptan5/libkaptan/tabwidget.py" line="342"/>
+        <location filename="../kaptan5/libkaptan/tabwidget.py" line="350"/>
         <source>Tab 1</source>
         <translation>Tab 1</translation>
     </message>
     <message>
-        <location filename="../kaptan5/libkaptan/tabwidget.py" line="347"/>
+        <location filename="../kaptan5/libkaptan/tabwidget.py" line="355"/>
         <source>Tab 2</source>
         <translation>Tab 2</translation>
     </message>
@@ -452,27 +452,27 @@
         <translation>Widget Stijl</translation>
     </message>
     <message>
-        <location filename="../kaptan5/libkaptan/tabwidget.py" line="120"/>
+        <location filename="../kaptan5/libkaptan/tabwidget.py" line="128"/>
         <source>Window Style</source>
         <translation>Window Stijl</translation>
     </message>
     <message>
-        <location filename="../kaptan5/libkaptan/tabwidget.py" line="147"/>
+        <location filename="../kaptan5/libkaptan/tabwidget.py" line="155"/>
         <source>Color Scheme</source>
         <translation>Kleurenschema</translation>
     </message>
     <message>
-        <location filename="../kaptan5/libkaptan/tabwidget.py" line="152"/>
+        <location filename="../kaptan5/libkaptan/tabwidget.py" line="160"/>
         <source>&lt;p&gt;Normal text &lt;a id=&apos;unclicked&apos; href=&apos;#&apos;&gt;link&lt;/a&gt; &lt;a id=&apos;clicked&apos; href=&apos;#&apos;&gt;visited&lt;/a&gt;&lt;/p&gt;</source>
         <translation>&lt;p&gt;Normale text &lt;a id=&apos;unclicked&apos; href=&apos;#&apos;&gt;link&lt;/a&gt; &lt;a id=&apos;clicked&apos; href=&apos;#&apos;&gt;visited&lt;/a&gt;&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../kaptan5/libkaptan/tabwidget.py" line="212"/>
+        <location filename="../kaptan5/libkaptan/tabwidget.py" line="220"/>
         <source>Desktop Theme</source>
         <translation>Beraublad Thema</translation>
     </message>
     <message>
-        <location filename="../kaptan5/libkaptan/tabwidget.py" line="245"/>
+        <location filename="../kaptan5/libkaptan/tabwidget.py" line="253"/>
         <source>Icon Set</source>
         <translation>Iconen Set</translation>
     </message>
@@ -563,14 +563,16 @@
         a very specific focus. Focus on one DE (KDE), one toolkit (Qt) &amp; one architecture (x86_64).&lt;p&gt;
         Plus a focus on evaluating and selecting the most suitable tools and applications.&lt;/p&gt;
         This wizard will help you personalize your KaOS workspace easily and quickly.&lt;p&gt;
-        Please click &lt;i&gt;Next&lt;/i&gt; in order to begin.&lt;/p&gt;</source>
-        <translation>&lt;h1&gt;Wat is KaOS?&lt;/h1&gt;
+        Please click &lt;i&gt;Next&lt;/i&gt; in order to begin. Click &lt;i&gt;Cancel&lt;/i&gt; anytime and changes won't be saved,&lt;/p&gt;
+        click &lt;i&gt;close window&lt;/i&gt; or &lt;i&gt;Close&lt;/i&gt; and the wizard won&apos;t autostart any longer.&lt;/p&gt;</source>
+        <translation>&lt;h1&gt;Waat is KaOS?&lt;/h1&gt;
         Het idee achter KaOS is om een nauw geïntegreerde rolling en&lt;p&gt;
         transparante distributie voor de moderne desktop te maken, opgebouwd vanuit het niets met&lt;p&gt;
         een zeer specifeke focus. Focus op één DE (KDE), één toolkit (Qt) &amp; één architectuur (x86_64).&lt;p&gt;
-        Plus een focus op de beoordeling en selectie van de meest geschikte tools en applicaties&lt;/p&gt;
+        Plus een focus op de beoordeling en selectie van de meest geschikte tools en applicaties.&lt;/p&gt;
         Deze wizard zal je helpen je Kaos werkruimte gemakkelijk en snel te personaliseren.&lt;p&gt;
-        Gaarne klik &lt;i&gt;Volgende&lt;/i&gt; om te beginnnen.&lt;/p&gt;</translation>
+        Gaarne klik &lt;i&gt;Volgende&lt;/i&gt; om te beginnnen. Klik &lt;i&gt;Annuleer&lt;/I&gt; op elk gewenst moment en wijzigingen worden niet opgeslagen,&lt;/p&gt;
+        klik &lt;i&gt;venster sluiten&lt;/I&gt; of &lt;i&gt;Sluiten&lt;/i&gt; en deze wizard zal niet langer automatisch opstarten.&lt;/p&gt;</translation>
     </message>
 </context>
 </TS>
