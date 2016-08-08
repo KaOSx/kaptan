@@ -49,15 +49,15 @@ class MouseWidget(QWizardPage):
 
         vlayout1 = QVBoxLayout(group1)
         buttonGroup = QButtonGroup(group1)
-
+        
         self.radiobutton1 = QRadioButton(group1)
-        self.radiobutton1.setText(self.tr("Double-click to open files and folders."))
-        self.radiobutton1.setChecked(False)
+        self.radiobutton1.setText(self.tr("Single-click to open files and folders."))
+        self.radiobutton1.setChecked(True)
         vlayout1.addWidget(self.radiobutton1)
-
+        
         self.radiobutton2 = QRadioButton(group1)
-        self.radiobutton2.setText(self.tr("Single-click to open files and folders."))
-        self.radiobutton2.setChecked(True)
+        self.radiobutton2.setText(self.tr("Double-click to open files and folders."))
+        self.radiobutton2.setChecked(False)
         vlayout1.addWidget(self.radiobutton2)
 
         buttonGroup.addButton(self.radiobutton1)
@@ -94,7 +94,7 @@ class MouseWidget(QWizardPage):
         vlayout2.addWidget(self.checkbox)
 
     def folderClick(self, button):
-        if button == self.radiobutton1:
+        if button == self.radiobutton2:
             self.folderSingleClick = False
         else:
             self.folderSingleClick = True

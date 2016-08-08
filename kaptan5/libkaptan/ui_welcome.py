@@ -18,7 +18,8 @@ class WelcomeWidget(QWizardPage):
         a very specific focus. Focus on one DE (KDE), one toolkit (Qt) & one architecture (x86_64).<p>
         Plus a focus on evaluating and selecting the most suitable tools and applications.</p>
         This wizard will help you personalize your KaOS workspace easily and quickly.<p>
-        Please click <i>Next</i> in order to begin.</p>"""))
+        Please click <i>Next</i> in order to begin. Click <i>Cancel</i> anytime and changes won't be saved,</p>
+        click <i>close window</i> or <i>Close</i> and the wizard won't autostart any longer.</p>"""))
         label.setWordWrap(True)
         label.setAlignment(Qt.AlignLeft)
         hlayout.addWidget(label)
