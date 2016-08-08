@@ -139,12 +139,12 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../kaptan5/libkaptan/ui_mouse.py" line="54"/>
+        <location filename="../kaptan5/libkaptan/ui_mouse.py" line="59"/>
         <source>Double-click to open files and folders.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../kaptan5/libkaptan/ui_mouse.py" line="59"/>
+        <location filename="../kaptan5/libkaptan/ui_mouse.py" line="54"/>
         <source>Single-click to open files and folders.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -205,22 +205,22 @@
 <context>
     <name>PreviewWidgetColor</name>
     <message>
-        <location filename="../kaptan5/libkaptan/tabwidget.py" line="396"/>
+        <location filename="../kaptan5/libkaptan/tabwidget.py" line="404"/>
         <source>Preview</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../kaptan5/libkaptan/tabwidget.py" line="410"/>
+        <location filename="../kaptan5/libkaptan/tabwidget.py" line="418"/>
         <source>Window Text</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../kaptan5/libkaptan/tabwidget.py" line="415"/>
+        <location filename="../kaptan5/libkaptan/tabwidget.py" line="423"/>
         <source>Button</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../kaptan5/libkaptan/tabwidget.py" line="424"/>
+        <location filename="../kaptan5/libkaptan/tabwidget.py" line="432"/>
         <source>&lt;p&gt;Normal text &lt;a id=&apos;unclicked&apos; href=&apos;#&apos;&gt;link&lt;/a&gt; &lt;a id=&apos;clicked&apos; href=&apos;#&apos;&gt;visited&lt;/a&gt;&lt;/p&gt;</source>
         <translation type="unfinished"></translation>
     </message>
@@ -228,42 +228,42 @@
 <context>
     <name>PreviewWidgetStyle</name>
     <message>
-        <location filename="../kaptan5/libkaptan/tabwidget.py" line="251"/>
+        <location filename="../kaptan5/libkaptan/tabwidget.py" line="259"/>
         <source>Preview</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../kaptan5/libkaptan/tabwidget.py" line="268"/>
+        <location filename="../kaptan5/libkaptan/tabwidget.py" line="276"/>
         <source>Group Box</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../kaptan5/libkaptan/tabwidget.py" line="282"/>
+        <location filename="../kaptan5/libkaptan/tabwidget.py" line="290"/>
         <source>Radio Button</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../kaptan5/libkaptan/tabwidget.py" line="293"/>
+        <location filename="../kaptan5/libkaptan/tabwidget.py" line="301"/>
         <source>Check Box</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../kaptan5/libkaptan/tabwidget.py" line="324"/>
+        <location filename="../kaptan5/libkaptan/tabwidget.py" line="332"/>
         <source>Button</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../kaptan5/libkaptan/tabwidget.py" line="332"/>
+        <location filename="../kaptan5/libkaptan/tabwidget.py" line="340"/>
         <source>Combo Box</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../kaptan5/libkaptan/tabwidget.py" line="342"/>
+        <location filename="../kaptan5/libkaptan/tabwidget.py" line="350"/>
         <source>Tab 1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../kaptan5/libkaptan/tabwidget.py" line="347"/>
+        <location filename="../kaptan5/libkaptan/tabwidget.py" line="355"/>
         <source>Tab 2</source>
         <translation type="unfinished"></translation>
     </message>
@@ -415,27 +415,27 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../kaptan5/libkaptan/tabwidget.py" line="120"/>
+        <location filename="../kaptan5/libkaptan/tabwidget.py" line="128"/>
         <source>Window Style</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../kaptan5/libkaptan/tabwidget.py" line="147"/>
+        <location filename="../kaptan5/libkaptan/tabwidget.py" line="155"/>
         <source>Color Scheme</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../kaptan5/libkaptan/tabwidget.py" line="152"/>
+        <location filename="../kaptan5/libkaptan/tabwidget.py" line="160"/>
         <source>&lt;p&gt;Normal text &lt;a id=&apos;unclicked&apos; href=&apos;#&apos;&gt;link&lt;/a&gt; &lt;a id=&apos;clicked&apos; href=&apos;#&apos;&gt;visited&lt;/a&gt;&lt;/p&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../kaptan5/libkaptan/tabwidget.py" line="212"/>
+        <location filename="../kaptan5/libkaptan/tabwidget.py" line="220"/>
         <source>Desktop Theme</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../kaptan5/libkaptan/tabwidget.py" line="245"/>
+        <location filename="../kaptan5/libkaptan/tabwidget.py" line="253"/>
         <source>Icon Set</source>
         <translation type="unfinished"></translation>
     </message>
@@ -526,7 +526,8 @@
         a very specific focus. Focus on one DE (KDE), one toolkit (Qt) &amp; one architecture (x86_64).&lt;p&gt;
         Plus a focus on evaluating and selecting the most suitable tools and applications.&lt;/p&gt;
         This wizard will help you personalize your KaOS workspace easily and quickly.&lt;p&gt;
-        Please click &lt;i&gt;Next&lt;/i&gt; in order to begin.&lt;/p&gt;</source>
+        Please click &lt;i&gt;Next&lt;/i&gt; in order to begin. Click &lt;i&gt;Cancel&lt;/i&gt; anytime and changes won&apos;t be saved,&lt;/p&gt;
+        click &lt;i&gt;close window&lt;/i&gt; or &lt;i&gt;Close&lt;/i&gt; and the wizard won&apos;t autostart any longer.&lt;/p&gt;</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
