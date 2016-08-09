@@ -9,7 +9,7 @@
     <message>
         <location filename="../kaptan5/libkaptan/ui_avatar.py" line="28"/>
         <source>&lt;p&gt;This screen helps you set your &lt;strong&gt;user picture&lt;/strong&gt;. You can either choose an image from a         file or you can capture an image from your camera. Select an option from the &lt;strong&gt;options&lt;/strong&gt; menu.&lt;/p&gt;</source>
-        <translation>&lt;p&gt;Cet écran vous aide à configurer &lt;strong&gt;l’image utilisateur&lt;/strong&gt;. Vous pouvez utiliser un fichier image ou bien prendre une photo avec votre caméra. Sélectionnez une option pamis le menue d’&lt;strong&gt;options&lt;/strong&gt;.</translation>
+        <translation>&lt;p&gt;Cet écran vous aide à configurer &lt;strong&gt;l’image utilisateur&lt;/strong&gt;. Vous pouvez utiliser un fichier image ou bien prendre une photo avec votre caméra. Sélectionnez une option pamis le menue d’&lt;strong&gt;options&lt;/strong&gt;.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_avatar.py" line="45"/>
@@ -565,7 +565,7 @@ inverser les boutons gauche et droit de votre souris.&lt;/p&gt;</translation>
         This wizard will help you personalize your KaOS workspace easily and quickly.&lt;p&gt;
         Please click &lt;i&gt;Next&lt;/i&gt; in order to begin. Click &lt;i&gt;Cancel&lt;/i&gt; anytime and changes won't be saved,&lt;/p&gt;
         click &lt;i&gt;close window&lt;/i&gt; or &lt;i&gt;Close&lt;/i&gt; and the wizard won&apos;t autostart any longer.&lt;/p&gt;</source>
-        <translation>&lt;h1&gt;Qu’est-ce que KaOS ?&gt;/h1&gt;
+        <translation>&lt;h1&gt;Qu’est-ce que KaOS ?&lt;/h1&gt;
 L’idée derrière KaOS est de créer une distribution entièrement rolling et transparente,
 avec un bureau moderne, conçue à partir de zéro
 et focalisée sur des éléments précis : un bureau (KDE), un toolkit (Qt), une architecture (x86_64)

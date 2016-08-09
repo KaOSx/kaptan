@@ -72,7 +72,7 @@
     <message>
         <location filename="../kaptan5/kaptan.py" line="15"/>
         <source>Kaptan Desktop</source>
-        <translation type="unfinished"/>
+        <translation>Kaptan Desktop</translation>
     </message>
 </context>
 <context>
@@ -115,7 +115,7 @@
     <message>
         <location filename="../kaptan5/libkaptan/ui_menu.py" line="18"/>
         <source>&lt;p&gt;Application Panel is a full screen menu style.             Application shortcuts are arranged so that you can access them quickly and easily.&lt;/p&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;p&gt;El Tablero de Aplicaciones es menú estilo pantalla completa. Los accesos directos a las aplicaciones están dispuestos de manera que se pueda acceder a ellos de manera fácil y rápida.&lt;/p&gt; </translation>
     </message>
 </context>
 <context>
@@ -565,7 +565,14 @@ cuando quiera abrir un archivo. Si Ud. usa &lt;strong&gt;la mano izquierda&lt;/s
         This wizard will help you personalize your KaOS workspace easily and quickly.&lt;p&gt;
         Please click &lt;i&gt;Next&lt;/i&gt; in order to begin. Click &lt;i&gt;Cancel&lt;/i&gt; anytime and changes won't be saved,&lt;/p&gt;
         click &lt;i&gt;close window&lt;/i&gt; or &lt;i&gt;Close&lt;/i&gt; and the wizard won&apos;t autostart any longer.&lt;/p&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;h1&gt;¿Qué es KaOS?&lt;/h1&gt;
+KaOS nace con la idea de crear una distribución rolling transparente y&lt;p&gt;
+plenamente integrada en un escritorio moderno. KaOS, construida desde cero,&lt;p&gt;
+está exclusivamente centrada en un sólo DE (KDE), en un sólo toolkit (Qt) y sólo una arquitectura (x86_64).&lt;p&gt;
+Además, se realiza una cuidadosa evaluación y selección de las mejores herramientas y aplicaciones.&lt;/p&gt;
+Este asistente le ayudará a personalizar el espacio de trabajo de su KaOS fácil y rápidamente.&lt;p&gt;
+Por favor haga clic en &lt;i&gt;Siguiente&lt;/i&gt; para comenzar. Clic en &lt;i&gt;Cancelar&lt;/i&gt; en cualquier momento  no grabará los cambios&lt;/p&gt;
+clic &lt;i&gt;cerrar ventana&lt;/i&gt; o &lt;i&gt;Cerrar&lt;/i&gt; y el asistente ya no se iniciará automáticamente.</translation>
     </message>
 </context>
 </TS>

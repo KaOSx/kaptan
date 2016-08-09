@@ -19,7 +19,7 @@ class WelcomeWidget(QWizardPage):
         Plus a focus on evaluating and selecting the most suitable tools and applications.</p>
         This wizard will help you personalize your KaOS workspace easily and quickly.<p>
         Please click <i>Next</i> in order to begin. Click <i>Cancel</i> anytime and changes won't be saved,</p>
-        click <i>close window</i> or <i>Close</i> and the wizard won't autostart any longer.</p>"""))
+        click <i>close window</i> or <i>Finished</i> and the wizard won't autostart any longer.</p>"""))
         label.setWordWrap(True)
         label.setAlignment(Qt.AlignLeft)
         hlayout.addWidget(label)

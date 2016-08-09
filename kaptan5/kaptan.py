@@ -96,7 +96,7 @@ def main():
 
     locale = QLocale.system().name()
     translator = QTranslator(app)
-    translator.load("/usr/share/kaptan/languages/{}.qm".format(locale))
+    translator.load("/usr/share/kaptan/languages/kaptan_{}.qm".format(locale))
     app.installTranslator(translator)
 
     kaptan = Kaptan()
