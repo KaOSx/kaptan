@@ -95,7 +95,7 @@
     <message>
         <location filename="../kaptan5/libkaptan/ui_menu.py" line="36"/>
         <source>&lt;p&gt;You can also customize your &lt;strong&gt;KDE menu&lt;/strong&gt; as you like.         Please choose one from the following styles.&lt;/p&gt;</source>
-        <translation>&lt;p&gt;Je kunt ook je&lt;strong&gt;KDE menu&lt;/strong&gt; naar wens aanpassen.  Kies een van de volgende stijlen.&lt;/p&gt;</translation>
+        <translation>&lt;p&gt;Je kunt ook je &lt;strong&gt;KDE menu&lt;/strong&gt; naar wens aanpassen.  Kies een van de volgende stijlen.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_menu.py" line="44"/>
@@ -152,7 +152,7 @@
     <message>
         <location filename="../kaptan5/libkaptan/ui_mouse.py" line="69"/>
         <source>Button Order</source>
-        <translation>Button Order</translation>
+        <translation>Knop Rangschikking</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_mouse.py" line="78"/>
@@ -167,7 +167,7 @@
     <message>
         <location filename="../kaptan5/libkaptan/ui_mouse.py" line="92"/>
         <source>Reverse scrolling.</source>
-        <translation>Reverse scrollen.</translation>
+        <translation>Omgekeerd scrollen.</translation>
     </message>
 </context>
 <context>
@@ -565,14 +565,14 @@
         This wizard will help you personalize your KaOS workspace easily and quickly.&lt;p&gt;
         Please click &lt;i&gt;Next&lt;/i&gt; in order to begin. Click &lt;i&gt;Cancel&lt;/i&gt; anytime and changes won't be saved,&lt;/p&gt;
         click &lt;i&gt;close window&lt;/i&gt; or &lt;i&gt;Close&lt;/i&gt; and the wizard won&apos;t autostart any longer.&lt;/p&gt;</source>
-        <translation>&lt;h1&gt;Waat is KaOS?&lt;/h1&gt;
+        <translation>&lt;h1&gt;Wat is KaOS?&lt;/h1&gt;
         Het idee achter KaOS is om een nauw geïntegreerde rolling en&lt;p&gt;
         transparante distributie voor de moderne desktop te maken, opgebouwd vanuit het niets met&lt;p&gt;
         een zeer specifeke focus. Focus op één DE (KDE), één toolkit (Qt) &amp; één architectuur (x86_64).&lt;p&gt;
         Plus een focus op de beoordeling en selectie van de meest geschikte tools en applicaties.&lt;/p&gt;
         Deze wizard zal je helpen je Kaos werkruimte gemakkelijk en snel te personaliseren.&lt;p&gt;
-        Gaarne klik &lt;i&gt;Volgende&lt;/i&gt; om te beginnnen. Klik &lt;i&gt;Annuleer&lt;/I&gt; op elk gewenst moment en wijzigingen worden niet opgeslagen,&lt;/p&gt;
-        klik &lt;i&gt;venster sluiten&lt;/I&gt; of &lt;i&gt;Sluiten&lt;/i&gt; en deze wizard zal niet langer automatisch opstarten.&lt;/p&gt;</translation>
+        Gaarne klik &lt;i&gt;Volgende&lt;/i&gt; om te beginnnen. Klik &lt;i&gt;Annuleer&lt;/I&gt; op elk gewenst moment en wijzigingen&lt;/p&gt; 
+        worden niet opgeslagen, klik &lt;i&gt;venster sluiten&lt;/I&gt; of &lt;i&gt;Klaar&lt;/i&gt; en deze wizard zal niet langer automatisch opstarten.&lt;/p&gt;</translation>
     </message>
 </context>
 </TS>
