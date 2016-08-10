@@ -13,12 +13,12 @@ class WelcomeWidget(QWizardPage):
         hlayout = QHBoxLayout(self)
         label = QLabel(self)
         label.setText(self.tr("""<h1>What is KaOS?</h1>
-        The idea behind KaOS is to create a tightly integrated rolling and<p>
-        transparent distribution for the modern desktop, build from scratch with<p>
-        a very specific focus. Focus on one DE (KDE), one toolkit (Qt) & one architecture (x86_64).<p>
+        <p>The idea behind KaOS is to create a tightly integrated rolling and<br />
+        transparent distribution for the modern desktop, build from scratch with<br />
+        a very specific focus. Focus on one DE (KDE), one toolkit (Qt) & one architecture (x86_64).<br />
         Plus a focus on evaluating and selecting the most suitable tools and applications.</p>
-        This wizard will help you personalize your KaOS workspace easily and quickly.<p>
-        Please click <i>Next</i> in order to begin. Click <i>Cancel</i> anytime and changes won't be saved,</p>
+        <p>This wizard will help you personalize your KaOS workspace easily and quickly.</p>
+        <p>Please click <i>Next</i> in order to begin. Click <i>Cancel</i> anytime and changes won't be saved,<br />
         click <i>close window</i> or <i>Finished</i> and the wizard won't autostart any longer.</p>"""))
         label.setWordWrap(True)
         label.setAlignment(Qt.AlignLeft)
