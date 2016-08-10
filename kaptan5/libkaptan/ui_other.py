@@ -18,7 +18,7 @@ class OtherWidget(QWizardPage):
         label = QLabel(self)
         label.setWordWrap(True)
         label.setText(self.tr("<p><strong>Your settings have been applied.</strong> Now you can start enjoying KaOS. \
-        Don't forget to <strong>join our community!<strong></p>"))
+        Don't forget to <strong>join our community!</strong></p>"))
         vlayout.addWidget(label)
 
         vlayout.addItem(QSpacerItem(20, 40, QSizePolicy.Preferred, QSizePolicy.Preferred))
