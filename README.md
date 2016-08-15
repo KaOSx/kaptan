@@ -1,6 +1,6 @@
 Kaptan
 ======
-A first run system setup wizard.
+A first run system setup wizard for [KaOS](https://kaosx.us).
 Forked from [Pisi Linux Kaptan](https://github.com/PisiLinuxNew/kaptan)
 
 ![Screenshot](data/images/screenshot.png)
