@@ -29,6 +29,6 @@
         <file>languages/kaptan_fr.qm</file>
         <file>languages/kaptan_nl_NL.qm</file>
         <file>languages/kaptan_pl.qm</file>
-        <file>languages/kaptan_tr.qm</file>
+        <file>languages/kaptan_tr_TR.qm</file>
     </qresource>
 </RCC>

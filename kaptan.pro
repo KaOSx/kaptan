@@ -19,4 +19,4 @@ TRANSLATIONS += languages/kaptan_en.ts
               languages/kaptan_fr.ts \
               languages/kaptan_nl_NL.ts \
               languages/kaptan_pl.ts \
-              languages/kaptan_tr.ts \
+              languages/kaptan_tr_TR.ts \
