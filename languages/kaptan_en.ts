@@ -46,6 +46,11 @@
 <context>
     <name>Kaptan</name>
     <message>
+        <location filename="../kaptan5/kaptan.py" line="15"/>
+        <source>Kaptan Desktop</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="../kaptan5/kaptan.py" line="81"/>
         <source>Next</source>
         <translation type="unfinished"></translation>
@@ -70,11 +75,6 @@
         <source>Apply Settings</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <location filename="../kaptan5/kaptan.py" line="15"/>
-        <source>Kaptan Desktop</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>MenuWidget</name>
@@ -91,6 +91,11 @@
     <message>
         <location filename="../kaptan5/libkaptan/ui_menu.py" line="16"/>
         <source>&lt;p&gt;Application Launcher is the standard for KDE.             Application shortcuts are arranged under a tab structure.&lt;/p&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../kaptan5/libkaptan/ui_menu.py" line="18"/>
+        <source>&lt;p&gt;Application Panel is a full screen menu style.             Application shortcuts are arranged so that you can access them quickly and easily.&lt;/p&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -111,11 +116,6 @@
     <message>
         <location filename="../kaptan5/libkaptan/ui_menu.py" line="46"/>
         <source>Application Dashboard</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../kaptan5/libkaptan/ui_menu.py" line="18"/>
-        <source>&lt;p&gt;Application Panel is a full screen menu style.             Application shortcuts are arranged so that you can access them quickly and easily.&lt;/p&gt;</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -139,13 +139,13 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../kaptan5/libkaptan/ui_mouse.py" line="59"/>
-        <source>Double-click to open files and folders.</source>
+        <location filename="../kaptan5/libkaptan/ui_mouse.py" line="54"/>
+        <source>Single-click to open files and folders.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../kaptan5/libkaptan/ui_mouse.py" line="54"/>
-        <source>Single-click to open files and folders.</source>
+        <location filename="../kaptan5/libkaptan/ui_mouse.py" line="59"/>
+        <source>Double-click to open files and folders.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -178,7 +178,7 @@
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_other.py" line="20"/>
-        <source>&lt;p&gt;&lt;strong&gt;Your settings have been applied.&lt;/strong&gt; Now you can start enjoying KaOS.         Don&apos;t forget to &lt;strong&gt;join our community!&lt;strong&gt;&lt;/p&gt;</source>
+        <source>&lt;p&gt;&lt;strong&gt;Your settings have been applied.&lt;/strong&gt; Now you can start enjoying KaOS.         Don&apos;t forget to &lt;strong&gt;join our community!&lt;/strong&gt;&lt;/p&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -521,13 +521,13 @@
     <message>
         <location filename="../kaptan5/libkaptan/ui_welcome.py" line="15"/>
         <source>&lt;h1&gt;What is KaOS?&lt;/h1&gt;
-        The idea behind KaOS is to create a tightly integrated rolling and&lt;p&gt;
-        transparent distribution for the modern desktop, build from scratch with&lt;p&gt;
-        a very specific focus. Focus on one DE (KDE), one toolkit (Qt) &amp; one architecture (x86_64).&lt;p&gt;
+        &lt;p&gt;The idea behind KaOS is to create a tightly integrated rolling and&lt;br /&gt;
+        transparent distribution for the modern desktop, build from scratch with&lt;br /&gt;
+        a very specific focus. Focus on one DE (KDE), one toolkit (Qt) &amp; one architecture (x86_64).&lt;br /&gt;
         Plus a focus on evaluating and selecting the most suitable tools and applications.&lt;/p&gt;
-        This wizard will help you personalize your KaOS workspace easily and quickly.&lt;p&gt;
-        Please click &lt;i&gt;Next&lt;/i&gt; in order to begin. Click &lt;i&gt;Cancel&lt;/i&gt; anytime and changes won&apos;t be saved,&lt;/p&gt;
-        click &lt;i&gt;close window&lt;/i&gt; or &lt;i&gt;Close&lt;/i&gt; and the wizard won&apos;t autostart any longer.&lt;/p&gt;</source>
+        &lt;p&gt;This wizard will help you personalize your KaOS workspace easily and quickly.&lt;/p&gt;
+        &lt;p&gt;Please click &lt;i&gt;Next&lt;/i&gt; in order to begin. Click &lt;i&gt;Cancel&lt;/i&gt; anytime and changes won&apos;t be saved,&lt;br /&gt;
+        click &lt;i&gt;close window&lt;/i&gt; or &lt;i&gt;Finished&lt;/i&gt; and the wizard won&apos;t autostart any longer.&lt;/p&gt;</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

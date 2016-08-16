@@ -45,6 +45,11 @@
 <context>
     <name>Kaptan</name>
     <message>
+        <location filename="../kaptan5/kaptan.py" line="15"/>
+        <source>Kaptan Desktop</source>
+        <translation>Escriptori Kaptan</translation>
+    </message>
+    <message>
         <location filename="../kaptan5/kaptan.py" line="81"/>
         <source>Next</source>
         <translation>Següent</translation>
@@ -69,11 +74,6 @@
         <source>Apply Settings</source>
         <translation>Aplica els paràmetres</translation>
     </message>
-    <message>
-        <location filename="../kaptan5/kaptan.py" line="15"/>
-        <source>Kaptan Desktop</source>
-        <translation>Escriptori Kaptan</translation>
-    </message>
 </context>
 <context>
     <name>MenuWidget</name>
@@ -91,6 +91,11 @@
         <location filename="../kaptan5/libkaptan/ui_menu.py" line="16"/>
         <source>&lt;p&gt;Application Launcher is the standard for KDE.             Application shortcuts are arranged under a tab structure.&lt;/p&gt;</source>
         <translation>&lt;p&gt;El llançador d&apos;aplicacions és l&apos;estàndard del KDE. Les dreceres de les aplicacions es classifiquen en una estructura de pestanyes.&lt;/p&gt;</translation>
+    </message>
+    <message>
+        <location filename="../kaptan5/libkaptan/ui_menu.py" line="18"/>
+        <source>&lt;p&gt;Application Panel is a full screen menu style.             Application shortcuts are arranged so that you can access them quickly and easily.&lt;/p&gt;</source>
+        <translation>&lt;p&gt;El plafó d&apos;aplicacions és un menú de pantalla completa. Les dreceres de les aplicacions es classifiquen de manera que s&apos;hi pugui accedir ràpidament i fàcilment.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_menu.py" line="36"/>
@@ -112,60 +117,57 @@
         <source>Application Dashboard</source>
         <translation>Consola d&apos;aplicacions</translation>
     </message>
-    <message>
-        <location filename="../kaptan5/libkaptan/ui_menu.py" line="18"/>
-        <source>&lt;p&gt;Application Panel is a full screen menu style.             Application shortcuts are arranged so that you can access them quickly and easily.&lt;/p&gt;</source>
-        <translation type="unfinished"/>
-    </message>
 </context>
 <context>
     <name>MouseWidget</name>
     <message>
         <location filename="../kaptan5/libkaptan/ui_mouse.py" line="11"/>
         <source>&lt;h2&gt;Setup Mouse Behavior&lt;/h2&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;h2&gt;Configuració del comportament del ratolí&lt;/h2&gt;</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_mouse.py" line="22"/>
         <source>&lt;p&gt;The &lt;strong&gt;clicking behavior&lt;/strong&gt; defines how many times you want
         to click when you are opening a file. If you are &lt;strong&gt;left handed&lt;/strong&gt;, you may prefer to
         swap the left and right buttons of your pointing device.&lt;/p&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;p&gt;El &lt;strong&gt;comportament del clic&lt;/strong&gt; defineix quants cops voleu clicar
+per obrir un fitxer. Si sou &lt;strong&gt;esquerrà&lt;/strong&gt;, potser preferiríeu intercanviar
+els botons del dispositiu de punter.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_mouse.py" line="45"/>
         <source>Clicking Behavior</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../kaptan5/libkaptan/ui_mouse.py" line="59"/>
-        <source>Double-click to open files and folders.</source>
-        <translation type="unfinished"/>
+        <translation>Comportament del clic</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_mouse.py" line="54"/>
         <source>Single-click to open files and folders.</source>
-        <translation type="unfinished"/>
+        <translation>Un clic per obrir fitxers i carpetes.</translation>
+    </message>
+    <message>
+        <location filename="../kaptan5/libkaptan/ui_mouse.py" line="59"/>
+        <source>Double-click to open files and folders.</source>
+        <translation>Doble clic per obrir fitxers i carpetes.</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_mouse.py" line="69"/>
         <source>Button Order</source>
-        <translation type="unfinished"/>
+        <translation>Ordre dels botons</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_mouse.py" line="78"/>
         <source>Right hand.</source>
-        <translation type="unfinished"/>
+        <translation>Mà dreta.</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_mouse.py" line="83"/>
         <source>Left hand.</source>
-        <translation type="unfinished"/>
+        <translation>Mà esquerra.</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_mouse.py" line="92"/>
         <source>Reverse scrolling.</source>
-        <translation type="unfinished"/>
+        <translation>Desplaçament invers.</translation>
     </message>
 </context>
 <context>
@@ -177,8 +179,8 @@
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_other.py" line="20"/>
-        <source>&lt;p&gt;&lt;strong&gt;Your settings have been applied.&lt;/strong&gt; Now you can start enjoying KaOS.         Don&apos;t forget to &lt;strong&gt;join our community!&lt;strong&gt;&lt;/p&gt;</source>
-        <translation type="unfinished"/>
+        <source>&lt;p&gt;&lt;strong&gt;Your settings have been applied.&lt;/strong&gt; Now you can start enjoying KaOS.         Don&apos;t forget to &lt;strong&gt;join our community!&lt;/strong&gt;&lt;/p&gt;</source>
+        <translation>&lt;p&gt;&lt;strong&gt;S&apos;han aplicat els paràmetres.&lt;/strong&gt; Ara podeu començar a gaudir del KaOS. No oblideu &lt;strong&gt;unir-vos a la nostra comunitat!&lt;/strong&gt;&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_other.py" line="40"/>
@@ -188,7 +190,7 @@
     <message>
         <location filename="../kaptan5/libkaptan/ui_other.py" line="37"/>
         <source>&lt;p&gt;Configuration tools for KaOS such as the display, network, keyboard, user manager...&lt;/p&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;p&gt;Eines de configuració del KaOS, com ara per a la pantalla, el teclat, la xarxa, la gestió d&apos;usuaris...&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_other.py" line="64"/>
@@ -198,7 +200,7 @@
     <message>
         <location filename="../kaptan5/libkaptan/ui_other.py" line="61"/>
         <source>&lt;p&gt;KaOS community, mailing lists, chat rooms, documents, help and support pages...&lt;/p&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;p&gt;La comunitat del KaOS, llistes de correu, habitacions de xat, documents, pàgines d&apos;ajuda i suport...&lt;/p&gt;</translation>
     </message>
 </context>
 <context>
@@ -206,22 +208,22 @@
     <message>
         <location filename="../kaptan5/libkaptan/tabwidget.py" line="404"/>
         <source>Preview</source>
-        <translation type="unfinished"/>
+        <translation>Previsualitza</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/tabwidget.py" line="418"/>
         <source>Window Text</source>
-        <translation type="unfinished"/>
+        <translation>Text de la finestra</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/tabwidget.py" line="423"/>
         <source>Button</source>
-        <translation type="unfinished"/>
+        <translation>Botó</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/tabwidget.py" line="432"/>
         <source>&lt;p&gt;Normal text &lt;a id=&apos;unclicked&apos; href=&apos;#&apos;&gt;link&lt;/a&gt; &lt;a id=&apos;clicked&apos; href=&apos;#&apos;&gt;visited&lt;/a&gt;&lt;/p&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;p&gt;Text normal &lt;a id=&apos;unclicked&apos; href=&apos;#&apos;&gt;enllaç&lt;/a&gt; &lt;a id=&apos;clicked&apos; href=&apos;#&apos;&gt;visitat&lt;/a&gt;&lt;/p&gt;</translation>
     </message>
 </context>
 <context>
@@ -229,42 +231,42 @@
     <message>
         <location filename="../kaptan5/libkaptan/tabwidget.py" line="259"/>
         <source>Preview</source>
-        <translation type="unfinished"/>
+        <translation>Previsualitza</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/tabwidget.py" line="276"/>
         <source>Group Box</source>
-        <translation type="unfinished"/>
+        <translation>Casella de grup</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/tabwidget.py" line="290"/>
         <source>Radio Button</source>
-        <translation type="unfinished"/>
+        <translation>Botó d&apos;opció</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/tabwidget.py" line="301"/>
         <source>Check Box</source>
-        <translation type="unfinished"/>
+        <translation>Casella de selecció</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/tabwidget.py" line="332"/>
         <source>Button</source>
-        <translation type="unfinished"/>
+        <translation>Botó</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/tabwidget.py" line="340"/>
         <source>Combo Box</source>
-        <translation type="unfinished"/>
+        <translation>Quadre combinat</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/tabwidget.py" line="350"/>
         <source>Tab 1</source>
-        <translation type="unfinished"/>
+        <translation>Pestanya 1</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/tabwidget.py" line="355"/>
         <source>Tab 2</source>
-        <translation type="unfinished"/>
+        <translation>Pestanya 2</translation>
     </message>
 </context>
 <context>
@@ -272,62 +274,62 @@
     <message>
         <location filename="../kaptan5/libkaptan/ui_summary.py" line="7"/>
         <source>&lt;h2&gt;Save Your Settings&lt;/h2&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;h2&gt;Desa els paràmetres&lt;/h2&gt;</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_summary.py" line="13"/>
         <source>&lt;p&gt;You have successfully finished all steps. Here&apos;s a summary of the settings you want to apply.         Click &lt;strong&gt;Apply Settings&lt;/strong&gt; to save them now. You are now ready to enjoy KaOS!&lt;/p&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;p&gt;Heu acabat tots els passos correctament. Aquí teniu un resum dels paràmetres que voleu aplicar. Cliqueu a &lt;strong&gt;Aplica els paràmetres&lt;/strong&gt; per desar-los ara. Ara ja esteu a punt per gaudir del KaOS!&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_summary.py" line="19"/>
         <source>The following settings will be applied</source>
-        <translation type="unfinished"/>
+        <translation>S&apos;aplicaran els paràmetres següents:</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_summary.py" line="58"/>
         <source>Right Handed</source>
-        <translation type="unfinished"/>
+        <translation>Dretà</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_summary.py" line="60"/>
         <source>Left Handed</source>
-        <translation type="unfinished"/>
+        <translation>Esquerrà</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_summary.py" line="63"/>
         <source>Single Click</source>
-        <translation type="unfinished"/>
+        <translation>Clic simple</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_summary.py" line="65"/>
         <source>Double Click</source>
-        <translation type="unfinished"/>
+        <translation>Clic doble</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_summary.py" line="68"/>
         <source>Desktop View</source>
-        <translation type="unfinished"/>
+        <translation>Vista d&apos;escriptori</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_summary.py" line="70"/>
         <source>Folder View</source>
-        <translation type="unfinished"/>
+        <translation>Vista de carpeta</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_summary.py" line="73"/>
         <source>Application Launcher</source>
-        <translation type="unfinished"/>
+        <translation>Llançador d&apos;aplicacions</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_summary.py" line="75"/>
         <source>Application Menu</source>
-        <translation type="unfinished"/>
+        <translation>Menú d&apos;aplicacions</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_summary.py" line="77"/>
         <source>Application Panel</source>
-        <translation type="unfinished"/>
+        <translation>Plafó d&apos;aplicacions</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_summary.py" line="89"/>
@@ -356,12 +358,36 @@
                 &lt;/ul&gt;
             &lt;/li&gt;
         &lt;/ul&gt;</source>
-        <translation type="unfinished"/>
+        <translation>
+        &lt;ul&gt;
+            &lt;li&gt;&lt;strong&gt;Opcions del ratolí&lt;/strong&gt;
+            &lt;/li&gt;
+                &lt;ul&gt;
+                    &lt;li&gt;Mà seleccionada: &lt;strong&gt;{}&lt;/strong&gt;&lt;/li&gt;
+                    &lt;li&gt;Comportament de clic seleccionat: &lt;strong&gt;{}&lt;/strong&gt;&lt;/li&gt;
+                &lt;/ul&gt;
+            &lt;li&gt;&lt;strong&gt;Opcions del tema&lt;/strong&gt;
+                &lt;ul&gt;
+                    &lt;li&gt;Compte d&apos;escriptori: &lt;strong&gt;{}&lt;/strong&gt;&lt;/li&gt;
+                    &lt;li&gt;Tipus d&apos;escriptori: &lt;strong&gt;{}&lt;/strong&gt;&lt;/li&gt;
+                    &lt;li&gt;Estil de ginys: &lt;strong&gt;{}&lt;/strong&gt;&lt;/li&gt;
+                    &lt;li&gt;Estil de finestres: &lt;strong&gt;{}&lt;/strong&gt;&lt;/li&gt;
+                    &lt;li&gt;Esquema de color: &lt;strong&gt;{}&lt;/strong&gt;&lt;/li&gt;
+                    &lt;li&gt;Tema de l&apos;escriptori: &lt;strong&gt;{}&lt;/strong&gt;&lt;/li&gt;
+                    &lt;li&gt;Conjunt d&apos;icones: &lt;strong&gt;{}&lt;/strong&gt;&lt;/li&gt;
+                &lt;/ul&gt;
+            &lt;/li&gt;
+            &lt;li&gt;&lt;strong&gt;Opció del menú&lt;/strong&gt;
+                &lt;ul&gt;
+                    &lt;li&gt;Menú seleccionat: &lt;strong&gt;{}&lt;/strong&gt;&lt;/li&gt;
+                &lt;/ul&gt;
+            &lt;/li&gt;
+        &lt;/ul&gt;</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_summary.py" line="135"/>
         <source>Unspecified.</source>
-        <translation type="unfinished"/>
+        <translation>Sense especificar.</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_summary.py" line="121"/>
@@ -378,7 +404,19 @@
                 &lt;/ul&gt;
             &lt;/li&gt;
         &lt;/ul&gt;</source>
-        <translation type="unfinished"/>
+        <translation>
+        &lt;ul&gt;
+            &lt;li&gt;&lt;strong&gt;Fons de pantalla seleccionat&lt;/strong&gt;
+                &lt;ul&gt;
+                    &lt;li&gt;&lt;strong&gt;{}&lt;/strong&gt;&lt;/li&gt;
+                &lt;/ul&gt;
+            &lt;/li&gt;
+            &lt;li&gt;&lt;strong&gt;Avatar seleccionat&lt;/strong&gt;
+                &lt;ul&gt;
+                    &lt;li&gt;&lt;strong&gt;{}&lt;/strong&gt;&lt;/li&gt;
+                &lt;/ul&gt;
+            &lt;/li&gt;
+        &lt;/ul&gt;</translation>
     </message>
 </context>
 <context>
@@ -386,57 +424,57 @@
     <message>
         <location filename="../kaptan5/libkaptan/tabwidget.py" line="38"/>
         <source>Widget Style:</source>
-        <translation type="unfinished"/>
+        <translation>Estil dels ginys:</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/tabwidget.py" line="44"/>
         <source>QtCurve</source>
-        <translation type="unfinished"/>
+        <translation>CorbaQt</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/tabwidget.py" line="45"/>
         <source>Breeze</source>
-        <translation type="unfinished"/>
+        <translation>Brisa</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/tabwidget.py" line="46"/>
         <source>Oxygen</source>
-        <translation type="unfinished"/>
+        <translation>Oxigen</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/tabwidget.py" line="47"/>
         <source>Fusion</source>
-        <translation type="unfinished"/>
+        <translation>Fusió</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/tabwidget.py" line="61"/>
         <source>Widget Style</source>
-        <translation type="unfinished"/>
+        <translation>Estil dels ginys</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/tabwidget.py" line="128"/>
         <source>Window Style</source>
-        <translation type="unfinished"/>
+        <translation>Estil de les finestres</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/tabwidget.py" line="155"/>
         <source>Color Scheme</source>
-        <translation type="unfinished"/>
+        <translation>Esquema de colors</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/tabwidget.py" line="160"/>
         <source>&lt;p&gt;Normal text &lt;a id=&apos;unclicked&apos; href=&apos;#&apos;&gt;link&lt;/a&gt; &lt;a id=&apos;clicked&apos; href=&apos;#&apos;&gt;visited&lt;/a&gt;&lt;/p&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;p&gt;Text normal &lt;a id=&apos;unclicked&apos; href=&apos;#&apos;&gt;enllaç&lt;/a&gt; &lt;a id=&apos;clicked&apos; href=&apos;#&apos;&gt;visitat&lt;/a&gt;&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/tabwidget.py" line="220"/>
         <source>Desktop Theme</source>
-        <translation type="unfinished"/>
+        <translation>Tema de l&apos;escriptori</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/tabwidget.py" line="253"/>
         <source>Icon Set</source>
-        <translation type="unfinished"/>
+        <translation>Conjunt d&apos;icones</translation>
     </message>
 </context>
 <context>
@@ -444,37 +482,37 @@
     <message>
         <location filename="../kaptan5/libkaptan/ui_theme.py" line="13"/>
         <source>&lt;h2&gt;Customize Your Desktop&lt;/h2&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;h2&gt;Personalitzeu l&apos;escriptori&lt;/h2&gt;</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_theme.py" line="24"/>
         <source>&lt;p&gt;Choose your favorite theme and desktop type. Customize KaOS with different styles and themes.&lt;/p&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;p&gt;Trieu el tipus d&apos;escriptori i el tema que més us agradi. Personalitzeu el KaOS amb estils i temes diferents.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_theme.py" line="70"/>
         <source>Desktop Type</source>
-        <translation type="unfinished"/>
+        <translation>Tipus d&apos;escriptori</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_theme.py" line="73"/>
         <source>Number of Desktops</source>
-        <translation type="unfinished"/>
+        <translation>Nombre d&apos;escriptoris</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_theme.py" line="77"/>
         <source>Desktop View</source>
-        <translation type="unfinished"/>
+        <translation>Vista d&apos;escriptori</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_theme.py" line="78"/>
         <source>Folder View</source>
-        <translation type="unfinished"/>
+        <translation>Vista de carpeta</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_theme.py" line="87"/>
         <source>Add Show Desktop Plasmoid</source>
-        <translation type="unfinished"/>
+        <translation>Afegeix mostrar el plasmoide de l&apos;escriptori</translation>
     </message>
 </context>
 <context>
@@ -482,32 +520,32 @@
     <message>
         <location filename="../kaptan5/libkaptan/ui_wallpaper.py" line="12"/>
         <source>&lt;h2&gt;Choose Wallpaper&lt;/h2&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;h2&gt;Esculliu fons de pantalla&lt;/h2&gt;</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_wallpaper.py" line="23"/>
         <source>&lt;p&gt;Choose your favorite wallpaper for KaOS. Don&apos;t forget to check out         &lt;strong&gt;Desktop Settings&lt;/strong&gt; for downloading new and cool wallpapers.&lt;/p&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;p&gt;Trieu un fons de pantalla que us agradi per al KaOS. No us oblideu de mirar els &lt;strong&gt;Paràmetres de l&apos;escriptori&lt;/strong&gt; per descarregar fons de pantalla nous i guais.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_wallpaper.py" line="32"/>
         <source>Wallpapers</source>
-        <translation type="unfinished"/>
+        <translation>Fons de pantalla</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_wallpaper.py" line="46"/>
         <source>Choose wallpaper from file</source>
-        <translation type="unfinished"/>
+        <translation>Tria el fons des d&apos;un fitxer</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_wallpaper.py" line="52"/>
         <source>Don&apos;t change wallpaper</source>
-        <translation type="unfinished"/>
+        <translation>No canviïs el fons</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_wallpaper.py" line="100"/>
         <source>Choose wallpaper</source>
-        <translation type="unfinished"/>
+        <translation>Trieu un fons de pantalla</translation>
     </message>
 </context>
 <context>
@@ -515,19 +553,26 @@
     <message>
         <location filename="../kaptan5/libkaptan/ui_welcome.py" line="8"/>
         <source>&lt;h2&gt;Welcome to KaOS&lt;/h2&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;h2&gt;Benvingut/da al KaOS&lt;/h2&gt;</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_welcome.py" line="15"/>
         <source>&lt;h1&gt;What is KaOS?&lt;/h1&gt;
-        The idea behind KaOS is to create a tightly integrated rolling and&lt;p&gt;
-        transparent distribution for the modern desktop, build from scratch with&lt;p&gt;
-        a very specific focus. Focus on one DE (KDE), one toolkit (Qt) &amp; one architecture (x86_64).&lt;p&gt;
+        &lt;p&gt;The idea behind KaOS is to create a tightly integrated rolling and&lt;br /&gt;
+        transparent distribution for the modern desktop, build from scratch with&lt;br /&gt;
+        a very specific focus. Focus on one DE (KDE), one toolkit (Qt) &amp; one architecture (x86_64).&lt;br /&gt;
         Plus a focus on evaluating and selecting the most suitable tools and applications.&lt;/p&gt;
-        This wizard will help you personalize your KaOS workspace easily and quickly.&lt;p&gt;
-        Please click &lt;i&gt;Next&lt;/i&gt; in order to begin. Click &lt;i&gt;Cancel&lt;/i&gt; anytime and changes won't be saved,&lt;/p&gt;
-        click &lt;i&gt;close window&lt;/i&gt; or &lt;i&gt;Close&lt;/i&gt; and the wizard won&apos;t autostart any longer.&lt;/p&gt;</source>
-        <translation type="unfinished"/>
+        &lt;p&gt;This wizard will help you personalize your KaOS workspace easily and quickly.&lt;/p&gt;
+        &lt;p&gt;Please click &lt;i&gt;Next&lt;/i&gt; in order to begin. Click &lt;i&gt;Cancel&lt;/i&gt; anytime and changes won't be saved,&lt;br /&gt;
+        click &lt;i&gt;close window&lt;/i&gt; or &lt;i&gt;Finished&lt;/i&gt; and the wizard won&apos;t autostart any longer.&lt;/p&gt;</source>
+        <translation>&lt;h1&gt;Què és el KaOS?&lt;/h1&gt;
+&lt;p&gt;La idea darrere del KaOS és crear una distribució contínua estretament integrada i&lt;br/&gt;
+transparent per a l&apos;escriptori modern, construïda des de zero amb una focalització&lt;br/&gt;
+molt específica: un entorn (KDE), una eina (Qt) i una arquitectura (x86_64).&lt;br/&gt;
+A més de l&apos;avaluació i la selecció de les eines i les aplicacions més adequades.&lt;/p&gt;
+&lt;p&gt;Aquest assistent us ajudarà a personalitzar l&apos;espai de treball del KaOS ràpidament i fàcil.&lt;/p&gt;
+&lt;p&gt;Si us plau, cliqueu a &lt;i&gt;Següent&lt;/i&gt; per començar. Cliqueu a &lt;i&gt;Cancel·la&lt;/i&gt; en qualsevol moment i els canvis no es desaran,&lt;br/&gt;
+si cliqueu a &lt;i&gt;tanca la finestra&lt;/i&gt; o &lt;i&gt;Tanca&lt;/i&gt;, l&apos;assistent no s&apos;iniciarà automàticament.&lt;/p&gt;</translation>
     </message>
 </context>
 </TS>

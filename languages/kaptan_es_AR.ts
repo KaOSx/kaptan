@@ -45,6 +45,11 @@
 <context>
     <name>Kaptan</name>
     <message>
+        <location filename="../kaptan5/kaptan.py" line="15"/>
+        <source>Kaptan Desktop</source>
+        <translation>Kaptan Desktop</translation>
+    </message>
+    <message>
         <location filename="../kaptan5/kaptan.py" line="81"/>
         <source>Next</source>
         <translation>Siguiente</translation>
@@ -69,11 +74,6 @@
         <source>Apply Settings</source>
         <translation>Aplicar configuración</translation>
     </message>
-    <message>
-        <location filename="../kaptan5/kaptan.py" line="15"/>
-        <source>Kaptan Desktop</source>
-        <translation>Kaptan Desktop</translation>
-    </message>
 </context>
 <context>
     <name>MenuWidget</name>
@@ -91,6 +91,11 @@
         <location filename="../kaptan5/libkaptan/ui_menu.py" line="16"/>
         <source>&lt;p&gt;Application Launcher is the standard for KDE.             Application shortcuts are arranged under a tab structure.&lt;/p&gt;</source>
         <translation>&lt;p&gt;El Lanzador de Aplicaciones es el estándar para KDE.  Los accesos directos a las aplicaciones están dispuestas bajo una estructura de pestañas.&lt;/p&gt;</translation>
+    </message>
+    <message>
+        <location filename="../kaptan5/libkaptan/ui_menu.py" line="18"/>
+        <source>&lt;p&gt;Application Panel is a full screen menu style.             Application shortcuts are arranged so that you can access them quickly and easily.&lt;/p&gt;</source>
+        <translation>&lt;p&gt;El Tablero de Aplicaciones es menú estilo pantalla completa. Los accesos directos a las aplicaciones están dispuestos de manera que se pueda acceder a ellos de manera fácil y rápida.&lt;/p&gt; </translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_menu.py" line="36"/>
@@ -111,11 +116,6 @@
         <location filename="../kaptan5/libkaptan/ui_menu.py" line="46"/>
         <source>Application Dashboard</source>
         <translation>Tablero de Aplicaciones</translation>
-    </message>
-    <message>
-        <location filename="../kaptan5/libkaptan/ui_menu.py" line="18"/>
-        <source>&lt;p&gt;Application Panel is a full screen menu style.             Application shortcuts are arranged so that you can access them quickly and easily.&lt;/p&gt;</source>
-        <translation>&lt;p&gt;El Tablero de Aplicaciones es menú estilo pantalla completa. Los accesos directos a las aplicaciones están dispuestos de manera que se pueda acceder a ellos de manera fácil y rápida.&lt;/p&gt; </translation>
     </message>
 </context>
 <context>
@@ -140,14 +140,14 @@ cuando quiera abrir un archivo. Si Ud. usa &lt;strong&gt;la mano izquierda&lt;/s
         <translation>Comportamiento del clic</translation>
     </message>
     <message>
-        <location filename="../kaptan5/libkaptan/ui_mouse.py" line="59"/>
-        <source>Double-click to open files and folders.</source>
-        <translation>Doble clic abre archivos y carpetas.</translation>
-    </message>
-    <message>
         <location filename="../kaptan5/libkaptan/ui_mouse.py" line="54"/>
         <source>Single-click to open files and folders.</source>
         <translation>Un sólo clic abre archivos y carpetas.</translation>
+    </message>
+    <message>
+        <location filename="../kaptan5/libkaptan/ui_mouse.py" line="59"/>
+        <source>Double-click to open files and folders.</source>
+        <translation>Doble clic abre archivos y carpetas.</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_mouse.py" line="69"/>
@@ -179,8 +179,8 @@ cuando quiera abrir un archivo. Si Ud. usa &lt;strong&gt;la mano izquierda&lt;/s
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_other.py" line="20"/>
-        <source>&lt;p&gt;&lt;strong&gt;Your settings have been applied.&lt;/strong&gt; Now you can start enjoying KaOS.         Don&apos;t forget to &lt;strong&gt;join our community!&lt;strong&gt;&lt;/p&gt;</source>
-        <translation>&lt;p&gt;&lt;strong&gt;Se ha aplicado su configuración&lt;/strong&gt; Ahora puede empezar a distrutar KaOS. ¡No olvide &lt;strong&gt;unirse a nuestra comunidad!&lt;strong&gt;&lt;/p&gt;</translation>
+        <source>&lt;p&gt;&lt;strong&gt;Your settings have been applied.&lt;/strong&gt; Now you can start enjoying KaOS.         Don&apos;t forget to &lt;strong&gt;join our community!&lt;/strong&gt;&lt;/p&gt;</source>
+        <translation>&lt;p&gt;&lt;strong&gt;Se ha aplicado su configuración&lt;/strong&gt; Ahora puede empezar a distrutar KaOS. ¡No olvide &lt;strong&gt;unirse a nuestra comunidad!&lt;/strong&gt;&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_other.py" line="40"/>
@@ -558,21 +558,21 @@ cuando quiera abrir un archivo. Si Ud. usa &lt;strong&gt;la mano izquierda&lt;/s
     <message>
         <location filename="../kaptan5/libkaptan/ui_welcome.py" line="15"/>
         <source>&lt;h1&gt;What is KaOS?&lt;/h1&gt;
-        The idea behind KaOS is to create a tightly integrated rolling and&lt;p&gt;
-        transparent distribution for the modern desktop, build from scratch with&lt;p&gt;
-        a very specific focus. Focus on one DE (KDE), one toolkit (Qt) &amp; one architecture (x86_64).&lt;p&gt;
+        &lt;p&gt;The idea behind KaOS is to create a tightly integrated rolling and&lt;br /&gt;
+        transparent distribution for the modern desktop, build from scratch with&lt;br /&gt;
+        a very specific focus. Focus on one DE (KDE), one toolkit (Qt) &amp; one architecture (x86_64).&lt;br /&gt;
         Plus a focus on evaluating and selecting the most suitable tools and applications.&lt;/p&gt;
-        This wizard will help you personalize your KaOS workspace easily and quickly.&lt;p&gt;
-        Please click &lt;i&gt;Next&lt;/i&gt; in order to begin. Click &lt;i&gt;Cancel&lt;/i&gt; anytime and changes won't be saved,&lt;/p&gt;
-        click &lt;i&gt;close window&lt;/i&gt; or &lt;i&gt;Close&lt;/i&gt; and the wizard won&apos;t autostart any longer.&lt;/p&gt;</source>
+        &lt;p&gt;This wizard will help you personalize your KaOS workspace easily and quickly.&lt;/p&gt;
+        &lt;p&gt;Please click &lt;i&gt;Next&lt;/i&gt; in order to begin. Click &lt;i&gt;Cancel&lt;/i&gt; anytime and changes won't be saved,&lt;br /&gt;
+        click &lt;i&gt;close window&lt;/i&gt; or &lt;i&gt;Finished&lt;/i&gt; and the wizard won&apos;t autostart any longer.&lt;/p&gt;</source>
         <translation>&lt;h1&gt;¿Qué es KaOS?&lt;/h1&gt;
-KaOS nace con la idea de crear una distribución rolling transparente y&lt;p&gt;
-plenamente integrada en un escritorio moderno. KaOS, construida desde cero,&lt;p&gt;
-está exclusivamente centrada en un sólo DE (KDE), en un sólo toolkit (Qt) y sólo una arquitectura (x86_64).&lt;p&gt;
+&lt;p&gt;KaOS nace con la idea de crear una distribución rolling transparente y&lt;br/&gt;
+plenamente integrada en un escritorio moderno. KaOS, construida desde cero,&lt;br/&gt;
+está exclusivamente centrada en un sólo DE (KDE), en un sólo toolkit (Qt) y sólo una arquitectura (x86_64).&lt;br/&gt;
 Además, se realiza una cuidadosa evaluación y selección de las mejores herramientas y aplicaciones.&lt;/p&gt;
-Este asistente le ayudará a personalizar el espacio de trabajo de su KaOS fácil y rápidamente.&lt;p&gt;
-Por favor haga clic en &lt;i&gt;Siguiente&lt;/i&gt; para comenzar. Clic en &lt;i&gt;Cancelar&lt;/i&gt; en cualquier momento  no grabará los cambios&lt;/p&gt;
-clic &lt;i&gt;cerrar ventana&lt;/i&gt; o &lt;i&gt;Cerrar&lt;/i&gt; y el asistente ya no se iniciará automáticamente.</translation>
+&lt;p&gt;Este asistente le ayudará a personalizar el espacio de trabajo de su KaOS fácil y rápidamente.&lt;/p&gt;
+&lt;p&gt;Por favor haga clic en &lt;i&gt;Siguiente&lt;/i&gt; para comenzar. Clic en &lt;i&gt;Cancelar&lt;/i&gt; en cualquier momento  no grabará los cambios&lt;br/&gt;
+clic &lt;i&gt;cerrar ventana&lt;/i&gt; o &lt;i&gt;Cerrar&lt;/i&gt; y el asistente ya no se iniciará automáticamente.&lt;/p&gt;</translation>
     </message>
 </context>
 </TS>
