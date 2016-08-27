@@ -14,9 +14,12 @@ SOURCES += kaptan5/kaptan.py
 TRANSLATIONS += languages/kaptan_en.ts
               languages/kaptan_ca.ts \
               languages/kaptan_cs.ts \
+              languages/kaptan_de.ts \
               languages/kaptan_es.ts \
               languages/kaptan_es_AR.ts \
               languages/kaptan_fr.ts \
               languages/kaptan_nl_NL.ts \
               languages/kaptan_pl.ts \
+              languages/kaptan_pt_PT.ts \
+              languages/kaptan_ro_RO.ts \
               languages/kaptan_tr_TR.ts \

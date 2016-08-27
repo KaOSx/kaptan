@@ -47,7 +47,7 @@
     <message>
         <location filename="../kaptan5/kaptan.py" line="15"/>
         <source>Kaptan Desktop</source>
-        <translation>Kaptan</translation>
+        <translation>Kaptan Desktop</translation>
     </message>
     <message>
         <location filename="../kaptan5/kaptan.py" line="81"/>
@@ -178,7 +178,7 @@
     <message>
         <location filename="../kaptan5/libkaptan/ui_other.py" line="20"/>
         <source>&lt;p&gt;&lt;strong&gt;Your settings have been applied.&lt;/strong&gt; Now you can start enjoying KaOS.         Don&apos;t forget to &lt;strong&gt;join our community!&lt;/strong&gt;&lt;/p&gt;</source>
-        <translation>&lt;p&gt;&lt;strong&gt;Deine Einstellungen sind jetzt gespeichert.&lt;/strong&gt; Du kannst nun beginnen, KaOS zu verwenden und jederzeit &lt;strong&gt;unserer Gemeinschaft beitreten.&lt;/strong&gt;&lt;/p&gt;</translation>
+        <translation>&lt;p&gt;&lt;strong&gt;Ihre Einstellungen wurden jetzt angewendet.&lt;/strong&gt; Sie können KaOS nun genießen. Vergessen Sie nicht, &lt;strong&gt;unserer Gemeinschaft beizutreten.&lt;/strong&gt;&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_other.py" line="40"/>
@@ -510,7 +510,7 @@
     <message>
         <location filename="../kaptan5/libkaptan/ui_theme.py" line="87"/>
         <source>Add Show Desktop Plasmoid</source>
-        <translation>&quot;Alle Fenster minimieren&quot; hinzufügen</translation>
+        <translation>Desktop Plasmoid anzeigen hinzufügen</translation>
     </message>
 </context>
 <context>
@@ -565,13 +565,13 @@
         click &lt;i&gt;close window&lt;/i&gt; or &lt;i&gt;Finished&lt;/i&gt; and the wizard won&apos;t autostart any longer.&lt;/p&gt;</source>
         <translation>&lt;h1&gt;Was ist KaOS&lt;/h1&gt;
         &lt;p&gt;Die Idee hinter KaOS ist es, eine voll integrierte, rollende und transparente&lt;br /&gt;
-        Distribution für den modernen Heimcomputer zu erschaffen, die von Grund&lt;br /&gt;
-        auf neu konstruiert und mit einem sehr spezifischen Fokus auf (KDE), (Qt) und &lt;br/&gt;
+        Distribution für den modernen Desktop zu erschaffen, die von Grund&lt;br /&gt;
+        auf neu konstruiert und mit einem sehr spezifischen Fokus auf Benutzerumgebung (KDE), (Qt) und &lt;br/&gt;
         die (x86_64) Architektur sowie einem Fokus auf die Evaluierung und Auswahl &lt;br/&gt;
         der passendsten Programme ausgerichtet ist.&lt;/p&gt;
-        &lt;p&gt;Dieses Programm hilft dir, dein KaOS schnell und einfach einzurichten&lt;/p&gt;
-        &lt;p&gt;Klicke auf &lt;i&gt;Weiter&lt;/i&gt; um zu beginnen. Klicke auf &lt;i&gt;Abbrechen&lt;/i&gt; und alles bleibt, wie es ist..&lt;br /&gt;
-        Klicke auf &lt;i&gt;Fenster schließen&lt;/i&gt; oder &lt;i&gt;Schließen&lt;/i&gt; und dieses Programm wird nicht mehr länger automatisch starten.&lt;/p&gt;</translation>
+        &lt;p&gt;Dieses Programm hilft Ihnen, Ihr KaOS schnell und einfach einzurichten&lt;/p&gt;
+        &lt;p&gt;Klicken Sie auf &lt;i&gt;Weiter&lt;/i&gt;, um zu beginnen. Klicken Sie auf &lt;i&gt;Abbrechen&lt;/i&gt; und alles bleibt so, wie es ist..&lt;br /&gt;
+        Klicken Sie auf &lt;i&gt;Fenster schließen&lt;/i&gt; oder &lt;i&gt;Schließen&lt;/i&gt; und dieser Assistent wird nicht mehr länger automatisch starten.&lt;/p&gt;</translation>
     </message>
 </context>
 </TS>
