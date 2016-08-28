@@ -80,13 +80,6 @@ class ThemeTabWidget(QTabWidget):
 
         item = QListWidgetItem(self.listWidgetWindowStyle)
         icon = QIcon()
-        icon.addPixmap(QPixmap(":/data/images/breeze_deco.png"))
-        item.setIcon(icon)
-        item.setText("Breeze")
-        item.setStyleText = "org.kde.breeze"
-        item.themeText = ""
-        item = QListWidgetItem(self.listWidgetWindowStyle)
-        icon = QIcon()
         icon.addPixmap(QPixmap(":/data/images/midna-flat_deco.png"))
         item.setIcon(icon)
         item.setText("Midna Flat")
@@ -99,6 +92,13 @@ class ThemeTabWidget(QTabWidget):
         item.setText("Midna Dark")
         item.setStyleText = "org.kde.kwin.aurorae"
         item.themeText = "__aurorae__svg__MidnaDark"
+        item = QListWidgetItem(self.listWidgetWindowStyle)
+        icon = QIcon()
+        icon.addPixmap(QPixmap(":/data/images/breeze_deco.png"))
+        item.setIcon(icon)
+        item.setText("Breeze")
+        item.setStyleText = "org.kde.breeze"
+        item.themeText = ""
         item = QListWidgetItem(self.listWidgetWindowStyle)
         icon = QIcon()
         icon.addPixmap(QPixmap(":/data/images/midna-grey_deco.png"))
@@ -137,7 +137,7 @@ class ThemeTabWidget(QTabWidget):
         self.verticalLayout_2.addWidget(self.listWidgetColorScheme)
 
         color_list = os.listdir(self.colorSchemePath)
-        color_list.sort()
+        color_list.sort(key = len)
 
         for color in color_list:
             item = QListWidgetItem(self.listWidgetColorScheme)
