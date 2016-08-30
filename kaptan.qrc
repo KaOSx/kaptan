@@ -24,11 +24,16 @@
         <file>data/images/midna-dark_panel.png</file>
         <file>languages/kaptan_ca.qm</file>
         <file>languages/kaptan_cs.qm</file>
+        <file>languages/kaptan_de.qm</file>
         <file>languages/kaptan_es.qm</file>
         <file>languages/kaptan_es_AR.qm</file>
         <file>languages/kaptan_fr.qm</file>
+        <file>languages/kaptan_id_ID.qm</file>
         <file>languages/kaptan_nl_NL.qm</file>
         <file>languages/kaptan_pl.qm</file>
+        <file>languages/kaptan_pt_PT</file>
+        <file>languages/kaptan_ro_RO.qm</file>
+        <file>languages/kaptan_ru.qm</file>
         <file>languages/kaptan_tr_TR.qm</file>
     </qresource>
 </RCC>

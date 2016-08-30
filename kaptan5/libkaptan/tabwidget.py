@@ -204,7 +204,7 @@ class ThemeTabWidget(QTabWidget):
         icon = QIcon(QPixmap(":/data/images/midna-dark_panel.png").scaled(QSize(240, 145), Qt.IgnoreAspectRatio, Qt.FastTransformation))
         item.setSizeHint(QSize(240, 145))
         item.setIcon(icon)
-        item.panelText = "midna-dark"
+        item.panelText = "midna_dark"
 
         item = QListWidgetItem(self.listWidgetDesktopTheme)
         item.setTextAlignment(Qt.AlignHCenter)
