@@ -1,45 +1,45 @@
-<?xml version="1.0" ?><!DOCTYPE TS><TS language="id_ID" version="2.0">
+<?xml version="1.0" ?><!DOCTYPE TS><TS language="ast" version="2.0">
 <context>
     <name>AvatarWidget</name>
     <message>
         <location filename="../kaptan5/libkaptan/ui_avatar.py" line="16"/>
         <source>&lt;h2&gt;Create Your Avatar&lt;/h2&gt;</source>
-        <translation>&lt;h2&gt;Ciptakan Avatar-mu&lt;/h2&gt;</translation>
+        <translation>&lt;h2&gt;Crea&apos;l to avatar&lt;/h2&gt;</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_avatar.py" line="28"/>
         <source>&lt;p&gt;This screen helps you set your &lt;strong&gt;user picture&lt;/strong&gt;. You can either choose an image from a         file or you can capture an image from your camera. Select an option from the &lt;strong&gt;options&lt;/strong&gt; menu.&lt;/p&gt;</source>
-        <translation>&lt;p&gt;Layar ini membantumu menyetel &lt;strong&gt;gambar pengguna&lt;/strong&gt;mu. Kamu bisa memilih antara citra dari file atau kamu bisa tangkap sebuah citra dari kameramu. Pilihlah pilihan dari menu &lt;strong&gt;pilihan&lt;/strong&gt;.&lt;/p&gt;</translation>
+        <translation>&lt;p&gt;Esta pantalla ayúdate a afitar la to &lt;strong&gt;semeya d&apos;usuariu&lt;/strong&gt;. Pues escoyer una imaxe d&apos;un ficheru o capturala dende la to cámara. Esbilla un opción dende&apos;l menú d&apos;&lt;strong&gt;opciones&lt;/strong&gt;.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_avatar.py" line="45"/>
         <source>Options</source>
-        <translation>Pilihan</translation>
+        <translation>Opciones</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_avatar.py" line="45"/>
         <source>Choose an image...</source>
-        <translation>Memilih sebuah citra...</translation>
+        <translation>Escoyer una imaxe...</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_avatar.py" line="55"/>
         <source>Camera </source>
-        <translation>Kamera</translation>
+        <translation>Cámara</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_avatar.py" line="69"/>
         <source>Capture</source>
-        <translation>Tangkap</translation>
+        <translation>Capturar</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_avatar.py" line="74"/>
         <source>Recapture</source>
-        <translation>Tangkap ulang</translation>
+        <translation>Recapturar</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_avatar.py" line="133"/>
         <source>Choose Avatar</source>
-        <translation>Memilih Avatar</translation>
+        <translation>Escoyer avatar</translation>
     </message>
 </context>
 <context>
@@ -52,27 +52,27 @@
     <message>
         <location filename="../kaptan5/kaptan.py" line="81"/>
         <source>Next</source>
-        <translation>Selanjutnya</translation>
+        <translation>Siguiente</translation>
     </message>
     <message>
         <location filename="../kaptan5/kaptan.py" line="28"/>
         <source>Cancel</source>
-        <translation>Batal</translation>
+        <translation>Encaboxar</translation>
     </message>
     <message>
         <location filename="../kaptan5/kaptan.py" line="33"/>
         <source>Back</source>
-        <translation>Kembali</translation>
+        <translation>Atrás</translation>
     </message>
     <message>
         <location filename="../kaptan5/kaptan.py" line="38"/>
         <source>Finish</source>
-        <translation>Selesai</translation>
+        <translation>Finar</translation>
     </message>
     <message>
         <location filename="../kaptan5/kaptan.py" line="77"/>
         <source>Apply Settings</source>
-        <translation>Terapkan Setelan</translation>
+        <translation>Aplicar axustes</translation>
     </message>
 </context>
 <context>
@@ -80,42 +80,42 @@
     <message>
         <location filename="../kaptan5/libkaptan/ui_menu.py" line="11"/>
         <source>&lt;h2&gt;Select Menu Style&lt;/h2&gt;</source>
-        <translation>&lt;h2&gt;Pilih Gaya Menu&lt;/h2&gt;</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_menu.py" line="14"/>
         <source>&lt;p&gt;Application Menu is the default for KaOS because of its             extremely lightweight (and fast) structure.&lt;/p&gt;</source>
-        <translation>&lt;p&gt;Menu Aplikasi adalah baku untuk KaOS karena itu struktur yang sangat ringan (dan cepat).&lt;/p&gt;</translation>
+        <translation>&lt;p&gt;El menú d&apos;aplicaciones ye&apos;l predetermináu pa KaOS pola so cadarma perllixera (y rápida).&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_menu.py" line="16"/>
         <source>&lt;p&gt;Application Launcher is the standard for KDE.             Application shortcuts are arranged under a tab structure.&lt;/p&gt;</source>
-        <translation>&lt;p&gt;Peluncur Aplikasi adalah standar untuk KDE. Pintasan aplikasi yang disusun di bawah struktur tab.&lt;/p&gt;</translation>
+        <translation>&lt;p&gt;El llanzador d&apos;aplicaciones ye l&apos;estándar pa KDE. Los atayos d&apos;aplicaciones ordénense so una cadarma de llingüetes.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_menu.py" line="18"/>
         <source>&lt;p&gt;Application Panel is a full screen menu style.             Application shortcuts are arranged so that you can access them quickly and easily.&lt;/p&gt;</source>
-        <translation>&lt;p&gt;Panel Aplikasi adalah sebuah gaya menu layar penuh. Pintasan aplikasi yang disusun sehingga kamu bisa mengakses mereka secara cepat dan mudah.&lt;/p&gt;</translation>
+        <translation>&lt;p&gt;El panel d&apos;aplicaciones ye un estilu de menú a pantalla completa. Los atayos d&apos;aplicaciones ordénense pa qu&apos;asina pueas acceder a ellos de mou rápidu y cenciellu.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_menu.py" line="36"/>
         <source>&lt;p&gt;You can also customize your &lt;strong&gt;KDE menu&lt;/strong&gt; as you like.         Please choose one from the following styles.&lt;/p&gt;</source>
-        <translation>&lt;p&gt;Kamu juga bisa suaikan &lt;strong&gt;menu KDE&lt;/strong&gt; sesukamu. Silakan pilih salah satu dari gaya berikut.&lt;/p&gt;</translation>
+        <translation>&lt;p&gt;Tamién pues personalizar el to &lt;strong&gt;menú de KDE&lt;/strong&gt; como te preste. Escueyi ún de los estilos de darréu, por favor.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_menu.py" line="44"/>
         <source>Application Menu</source>
-        <translation>Menu Aplikasi</translation>
+        <translation>Menú d&apos;aplicaciones</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_menu.py" line="45"/>
         <source>Application Launcher</source>
-        <translation>Peluncur Aplikasi</translation>
+        <translation>Llanzador d&apos;aplicaciones</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_menu.py" line="46"/>
         <source>Application Dashboard</source>
-        <translation>Dasbor Aplikasi</translation>
+        <translation>Panel d&apos;aplicaciones</translation>
     </message>
 </context>
 <context>
@@ -123,51 +123,49 @@
     <message>
         <location filename="../kaptan5/libkaptan/ui_mouse.py" line="11"/>
         <source>&lt;h2&gt;Setup Mouse Behavior&lt;/h2&gt;</source>
-        <translation>&lt;h2&gt;Setel Perilaku Mouse&lt;/h2&gt;</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_mouse.py" line="22"/>
         <source>&lt;p&gt;The &lt;strong&gt;clicking behavior&lt;/strong&gt; defines how many times you want
         to click when you are opening a file. If you are &lt;strong&gt;left handed&lt;/strong&gt;, you may prefer to
         swap the left and right buttons of your pointing device.&lt;/p&gt;</source>
-        <translation>&lt;p&gt;&lt;strong&gt;Perilaku pengeklikan&lt;/strong&gt; menetapkan berapa kali yang kamu inginkan
-untuk klik ketika kamu membuka sebuah file. Jika kamu &lt;strong&gt;tangan kiri&lt;/strong&gt;, 
-kamu dapat memilih menukar tombol kiri dan kanan pada perangkat penunjuk kamu.&lt;/p&gt;</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_mouse.py" line="45"/>
         <source>Clicking Behavior</source>
-        <translation>Perilaku Pengeklikan</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_mouse.py" line="54"/>
         <source>Single-click to open files and folders.</source>
-        <translation>Klik tunggal untuk membuka file dan folder.</translation>
+        <translation>Un clic p&apos;abrir ficheros y carpetes.</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_mouse.py" line="59"/>
         <source>Double-click to open files and folders.</source>
-        <translation>Klik ganda untuk membuka file dan folder.</translation>
+        <translation>Clic doblu p&apos;abrir ficheros y carpetes.</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_mouse.py" line="69"/>
         <source>Button Order</source>
-        <translation>Urutan Tombol</translation>
+        <translation>Orde de botones</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_mouse.py" line="78"/>
         <source>Right hand.</source>
-        <translation>Tangan kanan.</translation>
+        <translation>Mandrecha.</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_mouse.py" line="83"/>
         <source>Left hand.</source>
-        <translation>Tangan kiri.</translation>
+        <translation>Manzorga.</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_mouse.py" line="92"/>
         <source>Reverse scrolling.</source>
-        <translation>Gulir terbalik.</translation>
+        <translation>Desplazamientu inversu.</translation>
     </message>
 </context>
 <context>
@@ -175,32 +173,32 @@ kamu dapat memilih menukar tombol kiri dan kanan pada perangkat penunjuk kamu.&l
     <message>
         <location filename="../kaptan5/libkaptan/ui_other.py" line="10"/>
         <source>&lt;h2&gt;Congratulations!&lt;/h2&gt;</source>
-        <translation>&lt;h2&gt;Selamat!&lt;/h2&gt;</translation>
+        <translation>&lt;h2&gt;¡Norabona!&lt;/h2&gt;</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_other.py" line="20"/>
         <source>&lt;p&gt;&lt;strong&gt;Your settings have been applied.&lt;/strong&gt; Now you can start enjoying KaOS.         Don&apos;t forget to &lt;strong&gt;join our community!&lt;/strong&gt;&lt;/p&gt;</source>
-        <translation>&lt;p&gt;&lt;strong&gt;Setelanmu telah diterapkan.&lt;/strong&gt; Sekarang kamu bisa mulai menikmati KaOS. Jangan lupa untuk &lt;strong&gt;gabung komunitas kita!&lt;/strong&gt;&lt;/p&gt;</translation>
+        <translation>&lt;p&gt;&lt;strong&gt;Aplicáronse los tos axustes.&lt;/strong&gt;Agora pues entamar a esfrutar KaOS. &lt;strong&gt;¡Nun t&apos;escaezas de xunite a la nuesa comunidá!&lt;/strong&gt;&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_other.py" line="40"/>
         <source>System Settings</source>
-        <translation>Setelan Sistem</translation>
+        <translation>Axustes del sistema</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_other.py" line="37"/>
         <source>&lt;p&gt;Configuration tools for KaOS such as the display, network, keyboard, user manager...&lt;/p&gt;</source>
-        <translation>&lt;p&gt;Alat pengaturan untuk KaOS seperti halnya display, jaringan, keyboard, pengelola pengguna...</translation>
+        <translation>&lt;p&gt;Ferramientes de configuración pa KaOS como la pantalla, rede, tecláu, xestión d&apos;usuarios...&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_other.py" line="64"/>
         <source>Help and Support</source>
-        <translation>Bantuan dan Dukungan</translation>
+        <translation>Ayuda y sofitu</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_other.py" line="61"/>
         <source>&lt;p&gt;KaOS community, mailing lists, chat rooms, documents, help and support pages...&lt;/p&gt;</source>
-        <translation>&lt;p&gt;Komunitas KaOS, mailing lists, ruang chat, dokumentasi, bantuan dan halaman dukungan...</translation>
+        <translation>&lt;p&gt;Comunidá KaOS, llistes de corréu, sales de charra, documentos, ayuda y páxines de sofitu...&lt;/p&gt;</translation>
     </message>
 </context>
 <context>
@@ -208,22 +206,22 @@ kamu dapat memilih menukar tombol kiri dan kanan pada perangkat penunjuk kamu.&l
     <message>
         <location filename="../kaptan5/libkaptan/tabwidget.py" line="404"/>
         <source>Preview</source>
-        <translation>Pratinjau</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/tabwidget.py" line="418"/>
         <source>Window Text</source>
-        <translation>Taks Jendela</translation>
+        <translation>Testu de ventanes</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/tabwidget.py" line="423"/>
         <source>Button</source>
-        <translation>Tombol</translation>
+        <translation>Botón</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/tabwidget.py" line="432"/>
         <source>&lt;p&gt;Normal text &lt;a id=&apos;unclicked&apos; href=&apos;#&apos;&gt;link&lt;/a&gt; &lt;a id=&apos;clicked&apos; href=&apos;#&apos;&gt;visited&lt;/a&gt;&lt;/p&gt;</source>
-        <translation>&lt;p&gt;Teks normal &lt;a id=&apos;unclicked&apos; href=&apos;#&apos;&gt;tautan&lt;/a&gt; &lt;a id=&apos;clicked&apos; href=&apos;#&apos;&gt;dikunjungi&lt;/a&gt;&lt;/p&gt;</translation>
+        <translation>&lt;p&gt;Testu normal &lt;a id=&apos;unclicked&apos; href=&apos;#&apos;&gt;enllaz&lt;/a&gt; &lt;a id=&apos;clicked&apos; href=&apos;#&apos;&gt;andáu&lt;/a&gt;&lt;/p&gt;</translation>
     </message>
 </context>
 <context>
@@ -231,42 +229,42 @@ kamu dapat memilih menukar tombol kiri dan kanan pada perangkat penunjuk kamu.&l
     <message>
         <location filename="../kaptan5/libkaptan/tabwidget.py" line="259"/>
         <source>Preview</source>
-        <translation>Pratinjau</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/tabwidget.py" line="276"/>
         <source>Group Box</source>
-        <translation>Kotak Grup</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/tabwidget.py" line="290"/>
         <source>Radio Button</source>
-        <translation>Tombol Radio</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/tabwidget.py" line="301"/>
         <source>Check Box</source>
-        <translation>Kotak Centang</translation>
+        <translation>Caxellu</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/tabwidget.py" line="332"/>
         <source>Button</source>
-        <translation>Tombol</translation>
+        <translation>Botón</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/tabwidget.py" line="340"/>
         <source>Combo Box</source>
-        <translation>Kotak Combo</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/tabwidget.py" line="350"/>
         <source>Tab 1</source>
-        <translation>Tab 1</translation>
+        <translation>Llingüeta 1</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/tabwidget.py" line="355"/>
         <source>Tab 2</source>
-        <translation>Tab 2</translation>
+        <translation>Llingüeta 2</translation>
     </message>
 </context>
 <context>
@@ -274,62 +272,62 @@ kamu dapat memilih menukar tombol kiri dan kanan pada perangkat penunjuk kamu.&l
     <message>
         <location filename="../kaptan5/libkaptan/ui_summary.py" line="7"/>
         <source>&lt;h2&gt;Save Your Settings&lt;/h2&gt;</source>
-        <translation>&lt;h2&gt;Simpan Setelanmu&lt;/h2&gt;</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_summary.py" line="13"/>
         <source>&lt;p&gt;You have successfully finished all steps. Here&apos;s a summary of the settings you want to apply.         Click &lt;strong&gt;Apply Settings&lt;/strong&gt; to save them now. You are now ready to enjoy KaOS!&lt;/p&gt;</source>
-        <translation>&lt;p&gt;Kamu telah sukses menyelesaikan semua langkah. Di sini sebuah ikhtisar dari setelan yang kamu inginkan untuk terapkan. Klik &lt;strong&gt;Terapkan Setelan&lt;/strong&gt; untuk menyimpannya sekarang. Kamu sekarang siap untuk menikmati KaOS!&lt;/p&gt;</translation>
+        <translation>&lt;p&gt;Finesti con ésitu tolos pasos. Equí hai un resume de los axustes que quies aplicar. Primi &lt;strong&gt;Aplicar axustes&lt;/strong&gt; pa guardalos. ¡Agora tas preparáu pa esfrutar KaOS!&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_summary.py" line="19"/>
         <source>The following settings will be applied</source>
-        <translation>Setelan berikut ini akan diterapkan</translation>
+        <translation>Aplicaránse los axustes de darréu</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_summary.py" line="58"/>
         <source>Right Handed</source>
-        <translation>Tangan Kanan</translation>
+        <translation>Derechu</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_summary.py" line="60"/>
         <source>Left Handed</source>
-        <translation>Tangan Kiri</translation>
+        <translation>Manzorgu</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_summary.py" line="63"/>
         <source>Single Click</source>
-        <translation>Klik Tunggal</translation>
+        <translation>Un clic</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_summary.py" line="65"/>
         <source>Double Click</source>
-        <translation>Klik Ganda</translation>
+        <translation>Clic doblu</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_summary.py" line="68"/>
         <source>Desktop View</source>
-        <translation>Tampilan Desktop</translation>
+        <translation>Vista d&apos;escritoriu</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_summary.py" line="70"/>
         <source>Folder View</source>
-        <translation>Tampilan Folder</translation>
+        <translation>Vista de carpetes</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_summary.py" line="73"/>
         <source>Application Launcher</source>
-        <translation>Peluncur Aplikasi</translation>
+        <translation>Llanzador d&apos;aplicaciones</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_summary.py" line="75"/>
         <source>Application Menu</source>
-        <translation>Menu Aplikasi</translation>
+        <translation>Menú d&apos;aplicaciones</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_summary.py" line="77"/>
         <source>Application Panel</source>
-        <translation>Panel Aplikasi</translation>
+        <translation>Llanzador d&apos;aplicaciones</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_summary.py" line="89"/>
@@ -359,35 +357,35 @@ kamu dapat memilih menukar tombol kiri dan kanan pada perangkat penunjuk kamu.&l
             &lt;/li&gt;
         &lt;/ul&gt;</source>
         <translation>
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Mouse Options&lt;/strong&gt;
-&lt;/li&gt;
-&lt;ul&gt;
-&lt;li&gt;Pilih Tangan: &lt;strong&gt;{}&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;Pilih Perilaku Pengeklikan: &lt;strong&gt;{}&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;li&gt;&lt;strong&gt;Pilihan Tema&lt;/strong&gt;
-&lt;ul&gt;
-&lt;li&gt;Jumlah Desktop: &lt;strong&gt;{}&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;Tipe Desktop: &lt;strong&gt;{}&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;Gaya Widget: &lt;strong&gt;{}&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;Gaya Window: &lt;strong&gt;{}&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;Skema Warna: &lt;strong&gt;{}&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;Tema Desktop: &lt;strong&gt;{}&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;Set Ikon: &lt;strong&gt;{}&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Pilihan Menu&lt;/strong&gt;
-&lt;ul&gt;
-&lt;li&gt;Pilih Menu: &lt;strong&gt;{}&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;</translation>
+        &lt;ul&gt;
+            &lt;li&gt;&lt;strong&gt;Opciones del mur&lt;/strong&gt;
+            &lt;/li&gt;
+                &lt;ul&gt;
+                    &lt;li&gt;Mano esbillada: &lt;strong&gt;{}&lt;/strong&gt;&lt;/li&gt;
+                    &lt;li&gt;Comportamientu esbilláu de clic: &lt;strong&gt;{}&lt;/strong&gt;&lt;/li&gt;
+                &lt;/ul&gt;
+            &lt;li&gt;&lt;strong&gt;Opciones del tema&lt;/strong&gt;
+                &lt;ul&gt;
+                    &lt;li&gt;Cantidá d&apos;escritorios: &lt;strong&gt;{}&lt;/strong&gt;&lt;/li&gt;
+                    &lt;li&gt;Triba d&apos;escritoriu: &lt;strong&gt;{}&lt;/strong&gt;&lt;/li&gt;
+                    &lt;li&gt;Estilu de widgets: &lt;strong&gt;{}&lt;/strong&gt;&lt;/li&gt;
+                    &lt;li&gt;Estilu de ventanes: &lt;strong&gt;{}&lt;/strong&gt;&lt;/li&gt;
+                    &lt;li&gt;Esquema de colores: &lt;strong&gt;{}&lt;/strong&gt;&lt;/li&gt;
+                    &lt;li&gt;Desktop Theme: &lt;strong&gt;{}&lt;/strong&gt;&lt;/li&gt;
+                    &lt;li&gt;Conxuntu d&apos;iconos: &lt;strong&gt;{}&lt;/strong&gt;&lt;/li&gt;
+                &lt;/ul&gt;
+            &lt;/li&gt;
+            &lt;li&gt;&lt;strong&gt;Opciones de menú&lt;/strong&gt;
+                &lt;ul&gt;
+                    &lt;li&gt;Menú esbilláu: &lt;strong&gt;{}&lt;/strong&gt;&lt;/li&gt;
+                &lt;/ul&gt;
+            &lt;/li&gt;
+        &lt;/ul&gt;</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_summary.py" line="135"/>
         <source>Unspecified.</source>
-        <translation>Tak ditentukan.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_summary.py" line="121"/>
@@ -404,19 +402,7 @@ kamu dapat memilih menukar tombol kiri dan kanan pada perangkat penunjuk kamu.&l
                 &lt;/ul&gt;
             &lt;/li&gt;
         &lt;/ul&gt;</source>
-        <translation>
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Pilih Wallpaper&lt;/strong&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;{}&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Pilih Avatar&lt;/strong&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;{}&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -424,7 +410,7 @@ kamu dapat memilih menukar tombol kiri dan kanan pada perangkat penunjuk kamu.&l
     <message>
         <location filename="../kaptan5/libkaptan/tabwidget.py" line="38"/>
         <source>Widget Style:</source>
-        <translation>Gaya Widget:</translation>
+        <translation>Estilu de widgets:</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/tabwidget.py" line="44"/>
@@ -449,32 +435,32 @@ kamu dapat memilih menukar tombol kiri dan kanan pada perangkat penunjuk kamu.&l
     <message>
         <location filename="../kaptan5/libkaptan/tabwidget.py" line="61"/>
         <source>Widget Style</source>
-        <translation>Gaya Widget</translation>
+        <translation>Estilu de widgets</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/tabwidget.py" line="128"/>
         <source>Window Style</source>
-        <translation>Gaya Jendela</translation>
+        <translation>Estilu de ventanes</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/tabwidget.py" line="155"/>
         <source>Color Scheme</source>
-        <translation>Skema Warna</translation>
+        <translation>Esquema de color</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/tabwidget.py" line="160"/>
         <source>&lt;p&gt;Normal text &lt;a id=&apos;unclicked&apos; href=&apos;#&apos;&gt;link&lt;/a&gt; &lt;a id=&apos;clicked&apos; href=&apos;#&apos;&gt;visited&lt;/a&gt;&lt;/p&gt;</source>
-        <translation>&lt;p&gt;Teks normal &lt;a id=&apos;unclicked&apos; href=&apos;#&apos;&gt;tautan&lt;/a&gt; &lt;a id=&apos;clicked&apos; href=&apos;#&apos;&gt;dikunjungi&lt;/a&gt;&lt;/p&gt;</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/tabwidget.py" line="220"/>
         <source>Desktop Theme</source>
-        <translation>Tama Desktop</translation>
+        <translation>Tema d&apos;escritoriu</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/tabwidget.py" line="253"/>
         <source>Icon Set</source>
-        <translation>Set Ikon</translation>
+        <translation>Conxunu d&apos;iconos</translation>
     </message>
 </context>
 <context>
@@ -482,37 +468,37 @@ kamu dapat memilih menukar tombol kiri dan kanan pada perangkat penunjuk kamu.&l
     <message>
         <location filename="../kaptan5/libkaptan/ui_theme.py" line="13"/>
         <source>&lt;h2&gt;Customize Your Desktop&lt;/h2&gt;</source>
-        <translation>&lt;h2&gt;Suaikan Desktopmu&lt;/h2&gt;</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_theme.py" line="24"/>
         <source>&lt;p&gt;Choose your favorite theme and desktop type. Customize KaOS with different styles and themes.&lt;/p&gt;</source>
-        <translation>&lt;p&gt;Pilih tipe desktop dan tema favoritmu. Suaikan KaOS dengan tema dan gaya yang berbeda.&lt;/p&gt;</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_theme.py" line="70"/>
         <source>Desktop Type</source>
-        <translation>Tipe Desktop</translation>
+        <translation>Triba d&apos;escritoriu</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_theme.py" line="73"/>
         <source>Number of Desktops</source>
-        <translation>Jumlah Desktop</translation>
+        <translation>Númberu d&apos;escritorios</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_theme.py" line="77"/>
         <source>Desktop View</source>
-        <translation>Tampilan Desktop</translation>
+        <translation>Vista d&apos;escritoriu</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_theme.py" line="78"/>
         <source>Folder View</source>
-        <translation>Tampilan Folder</translation>
+        <translation>Vista de carpetes</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_theme.py" line="87"/>
         <source>Add Show Desktop Plasmoid</source>
-        <translation>Tambahkan Tampilan Desktop Plasmoid</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -520,32 +506,32 @@ kamu dapat memilih menukar tombol kiri dan kanan pada perangkat penunjuk kamu.&l
     <message>
         <location filename="../kaptan5/libkaptan/ui_wallpaper.py" line="12"/>
         <source>&lt;h2&gt;Choose Wallpaper&lt;/h2&gt;</source>
-        <translation>&lt;h2&gt;Pilih Wallpaper&lt;/h2&gt;</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_wallpaper.py" line="23"/>
         <source>&lt;p&gt;Choose your favorite wallpaper for KaOS. Don&apos;t forget to check out         &lt;strong&gt;Desktop Settings&lt;/strong&gt; for downloading new and cool wallpapers.&lt;/p&gt;</source>
-        <translation>&lt;p&gt;Pilih wallpaper favoritmu untuk KaOS. Jangan lupa memeriksa &lt;strong&gt;Setelan Desktop&lt;/strong&gt; untuk mengunduh wallpaper baru dan keren.&lt;/p&gt;</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_wallpaper.py" line="32"/>
         <source>Wallpapers</source>
-        <translation>Wallpaper</translation>
+        <translation>Fondos de pantalla</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_wallpaper.py" line="46"/>
         <source>Choose wallpaper from file</source>
-        <translation>Pilih wallpaper dari file</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_wallpaper.py" line="52"/>
         <source>Don&apos;t change wallpaper</source>
-        <translation>Jangan ubah wallpaper</translation>
+        <translation>Nun camudar fondu</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_wallpaper.py" line="100"/>
         <source>Choose wallpaper</source>
-        <translation>Pilih wallpaper</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -553,7 +539,7 @@ kamu dapat memilih menukar tombol kiri dan kanan pada perangkat penunjuk kamu.&l
     <message>
         <location filename="../kaptan5/libkaptan/ui_welcome.py" line="8"/>
         <source>&lt;h2&gt;Welcome to KaOS&lt;/h2&gt;</source>
-        <translation>&lt;h2&gt;Selamat Datang di KaOS&lt;/h2&gt;</translation>
+        <translation>&lt;h2&gt;Bienllegau a KaOS&lt;/h2&gt;</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_welcome.py" line="15"/>
@@ -565,14 +551,15 @@ kamu dapat memilih menukar tombol kiri dan kanan pada perangkat penunjuk kamu.&l
         &lt;p&gt;This wizard will help you personalize your KaOS workspace easily and quickly.&lt;/p&gt;
         &lt;p&gt;Please click &lt;i&gt;Next&lt;/i&gt; in order to begin. Click &lt;i&gt;Cancel&lt;/i&gt; anytime and changes won't be saved,&lt;br /&gt;
         click &lt;i&gt;close window&lt;/i&gt; or &lt;i&gt;Finished&lt;/i&gt; and the wizard won&apos;t autostart any longer.&lt;/p&gt;</source>
-        <translation>&lt;h1&gt;Apa sih KaOS?&lt;/h1&gt;
-&lt;p&gt;Gagasan di balik KaOS adalah untuk menciptakan distribusi bergulir&lt;br /&gt;
-terintegrasi dan transparan untuk desktop modern, membangun dari awal dengan&lt;br /&gt;
-fokus yang sangat spesifik. Fokus pada satu DE (KDE), satu toolkit (Qt) &amp; satu arsitektur (x86_64).&lt;br /&gt;
-Ditambah fokus pada evaluasi dan memilih alat dan aplikasi yang paling cocok.&lt;/p&gt;
-&lt;p&gt;Wizard ini akan membantu kamu mempersonalisasi ruang kerja KaOS-mu dengan mudah dan cepat.&lt;/p&gt;
-&lt;p&gt;Silakan klik &lt;i&gt;Selanjutnya&lt;/i&gt; untuk mulai. Klik &lt;i&gt;Batal&lt;/i&gt; kapan saja dan perubahan tidak akan disimpan,&lt;br /&gt;
-klik &lt;i&gt;tutup jendela&lt;/i&gt; atau  &lt;i&gt;Selesai&lt;/i&gt; dan wizard tidak akan autostart lagi.</translation>
+        <translation>&lt;h1&gt;¿Qué ye KaOS?&lt;/h1&gt;
+&lt;p&gt;La idea darrera KaOS ye crear un distribución bien integrada y de&lt;br /&gt;
+llanzamientu continuu pal escritoriu modernu, construyida dende l&apos;entamu&lt;br /&gt;
+con un focu perespecíficu. Focu nun ED (KDE), un kit de ferramientes (Qt)&lt;br /&gt;
+y una arquitectura (x86_64).&lt;br /&gt;
+Amás d&apos;enfocase na evaluación y esbilla de les ferramientes y aplicaciones más afayadices.&lt;/p&gt;
+&lt;p&gt;Esti encontu ayudaráte a personalizar la to estaya de trabayu de KaOS de mou cenciellu y rápidu.&lt;/p&gt;
+&lt;p&gt;Primi &lt;i&gt;Siguiente&lt;/i&gt; pa entamar. Primi &lt;i&gt;Encaboxar&lt;/i&gt; en cualesquier momentu y nun se guardarán les camudancies,&lt;br /&gt;
+primi &lt;i&gt;zarrar ventana&lt;/i&gt; o &lt;i&gt;Finar&lt;/i&gt; y l&apos;encontú yá nun s&apos;aniciará automáticamente&lt;/p&gt;</translation>
     </message>
 </context>
 </TS>
