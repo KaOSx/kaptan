@@ -80,6 +80,13 @@ class ThemeTabWidget(QTabWidget):
 
         item = QListWidgetItem(self.listWidgetWindowStyle)
         icon = QIcon()
+        icon.addPixmap(QPixmap(":/data/images/breeze_deco.png"))
+        item.setIcon(icon)
+        item.setText("Breeze")
+        item.setStyleText = "org.kde.breeze"
+        item.themeText = ""
+        item = QListWidgetItem(self.listWidgetWindowStyle)
+        icon = QIcon()
         icon.addPixmap(QPixmap(":/data/images/midna-flat_deco.png"))
         item.setIcon(icon)
         item.setText("Midna Flat")
@@ -94,11 +101,6 @@ class ThemeTabWidget(QTabWidget):
         item.themeText = "__aurorae__svg__MidnaDark"
         item = QListWidgetItem(self.listWidgetWindowStyle)
         icon = QIcon()
-        icon.addPixmap(QPixmap(":/data/images/breeze_deco.png"))
-        item.setIcon(icon)
-        item.setText("Breeze")
-        item.setStyleText = "org.kde.breeze"
-        item.themeText = ""
         item = QListWidgetItem(self.listWidgetWindowStyle)
         icon = QIcon()
         icon.addPixmap(QPixmap(":/data/images/midna-grey_deco.png"))
