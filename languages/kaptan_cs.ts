@@ -4,7 +4,7 @@
     <message>
         <location filename="../kaptan5/libkaptan/ui_avatar.py" line="16"/>
         <source>&lt;h2&gt;Create Your Avatar&lt;/h2&gt;</source>
-        <translation>&lt;h2&gt;Vytvoř svého Avatara&lt;/h2&gt;</translation>
+        <translation>&lt;h2&gt;Vytvořte svého avatara&lt;/h2&gt;</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_avatar.py" line="28"/>
@@ -19,7 +19,7 @@
     <message>
         <location filename="../kaptan5/libkaptan/ui_avatar.py" line="45"/>
         <source>Choose an image...</source>
-        <translation>Vyberte obrázek...</translation>
+        <translation>Vybrat obrázek...</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_avatar.py" line="55"/>
@@ -34,12 +34,12 @@
     <message>
         <location filename="../kaptan5/libkaptan/ui_avatar.py" line="74"/>
         <source>Recapture</source>
-        <translation>Znovu zachytit</translation>
+        <translation>Zachytit znovu</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_avatar.py" line="133"/>
         <source>Choose Avatar</source>
-        <translation>Vyberte Avatara</translation>
+        <translation>Vybrat uživatelský obrázek</translation>
     </message>
 </context>
 <context>
@@ -80,32 +80,32 @@
     <message>
         <location filename="../kaptan5/libkaptan/ui_menu.py" line="11"/>
         <source>&lt;h2&gt;Select Menu Style&lt;/h2&gt;</source>
-        <translation>&lt;h2&gt;Vyberte styl menu&lt;/h2&gt;</translation>
+        <translation>&lt;h2&gt;Vyberte styl nabídky&lt;/h2&gt;</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_menu.py" line="14"/>
         <source>&lt;p&gt;Application Menu is the default for KaOS because of its             extremely lightweight (and fast) structure.&lt;/p&gt;</source>
-        <translation>&lt;p&gt;Menu aplikací je výchozí volba pro KaOS protože jde o extrémně odlehčenou (a rychlou) strukturu.&lt;/p&gt;</translation>
+        <translation>&lt;p&gt;Nabídka aplikací je výchozí volba pro KaOS, protože jde o nesmírně odlehčenou (a rychlou) strukturu.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_menu.py" line="16"/>
         <source>&lt;p&gt;Application Launcher is the standard for KDE.             Application shortcuts are arranged under a tab structure.&lt;/p&gt;</source>
-        <translation>&lt;p&gt;Spouštěč aplikací je standardní pro KDE. Odkazy na aplikace jsou uspořádány ve struktuře záložek.&lt;/p&gt; </translation>
+        <translation>&lt;p&gt;Spouštěč aplikací je standardní pro KDE. Odkazy na programy jsou uspořádány ve stavbě záložek.&lt;/p&gt; </translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_menu.py" line="18"/>
         <source>&lt;p&gt;Application Panel is a full screen menu style.             Application shortcuts are arranged so that you can access them quickly and easily.&lt;/p&gt;</source>
-        <translation>&lt;p&gt;Panel aplikací je celoobrazovkový styl menu. Odkazy na aplikace jsou uspořádány tak, že jsou dostupné rychle a snadno.&lt;/p&gt;</translation>
+        <translation>&lt;p&gt;Panel aplikací je celoobrazovkový styl nabídky. Odkazy na programy jsou uspořádány tak, že jsou dostupné rychle a snadno.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_menu.py" line="36"/>
         <source>&lt;p&gt;You can also customize your &lt;strong&gt;KDE menu&lt;/strong&gt; as you like.         Please choose one from the following styles.&lt;/p&gt;</source>
-        <translation>&lt;p&gt;Můžete také upravit vaše &lt;strong&gt;KDE menu&lt;/strong&gt; jak potřebujete. Prosím vyberte jeden z následujících stylů.&lt;/p&gt;</translation>
+        <translation>&lt;p&gt;Můžete také upravit vaši &lt;strong&gt;nabídku KDE&lt;/strong&gt;, jak potřebujete. Vyberte, prosím, jeden z následujících stylů.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_menu.py" line="44"/>
         <source>Application Menu</source>
-        <translation>Menu aplikací</translation>
+        <translation>Nabídka aplikací</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_menu.py" line="45"/>
@@ -115,7 +115,7 @@
     <message>
         <location filename="../kaptan5/libkaptan/ui_menu.py" line="46"/>
         <source>Application Dashboard</source>
-        <translation>Dashboard s aplikacemi</translation>
+        <translation>Nástěnka s aplikacemi</translation>
     </message>
 </context>
 <context>
@@ -130,22 +130,22 @@
         <source>&lt;p&gt;The &lt;strong&gt;clicking behavior&lt;/strong&gt; defines how many times you want
         to click when you are opening a file. If you are &lt;strong&gt;left handed&lt;/strong&gt;, you may prefer to
         swap the left and right buttons of your pointing device.&lt;/p&gt;</source>
-        <translation>&lt;p&gt;&lt;strong&gt;Chování při klinutích&lt;/strong&gt; definuje kolikrát musíte kliknout aby se otevřel soubor. Pokud jste &lt;strong&gt;levák&lt;/strong&gt;, můžete preferovat přehození levého a pravého tlačítka na myši.&lt;/p&gt;</translation>
+        <translation>&lt;p&gt;&lt;strong&gt;Chování při klepnutích&lt;/strong&gt; určuje, kolikrát musíte klepnout, aby se otevřel soubor. Pokud jste &lt;strong&gt;levák&lt;/strong&gt;, můžete upřednostňovat přehození levého a pravého tlačítka na myši.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_mouse.py" line="45"/>
         <source>Clicking Behavior</source>
-        <translation>Chování při klinutích</translation>
+        <translation>Chování při klepnutích</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_mouse.py" line="54"/>
         <source>Single-click to open files and folders.</source>
-        <translation>Jednoduché kliknutí pro otevření souboru nebo složky.</translation>
+        <translation>Jednoduché klepnutí pro otevření souboru nebo složky.</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_mouse.py" line="59"/>
         <source>Double-click to open files and folders.</source>
-        <translation>Dvojité kliknutí pro otevření souboru nebo složky.</translation>
+        <translation>Dvojité klepnutí pro otevření souboru nebo složky.</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_mouse.py" line="69"/>
@@ -165,7 +165,7 @@
     <message>
         <location filename="../kaptan5/libkaptan/ui_mouse.py" line="92"/>
         <source>Reverse scrolling.</source>
-        <translation>Otočené skrolování.</translation>
+        <translation>Obrácené točení kolečkem myši.</translation>
     </message>
 </context>
 <context>
@@ -173,12 +173,12 @@
     <message>
         <location filename="../kaptan5/libkaptan/ui_other.py" line="10"/>
         <source>&lt;h2&gt;Congratulations!&lt;/h2&gt;</source>
-        <translation>&lt;h2&gt;Gratulujeme!&lt;/h2&gt;</translation>
+        <translation>&lt;h2&gt;Blahopřejeme!&lt;/h2&gt;</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_other.py" line="20"/>
         <source>&lt;p&gt;&lt;strong&gt;Your settings have been applied.&lt;/strong&gt; Now you can start enjoying KaOS.         Don&apos;t forget to &lt;strong&gt;join our community!&lt;/strong&gt;&lt;/p&gt;</source>
-        <translation>&lt;p&gt;&lt;strong&gt;Vaše nastavení bylo použito.&lt;/strong&gt; Nyní si můžete začít užívat KaOS. Nezapomeňte se &lt;strong&gt;připojit ke komunitě&lt;/strong&gt;!&lt;/p&gt;</translation>
+        <translation>&lt;p&gt;&lt;strong&gt;Vaše nastavení bylo použito.&lt;/strong&gt; Nyní si můžete začít užívat KaOS. Nezapomeňte se &lt;strong&gt;připojit ke společenství&lt;/strong&gt;!&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_other.py" line="40"/>
@@ -188,17 +188,17 @@
     <message>
         <location filename="../kaptan5/libkaptan/ui_other.py" line="37"/>
         <source>&lt;p&gt;Configuration tools for KaOS such as the display, network, keyboard, user manager...&lt;/p&gt;</source>
-        <translation>&lt;p&gt;Konfigurace nástrojů systému KaOS pro obrazovku, síť, klávesnici, uživatele...&lt;/p&gt;</translation>
+        <translation>&lt;p&gt;Nastavení nástrojů systému KaOS pro obrazovku, síť, klávesnici, uživatele...&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_other.py" line="64"/>
         <source>Help and Support</source>
-        <translation>Pomoc a podpora</translation>
+        <translation>Nápověda a podpora</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_other.py" line="61"/>
         <source>&lt;p&gt;KaOS community, mailing lists, chat rooms, documents, help and support pages...&lt;/p&gt;</source>
-        <translation>&lt;p&gt;Komunitní mailing list, diskusní místnost, dokumentace, nápověda a stránky podpory pro KaOS.&lt;/p&gt;</translation>
+        <translation>&lt;p&gt;Společenství KaOS, poštovní seznamy, diskusní místnosti, dokumentace, nápověda a stránky s podporou.&lt;/p&gt;</translation>
     </message>
 </context>
 <context>
@@ -277,7 +277,7 @@
     <message>
         <location filename="../kaptan5/libkaptan/ui_summary.py" line="13"/>
         <source>&lt;p&gt;You have successfully finished all steps. Here&apos;s a summary of the settings you want to apply.         Click &lt;strong&gt;Apply Settings&lt;/strong&gt; to save them now. You are now ready to enjoy KaOS!&lt;/p&gt;</source>
-        <translation>&lt;p&gt;Úspěšně jste dokončili všechny kroky. Zde je souhrn vašeho nastavení, které chcete použít. Pro uložení klikněte na &lt;strong&gt;Použít nastavení&lt;/strong&gt;. Nyní jste připraveni užít si KaOS!&lt;/p&gt;</translation>
+        <translation>&lt;p&gt;Úspěšně jste dokončili všechny kroky. Zde je souhrn vašeho nastavení, které chcete použít. Pro uložení klepněte na &lt;strong&gt;Použít nastavení&lt;/strong&gt;. Nyní jste připraveni užít si KaOS!&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_summary.py" line="19"/>
@@ -297,12 +297,12 @@
     <message>
         <location filename="../kaptan5/libkaptan/ui_summary.py" line="63"/>
         <source>Single Click</source>
-        <translation>Jednoduché kliknutí</translation>
+        <translation>Jednoduché klepnutí</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_summary.py" line="65"/>
         <source>Double Click</source>
-        <translation>Dvojité kliknutí</translation>
+        <translation>Dvojité klepnutí</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_summary.py" line="68"/>
@@ -322,7 +322,7 @@
     <message>
         <location filename="../kaptan5/libkaptan/ui_summary.py" line="75"/>
         <source>Application Menu</source>
-        <translation>Menu aplikací</translation>
+        <translation>Nabídka aplikací</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_summary.py" line="77"/>
@@ -362,9 +362,9 @@
             &lt;/li&gt;
                 &lt;ul&gt;
                     &lt;li&gt;Uspořádání tlačítek: &lt;strong&gt;{}&lt;/strong&gt;&lt;/li&gt;
-                    &lt;li&gt;Vybrané chování při klinutích: &lt;strong&gt;{}&lt;/strong&gt;&lt;/li&gt;
+                    &lt;li&gt;Vybrané chování při klepnutích: &lt;strong&gt;{}&lt;/strong&gt;&lt;/li&gt;
                 &lt;/ul&gt;
-            &lt;li&gt;&lt;strong&gt;Volby téma&lt;/strong&gt;
+            &lt;li&gt;&lt;strong&gt;Volby pro téma&lt;/strong&gt;
                 &lt;ul&gt;
                     &lt;li&gt;Počet ploch: &lt;strong&gt;{}&lt;/strong&gt;&lt;/li&gt;
                     &lt;li&gt;Typ plochy: &lt;strong&gt;{}&lt;/strong&gt;&lt;/li&gt;
@@ -375,9 +375,9 @@
                     &lt;li&gt;Sada ikon: &lt;strong&gt;{}&lt;/strong&gt;&lt;/li&gt;
                 &lt;/ul&gt;
             &lt;/li&gt;
-            &lt;li&gt;&lt;strong&gt;Volby menu&lt;/strong&gt;
+            &lt;li&gt;&lt;strong&gt;Volby pro nabídku&lt;/strong&gt;
                 &lt;ul&gt;
-                    &lt;li&gt;Vybrané menu: &lt;strong&gt;{}&lt;/strong&gt;&lt;/li&gt;
+                    &lt;li&gt;Vybraná nabídka: &lt;strong&gt;{}&lt;/strong&gt;&lt;/li&gt;
                 &lt;/ul&gt;
             &lt;/li&gt;
         &lt;/ul&gt;</translation>
@@ -385,7 +385,7 @@
     <message>
         <location filename="../kaptan5/libkaptan/ui_summary.py" line="135"/>
         <source>Unspecified.</source>
-        <translation>Nespecifikováno</translation>
+        <translation>Nestanoveno.</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_summary.py" line="121"/>
@@ -564,10 +564,10 @@
         &lt;p&gt;Please click &lt;i&gt;Next&lt;/i&gt; in order to begin. Click &lt;i&gt;Cancel&lt;/i&gt; anytime and changes won't be saved,&lt;br /&gt;
         click &lt;i&gt;close window&lt;/i&gt; or &lt;i&gt;Finished&lt;/i&gt; and the wizard won&apos;t autostart any longer.&lt;/p&gt;</source>
         <translation>&lt;h1&gt;Co je KaOS?&lt;/h1&gt;
-       &lt;p&gt; Idea stojící za systémem KaOS je vytvořit vysoce integrovanou rolling distribuci pro moderní desktop. Je to distribuce s velmi specifickým zaměřením budovaná od nuly. Soustředí se na jedno grafické prostředí (KDE), jeden toolkit (Qt) a jednu architekturu (x86_64).
+       &lt;p&gt; Myšlenka stojící za systémem KaOS je vytvořit vysoce celistvou průběžně aktualizovanou, srozumitelnou distribuci pro moderní pracovní prostředí. Je to distribuce s velmi přesně stanoveným zaměřením budovaná od nuly. Soustředí se na jedno grafické prostředí (KDE), jeden toolkit (Qt) a jednu architekturu (x86_64).
 A navíc se zaměřením na výběr a posouzení nejvhodnějších nástrojů a aplikací.&lt;/p&gt;
 &lt;p&gt;Tento průvodce vám pomůže přizpůsobit si pracovní prostředí KaOS jednoduše a rychle.&lt;/p&gt;
-&lt;p&gt;Pro pokračování prosím klikněte na &lt;i&gt;Další&lt;/i&gt;. Pokud kdykoli kliknete na &lt;i&gt;Zrušit&lt;/i&gt;, změny nebudou uloženy. Klikněte na &lt;i&gt;Uzavřít okno&lt;/i&gt; nebo &lt;i&gt;Zavřít&lt;/i&gt; a průvodce již déle nebude automaticky startovat.&lt;/p&gt;</translation>
+&lt;p&gt;Pro pokračování, prosím, klepněte na &lt;i&gt;Další&lt;/i&gt;. Pokud kdykoli klepnete na &lt;i&gt;Zrušit&lt;/i&gt;, změny nebudou uloženy. Klepněte na &lt;i&gt;Uzavřít okno&lt;/i&gt; nebo &lt;i&gt;Zavřít&lt;/i&gt; a průvodce se už více nebude automaticky spouštět.&lt;/p&gt;</translation>
     </message>
 </context>
 </TS>
