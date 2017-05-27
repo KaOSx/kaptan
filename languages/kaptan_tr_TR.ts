@@ -123,7 +123,7 @@
     <message>
         <location filename="../kaptan5/libkaptan/ui_mouse.py" line="11"/>
         <source>&lt;h2&gt;Setup Mouse Behavior&lt;/h2&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;h2&gt;Fare davranışını ayarla&lt;/h2&gt;</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_mouse.py" line="22"/>
@@ -135,22 +135,22 @@
     <message>
         <location filename="../kaptan5/libkaptan/ui_mouse.py" line="45"/>
         <source>Clicking Behavior</source>
-        <translation type="unfinished"/>
+        <translation>Tıklama davranışı</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_mouse.py" line="54"/>
         <source>Single-click to open files and folders.</source>
-        <translation type="unfinished"/>
+        <translation>Dosyaları ve klasörleri açmak için tek tıkla.</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_mouse.py" line="59"/>
         <source>Double-click to open files and folders.</source>
-        <translation type="unfinished"/>
+        <translation>Dosya ve klasörleri açmak için çift tıklayın.</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_mouse.py" line="69"/>
         <source>Button Order</source>
-        <translation type="unfinished"/>
+        <translation>Düğme Düzeni</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_mouse.py" line="78"/>
@@ -198,7 +198,7 @@
     <message>
         <location filename="../kaptan5/libkaptan/ui_other.py" line="61"/>
         <source>&lt;p&gt;KaOS community, mailing lists, chat rooms, documents, help and support pages...&lt;/p&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;p&gt;Kaos topluluğu, posta listeleri, sohbet odaları, belgeler, yardım ve destek sayfaları ...&lt;/p&gt;</translation>
     </message>
 </context>
 <context>
@@ -356,7 +356,31 @@
                 &lt;/ul&gt;
             &lt;/li&gt;
         &lt;/ul&gt;</source>
-        <translation type="unfinished"/>
+        <translation>
+        &lt;ul&gt;
+            &lt;li&gt;&lt;strong&gt;Fare seçenekleri&lt;/strong&gt;
+            &lt;/li&gt;
+                &lt;ul&gt;
+                    &lt;li&gt;Seçilen El: &lt;strong&gt;{}&lt;/strong&gt;&lt;/li&gt;
+                    &lt;li&gt;Seçilen tıklama davranışı: &lt;strong&gt;{}&lt;/strong&gt;&lt;/li&gt;
+                &lt;/ul&gt;
+            &lt;li&gt;&lt;strong&gt;Tema Ayarları&lt;/strong&gt;
+                &lt;ul&gt;
+                    &lt;li&gt;Masaüstü Sayısı: &lt;strong&gt;{}&lt;/strong&gt;&lt;/li&gt;
+                    &lt;li&gt;Masaüstü Türü:&lt;strong&gt;{}&lt;/strong&gt;&lt;/li&gt;
+                    &lt;li&gt;Widget Stili: &lt;strong&gt;{}&lt;/strong&gt;&lt;/li&gt;
+                    &lt;li&gt;Pencere Sitili: &lt;strong&gt;{}&lt;/strong&gt;&lt;/li&gt;
+                    &lt;li&gt;Renk Uyumu: &lt;strong&gt;{}&lt;/strong&gt;&lt;/li&gt;
+                    &lt;li&gt;Masaüstü Teması: &lt;strong&gt;{}&lt;/strong&gt;&lt;/li&gt;
+                    &lt;li&gt;Simge Seti: &lt;strong&gt;{}&lt;/strong&gt;&lt;/li&gt;
+                &lt;/ul&gt;
+            &lt;/li&gt;
+            &lt;li&gt;&lt;strong&gt;Menü Seçeneği&lt;/strong&gt;
+                &lt;ul&gt;
+                    &lt;li&gt;Seçilen Menü: &lt;strong&gt;{}&lt;/strong&gt;&lt;/li&gt;
+                &lt;/ul&gt;
+            &lt;/li&gt;
+        &lt;/ul&gt;</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_summary.py" line="135"/>
@@ -378,7 +402,19 @@
                 &lt;/ul&gt;
             &lt;/li&gt;
         &lt;/ul&gt;</source>
-        <translation type="unfinished"/>
+        <translation>
+        &lt;ul&gt;
+            &lt;li&gt;&lt;strong&gt;Seçili duvar kağıdı&lt;/strong&gt;
+                &lt;ul&gt;
+                    &lt;li&gt;&lt;strong&gt;{}&lt;/strong&gt;&lt;/li&gt;
+                &lt;/ul&gt;
+            &lt;/li&gt;
+            &lt;li&gt;&lt;strong&gt;Seçili avatar&lt;/strong&gt;
+                &lt;ul&gt;
+                    &lt;li&gt;&lt;strong&gt;{}&lt;/strong&gt;&lt;/li&gt;
+                &lt;/ul&gt;
+            &lt;/li&gt;
+        &lt;/ul&gt;</translation>
     </message>
 </context>
 <context>
@@ -426,7 +462,7 @@
     <message>
         <location filename="../kaptan5/libkaptan/tabwidget.py" line="160"/>
         <source>&lt;p&gt;Normal text &lt;a id=&apos;unclicked&apos; href=&apos;#&apos;&gt;link&lt;/a&gt; &lt;a id=&apos;clicked&apos; href=&apos;#&apos;&gt;visited&lt;/a&gt;&lt;/p&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;p&gt;Normal metin &lt;a id=&apos;unclicked&apos; href=&apos;#&apos;&gt;bağlantı&lt;/a&gt; &lt;a id=&apos;clicked&apos; href=&apos;#&apos;&gt;ziyaret edilmiş&lt;/a&gt;&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/tabwidget.py" line="220"/>
