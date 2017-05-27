@@ -21,9 +21,9 @@ class Kaptan(QWizard):
         self.move(x, y)
         self.setPixmap(QWizard.LogoPixmap, QPixmap(":/data/images/kaptan-logo.png"))
 
-        self.setButtonText(QWizard.HelpButton, self.tr("Next"))
-        self.button(QWizard.HelpButton).setIcon(QIcon.fromTheme("arrow-right"))
-        self.button(QWizard.HelpButton).setLayoutDirection(Qt.RightToLeft)
+        #self.setButtonText(QWizard.NextButton, self.tr("Next"))
+        #self.button(QWizard.NextButton).setIcon(QIcon.fromTheme("arrow-right"))
+        #self.button(QWizard.NextButton).setLayoutDirection(Qt.RightToLeft)
 
         self.setButtonText(QWizard.CancelButton, self.tr("Cancel"))
         self.button(QWizard.CancelButton).setIcon(QIcon.fromTheme("dialog-cancel"))
@@ -74,12 +74,13 @@ class Kaptan(QWizard):
             p.startDetached("plasmashell")
 
         if id == self.sumId:
-            self.setButtonText(QWizard.HelpButton, self.tr("Apply Settings"))
-            self.button(QWizard.HelpButton).setIcon(QIcon.fromTheme("dialog-ok-apply"))
+            self.setButtonText(QWizard.NextButton, self.tr("Apply Settings"))
+            self.button(QWizard.NextButton).setIcon(QIcon.fromTheme("dialog-ok-apply"))
             self.summaryVisible.emit()
         else:
-            self.setButtonText(QWizard.HelpButton, self.tr("Next"))
-            self.button(QWizard.HelpButton).setIcon(QIcon.fromTheme("arrow-right"))
+            self.setButtonText(QWizard.NextButton, self.tr("Next"))
+            self.button(QWizard.NextButton).setIcon(QIcon.fromTheme("arrow-right"))
+            self.button(QWizard.HelpButton).setLayoutDirection(Qt.RightToLeft)
 
     def closeEvent(self, event):
         desktop_file = os.path.join(os.environ["HOME"], ".config", "autostart", "kaptan.desktop")
