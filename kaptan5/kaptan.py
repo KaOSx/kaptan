@@ -43,7 +43,7 @@ class Kaptan(QWizard):
         self.addPage(MouseWidget(self))
         self.addPage(ThemeWidget(self))
         self.addPage(MenuWidget(self))
-        #self.addPage(WallpaperWidget(self))
+        self.addPage(WallpaperWidget(self))
         self.addPage(AvatarWidget(self))
         #self.addPage(PMWidget()) FIXME
         self.sumId = self.addPage(SummaryWidget(self))
@@ -63,9 +63,9 @@ class Kaptan(QWizard):
             #MenuWidget
             self.page(3).execute()
             #WallpaperWidget
-            #self.page(4).execute()
-            #AvatarWidget
             self.page(4).execute()
+            #AvatarWidget
+            self.page(5).execute()
 
 
             p = QProcess()

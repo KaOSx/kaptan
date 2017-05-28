@@ -110,9 +110,12 @@ class WallpaperWidget(QWizardPage):
     def execute(self):
         configFilePath = join(QDir.homePath(), ".config", "plasma-org.kde.plasma.desktop-appletsrc")
 
-        parser = Parser(configFilePath)
-        getWallpaper = parser.getWallpaper()
+        #parser = Parser(configFilePath)
+        #getWallpaper = parser.getWallpaper()
+        wp = "\n[Containments][1][Wallpaper][org.kde.image][General]\nImage=file://{!s}\n" .format(self.selectWallpaper)
 
-        if self.selectWallpaper:
-            if "file://"+self.selectWallpaper != getWallpaper[1]:
-                parser.setWallpaper("file://"+self.selectWallpaper)
+        #if self.selectWallpaper:
+        #    if "file://"+self.selectWallpaper != getWallpaper[1]:
+        #        parser.setWallpaper("file://"+self.selectWallpaper)
+        with open(configFilePath, "a") as rcfile:
+            rcfile.write(wp)

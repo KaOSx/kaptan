@@ -44,9 +44,9 @@ class SummaryWidget(QWizardPage):
         #MenuWidget
         menuWidget = parent.page(3)
         #WallpaperWidget
-        #wallpaperWidget = parent.page(4)
+        wallpaperWidget = parent.page(4)
         #AvatarWidget
-        avatarWidget = parent.page(4)
+        avatarWidget = parent.page(5)
 
         selectWallpaper = ""
         userAvatar = ""
@@ -74,8 +74,8 @@ class SummaryWidget(QWizardPage):
         else:
             menuSelected = self.tr("Application Panel")
 
-        #if wallpaperWidget.selectWallpaper:
-            #selectWallpaper = "<img src='{}' width='128' height='96'/>".format(wallpaperWidget.selectWallpaper)
+        if wallpaperWidget.selectWallpaper:
+            selectWallpaper = "<img src='{}' width='128' height='96'/>".format(wallpaperWidget.selectWallpaper)
 
         if avatarWidget.userAvatar:
             userAvatar = "<img src='{}' width='128' height='128'/>".format(avatarWidget.userAvatar)
@@ -118,11 +118,11 @@ class SummaryWidget(QWizardPage):
 
         html = self.tr("""
         <ul>
-            <!-- <li><strong>Selected Wallpaper</strong>
+            <li><strong>Selected Wallpaper</strong>
                 <ul>
                     <li><strong>{}</strong></li>
                 </ul>
-            </li> -->
+            </li>
             <li><strong>Selected Avatar</strong>
                 <ul>
                     <li><strong>{}</strong></li>
