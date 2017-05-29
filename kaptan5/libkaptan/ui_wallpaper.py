@@ -122,8 +122,9 @@ class WallpaperWidget(QWizardPage):
         wp = "\n[Containments][1][Wallpaper][org.kde.image][General]\nImage=file://{!s}\n" .format(self.selectWallpaper)
 
         if wp_isin:
-            if "file://"+self.selectWallpaper != getWallpaper[1]:
-                parser.setWallpaper("file://"+self.selectWallpaper)
+            if self.selectWallpaper:
+                if "file://"+self.selectWallpaper != getWallpaper[1]:
+                    parser.setWallpaper("file://"+self.selectWallpaper)
 
         else:
             with open(configFilePath, "a") as rcfile:
