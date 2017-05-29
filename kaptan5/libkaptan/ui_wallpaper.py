@@ -127,5 +127,6 @@ class WallpaperWidget(QWizardPage):
                     parser.setWallpaper("file://"+self.selectWallpaper)
 
         else:
-            with open(configFilePath, "a") as rcfile:
-                rcfile.write(wp)
+            if self.selectWallpaper:
+                with open(configFilePath, "a") as rcfile:
+                    rcfile.write(wp)
