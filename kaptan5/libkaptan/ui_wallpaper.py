@@ -119,7 +119,7 @@ class WallpaperWidget(QWizardPage):
             if "Wallpaper" in lines:
                 wp_isin = True
 
-        wp = "\n[Containments][1][Wallpaper][org.kde.image][General]\nImage=file://{!s}\n" .format(self.selectWallpaper)
+        wp = "\n[Containments][52][Wallpaper][org.kde.image][General]\nImage=file://{!s}\n" .format(self.selectWallpaper)
 
         if wp_isin:
             if self.selectWallpaper:
