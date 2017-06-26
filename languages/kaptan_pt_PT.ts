@@ -206,22 +206,22 @@ trocar os botões esquerdo e direito do seu rato.&lt;/p&gt;</translation>
 <context>
     <name>PreviewWidgetColor</name>
     <message>
-        <location filename="../kaptan5/libkaptan/tabwidget.py" line="404"/>
+        <location filename="../kaptan5/libkaptan/tabwidget.py" line="406"/>
         <source>Preview</source>
         <translation>Prever</translation>
     </message>
     <message>
-        <location filename="../kaptan5/libkaptan/tabwidget.py" line="418"/>
+        <location filename="../kaptan5/libkaptan/tabwidget.py" line="420"/>
         <source>Window Text</source>
         <translation>Janela de Teste</translation>
     </message>
     <message>
-        <location filename="../kaptan5/libkaptan/tabwidget.py" line="423"/>
+        <location filename="../kaptan5/libkaptan/tabwidget.py" line="425"/>
         <source>Button</source>
         <translation>Botão</translation>
     </message>
     <message>
-        <location filename="../kaptan5/libkaptan/tabwidget.py" line="432"/>
+        <location filename="../kaptan5/libkaptan/tabwidget.py" line="434"/>
         <source>&lt;p&gt;Normal text &lt;a id=&apos;unclicked&apos; href=&apos;#&apos;&gt;link&lt;/a&gt; &lt;a id=&apos;clicked&apos; href=&apos;#&apos;&gt;visited&lt;/a&gt;&lt;/p&gt;</source>
         <translation>&lt;p&gt;&lt;a id=&apos;unclicked&apos; href=&apos;#&apos;&gt;Link&lt;/a&gt; &lt;a id=&apos;clicked&apos; href=&apos;#&apos;&gt; de texto normal visitado&lt;/a&gt;&lt;/p&gt;</translation>
     </message>
@@ -229,42 +229,42 @@ trocar os botões esquerdo e direito do seu rato.&lt;/p&gt;</translation>
 <context>
     <name>PreviewWidgetStyle</name>
     <message>
-        <location filename="../kaptan5/libkaptan/tabwidget.py" line="259"/>
+        <location filename="../kaptan5/libkaptan/tabwidget.py" line="261"/>
         <source>Preview</source>
         <translation>Prever</translation>
     </message>
     <message>
-        <location filename="../kaptan5/libkaptan/tabwidget.py" line="276"/>
+        <location filename="../kaptan5/libkaptan/tabwidget.py" line="278"/>
         <source>Group Box</source>
         <translation>Caixa de Grupo</translation>
     </message>
     <message>
-        <location filename="../kaptan5/libkaptan/tabwidget.py" line="290"/>
+        <location filename="../kaptan5/libkaptan/tabwidget.py" line="292"/>
         <source>Radio Button</source>
         <translation>Botão Radio</translation>
     </message>
     <message>
-        <location filename="../kaptan5/libkaptan/tabwidget.py" line="301"/>
+        <location filename="../kaptan5/libkaptan/tabwidget.py" line="303"/>
         <source>Check Box</source>
         <translation>Caixa de Seleção</translation>
     </message>
     <message>
-        <location filename="../kaptan5/libkaptan/tabwidget.py" line="332"/>
+        <location filename="../kaptan5/libkaptan/tabwidget.py" line="334"/>
         <source>Button</source>
         <translation>Botão</translation>
     </message>
     <message>
-        <location filename="../kaptan5/libkaptan/tabwidget.py" line="340"/>
+        <location filename="../kaptan5/libkaptan/tabwidget.py" line="342"/>
         <source>Combo Box</source>
         <translation>Caixa Combo</translation>
     </message>
     <message>
-        <location filename="../kaptan5/libkaptan/tabwidget.py" line="350"/>
+        <location filename="../kaptan5/libkaptan/tabwidget.py" line="352"/>
         <source>Tab 1</source>
         <translation>Aba 1</translation>
     </message>
     <message>
-        <location filename="../kaptan5/libkaptan/tabwidget.py" line="355"/>
+        <location filename="../kaptan5/libkaptan/tabwidget.py" line="357"/>
         <source>Tab 2</source>
         <translation>Aba 2</translation>
     </message>
@@ -452,27 +452,27 @@ trocar os botões esquerdo e direito do seu rato.&lt;/p&gt;</translation>
         <translation>Estilo do Widget</translation>
     </message>
     <message>
-        <location filename="../kaptan5/libkaptan/tabwidget.py" line="128"/>
+        <location filename="../kaptan5/libkaptan/tabwidget.py" line="130"/>
         <source>Window Style</source>
         <translation>Estilo da Janela</translation>
     </message>
     <message>
-        <location filename="../kaptan5/libkaptan/tabwidget.py" line="155"/>
+        <location filename="../kaptan5/libkaptan/tabwidget.py" line="157"/>
         <source>Color Scheme</source>
         <translation>Esquema de Cores</translation>
     </message>
     <message>
-        <location filename="../kaptan5/libkaptan/tabwidget.py" line="160"/>
+        <location filename="../kaptan5/libkaptan/tabwidget.py" line="162"/>
         <source>&lt;p&gt;Normal text &lt;a id=&apos;unclicked&apos; href=&apos;#&apos;&gt;link&lt;/a&gt; &lt;a id=&apos;clicked&apos; href=&apos;#&apos;&gt;visited&lt;/a&gt;&lt;/p&gt;</source>
         <translation>&lt;p&gt;&lt;a id=&apos;unclicked&apos; href=&apos;#&apos;&gt;Link&lt;/a&gt; &lt;a id=&apos;clicked&apos; href=&apos;#&apos;&gt; de texto normal visitado&lt;/a&gt;&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../kaptan5/libkaptan/tabwidget.py" line="220"/>
+        <location filename="../kaptan5/libkaptan/tabwidget.py" line="222"/>
         <source>Desktop Theme</source>
         <translation>Tema do Ambiente de Trabalho</translation>
     </message>
     <message>
-        <location filename="../kaptan5/libkaptan/tabwidget.py" line="253"/>
+        <location filename="../kaptan5/libkaptan/tabwidget.py" line="255"/>
         <source>Icon Set</source>
         <translation>Pacote de Ícones</translation>
     </message>
@@ -551,26 +551,25 @@ trocar os botões esquerdo e direito do seu rato.&lt;/p&gt;</translation>
 <context>
     <name>WelcomeWidget</name>
     <message>
-        <location filename="../kaptan5/libkaptan/ui_welcome.py" line="8"/>
+        <location filename="../kaptan5/libkaptan/ui_welcome.py" line="9"/>
         <source>&lt;h2&gt;Welcome to KaOS&lt;/h2&gt;</source>
         <translation>&lt;h2&gt;Bem-vindo ao KaOS&lt;/h2&gt;</translation>
     </message>
     <message>
-        <location filename="../kaptan5/libkaptan/ui_welcome.py" line="15"/>
+        <location filename="../kaptan5/libkaptan/ui_welcome.py" line="16"/>
         <source>&lt;h1&gt;What is KaOS?&lt;/h1&gt;
         &lt;p&gt;The idea behind KaOS is to create a tightly integrated rolling and&lt;br /&gt;
         transparent distribution for the modern desktop, build from scratch with&lt;br /&gt;
         a very specific focus. Focus on one DE (KDE), one toolkit (Qt) &amp; one architecture (x86_64).&lt;br /&gt;
         Plus a focus on evaluating and selecting the most suitable tools and applications.&lt;/p&gt;
         &lt;p&gt;This wizard will help you personalize your KaOS workspace easily and quickly.&lt;/p&gt;
-        &lt;p&gt;Please click &lt;i&gt;Next&lt;/i&gt; in order to begin. Click &lt;i&gt;Cancel&lt;/i&gt; anytime and changes won't be saved,&lt;br /&gt;
-        click &lt;i&gt;close window&lt;/i&gt; or &lt;i&gt;Finished&lt;/i&gt; and the wizard won&apos;t autostart any longer.&lt;/p&gt;</source>
-        <translation>&lt;h1&gt;O que é o KaOS?&lt;/h1&gt;
-        &lt;p&gt;A ideia por detrás do KaOS é criar uma distribuição moderna&lt;br /&gt; para desktop, integrada, constantemente atualizada,&lt;br /&gt; transparente e criada completamente de raiz com um foco muito específico. Foco num ambiente de trabalho (KDE), numa toolkit (Qt) e numa arquitetura (x86_64).&lt;br /&gt;
-        Além de um foco na avaliação e seleção das ferramentas e aplicações mais adequadas.&lt;/p&gt;
-        &lt;p&gt;Este assistente irá ajudá-lo a personalizar o seu ambiente de trabalho do Kaos com facilidade e rapidez.&lt;/p&gt;
-        &lt;p&gt;Por favor clique &lt;i&gt;Seguinte&lt;/i&gt; para começar. Clique &lt;i&gt;Cancelar&lt;/i&gt; a qualquer momento e as configurações não serão guardadas,&lt;br /&gt;
-        clique &lt;i&gt;fechar janela&lt;/i&gt; ou &lt;i&gt;Finalizar&lt;/i&gt; e o assistente não será mostrado automaticamente mais nenhuma vez.&lt;/p&gt;</translation>
+        &lt;p&gt;Please click &lt;code style=color:#3498DB&gt;Next&lt;/code&gt; in order to begin. Click &lt;code style=color:#3498DB&gt;Cancel&lt;/code&gt; anytime and changes won&apos;t be saved.&lt;/p&gt;</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../kaptan5/libkaptan/ui_welcome.py" line="39"/>
+        <source>Run on system startup</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 </TS>

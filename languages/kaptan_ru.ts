@@ -206,22 +206,22 @@
 <context>
     <name>PreviewWidgetColor</name>
     <message>
-        <location filename="../kaptan5/libkaptan/tabwidget.py" line="404"/>
+        <location filename="../kaptan5/libkaptan/tabwidget.py" line="406"/>
         <source>Preview</source>
         <translation>Предпросмотр</translation>
     </message>
     <message>
-        <location filename="../kaptan5/libkaptan/tabwidget.py" line="418"/>
+        <location filename="../kaptan5/libkaptan/tabwidget.py" line="420"/>
         <source>Window Text</source>
         <translation>Текст окна</translation>
     </message>
     <message>
-        <location filename="../kaptan5/libkaptan/tabwidget.py" line="423"/>
+        <location filename="../kaptan5/libkaptan/tabwidget.py" line="425"/>
         <source>Button</source>
         <translation>Кнопка</translation>
     </message>
     <message>
-        <location filename="../kaptan5/libkaptan/tabwidget.py" line="432"/>
+        <location filename="../kaptan5/libkaptan/tabwidget.py" line="434"/>
         <source>&lt;p&gt;Normal text &lt;a id=&apos;unclicked&apos; href=&apos;#&apos;&gt;link&lt;/a&gt; &lt;a id=&apos;clicked&apos; href=&apos;#&apos;&gt;visited&lt;/a&gt;&lt;/p&gt;</source>
         <translation>&lt;p&gt;Обычный текст &lt;a id=&apos;unclicked&apos; href=&apos;#&apos;&gt;ссылка&lt;/a&gt; &lt;a id=&apos;clicked&apos; href=&apos;#&apos;&gt;посещено&lt;/a&gt;&lt;/p&gt;</translation>
     </message>
@@ -229,42 +229,42 @@
 <context>
     <name>PreviewWidgetStyle</name>
     <message>
-        <location filename="../kaptan5/libkaptan/tabwidget.py" line="259"/>
+        <location filename="../kaptan5/libkaptan/tabwidget.py" line="261"/>
         <source>Preview</source>
         <translation>Предпросмотр</translation>
     </message>
     <message>
-        <location filename="../kaptan5/libkaptan/tabwidget.py" line="276"/>
+        <location filename="../kaptan5/libkaptan/tabwidget.py" line="278"/>
         <source>Group Box</source>
         <translation>Group Box</translation>
     </message>
     <message>
-        <location filename="../kaptan5/libkaptan/tabwidget.py" line="290"/>
+        <location filename="../kaptan5/libkaptan/tabwidget.py" line="292"/>
         <source>Radio Button</source>
         <translation>Кнопка радио</translation>
     </message>
     <message>
-        <location filename="../kaptan5/libkaptan/tabwidget.py" line="301"/>
+        <location filename="../kaptan5/libkaptan/tabwidget.py" line="303"/>
         <source>Check Box</source>
         <translation>Check Box</translation>
     </message>
     <message>
-        <location filename="../kaptan5/libkaptan/tabwidget.py" line="332"/>
+        <location filename="../kaptan5/libkaptan/tabwidget.py" line="334"/>
         <source>Button</source>
         <translation>Кнопка</translation>
     </message>
     <message>
-        <location filename="../kaptan5/libkaptan/tabwidget.py" line="340"/>
+        <location filename="../kaptan5/libkaptan/tabwidget.py" line="342"/>
         <source>Combo Box</source>
         <translation>Combo Box</translation>
     </message>
     <message>
-        <location filename="../kaptan5/libkaptan/tabwidget.py" line="350"/>
+        <location filename="../kaptan5/libkaptan/tabwidget.py" line="352"/>
         <source>Tab 1</source>
         <translation>Tab 1</translation>
     </message>
     <message>
-        <location filename="../kaptan5/libkaptan/tabwidget.py" line="355"/>
+        <location filename="../kaptan5/libkaptan/tabwidget.py" line="357"/>
         <source>Tab 2</source>
         <translation>Tab 2</translation>
     </message>
@@ -452,27 +452,27 @@
         <translation>Стиль виджета</translation>
     </message>
     <message>
-        <location filename="../kaptan5/libkaptan/tabwidget.py" line="128"/>
+        <location filename="../kaptan5/libkaptan/tabwidget.py" line="130"/>
         <source>Window Style</source>
         <translation>Стиль окна</translation>
     </message>
     <message>
-        <location filename="../kaptan5/libkaptan/tabwidget.py" line="155"/>
+        <location filename="../kaptan5/libkaptan/tabwidget.py" line="157"/>
         <source>Color Scheme</source>
         <translation>Цветовая схема</translation>
     </message>
     <message>
-        <location filename="../kaptan5/libkaptan/tabwidget.py" line="160"/>
+        <location filename="../kaptan5/libkaptan/tabwidget.py" line="162"/>
         <source>&lt;p&gt;Normal text &lt;a id=&apos;unclicked&apos; href=&apos;#&apos;&gt;link&lt;/a&gt; &lt;a id=&apos;clicked&apos; href=&apos;#&apos;&gt;visited&lt;/a&gt;&lt;/p&gt;</source>
         <translation>&lt;p&gt;Обычный текст &lt;a id=&apos;unclicked&apos; href=&apos;#&apos;&gt;ссылка&lt;/a&gt; &lt;a id=&apos;clicked&apos; href=&apos;#&apos;&gt;посещено&lt;/a&gt;&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../kaptan5/libkaptan/tabwidget.py" line="220"/>
+        <location filename="../kaptan5/libkaptan/tabwidget.py" line="222"/>
         <source>Desktop Theme</source>
         <translation>Тема рабочего стола</translation>
     </message>
     <message>
-        <location filename="../kaptan5/libkaptan/tabwidget.py" line="253"/>
+        <location filename="../kaptan5/libkaptan/tabwidget.py" line="255"/>
         <source>Icon Set</source>
         <translation>Установить значок</translation>
     </message>
@@ -551,28 +551,25 @@
 <context>
     <name>WelcomeWidget</name>
     <message>
-        <location filename="../kaptan5/libkaptan/ui_welcome.py" line="8"/>
+        <location filename="../kaptan5/libkaptan/ui_welcome.py" line="9"/>
         <source>&lt;h2&gt;Welcome to KaOS&lt;/h2&gt;</source>
         <translation>&lt;h2&gt;Добро пожаловать в KaOS&lt;/h2&gt;</translation>
     </message>
     <message>
-        <location filename="../kaptan5/libkaptan/ui_welcome.py" line="15"/>
+        <location filename="../kaptan5/libkaptan/ui_welcome.py" line="16"/>
         <source>&lt;h1&gt;What is KaOS?&lt;/h1&gt;
         &lt;p&gt;The idea behind KaOS is to create a tightly integrated rolling and&lt;br /&gt;
         transparent distribution for the modern desktop, build from scratch with&lt;br /&gt;
         a very specific focus. Focus on one DE (KDE), one toolkit (Qt) &amp; one architecture (x86_64).&lt;br /&gt;
         Plus a focus on evaluating and selecting the most suitable tools and applications.&lt;/p&gt;
         &lt;p&gt;This wizard will help you personalize your KaOS workspace easily and quickly.&lt;/p&gt;
-        &lt;p&gt;Please click &lt;i&gt;Next&lt;/i&gt; in order to begin. Click &lt;i&gt;Cancel&lt;/i&gt; anytime and changes won't be saved,&lt;br /&gt;
-        click &lt;i&gt;close window&lt;/i&gt; or &lt;i&gt;Finished&lt;/i&gt; and the wizard won&apos;t autostart any longer.&lt;/p&gt;</source>
-        <translation>&lt;h1&gt;Что такое KaOS?&lt;/h1&gt;
-&lt;p&gt;Идеей KaOS, является создание непрерывно обновляемого и&lt;br /&gt;
-прозрачного дистрибутива для современных ПК, изначально построенного с&lt;br /&gt;
-очень узким фокусом. Фокус на одном окружении (KDE), одном инструментарии (Qt) и одной архитектуре (x86_64).&lt;br /&gt;
-Плюс акцент на оценке и выборе наиболее пригодных инструментов и приложений&lt;/p&gt;
-&lt;p&gt;Этот мастер поможет вам легко и быстро настроить рабочее окружение KaOS.&lt;/p&gt;
-&lt;p&gt;Кликните &lt;i&gt;Далее&lt;/i&gt; чтобы начать. Клик &lt;i&gt;Отменить&lt;/i&gt; в любое время и изменений не будут сохранены,&lt;br /&gt;
-кликните &lt;i&gt;закрыть окно&lt;/i&gt; или &lt;i&gt;Завершено&lt;/i&gt; и мастер больше не запустится автоматически.&lt;/p&gt;</translation>
+        &lt;p&gt;Please click &lt;code style=color:#3498DB&gt;Next&lt;/code&gt; in order to begin. Click &lt;code style=color:#3498DB&gt;Cancel&lt;/code&gt; anytime and changes won&apos;t be saved.&lt;/p&gt;</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../kaptan5/libkaptan/ui_welcome.py" line="39"/>
+        <source>Run on system startup</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 </TS>

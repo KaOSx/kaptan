@@ -204,22 +204,22 @@
 <context>
     <name>PreviewWidgetColor</name>
     <message>
-        <location filename="../kaptan5/libkaptan/tabwidget.py" line="404"/>
+        <location filename="../kaptan5/libkaptan/tabwidget.py" line="406"/>
         <source>Preview</source>
         <translation>Náhled</translation>
     </message>
     <message>
-        <location filename="../kaptan5/libkaptan/tabwidget.py" line="418"/>
+        <location filename="../kaptan5/libkaptan/tabwidget.py" line="420"/>
         <source>Window Text</source>
         <translation>Text okna</translation>
     </message>
     <message>
-        <location filename="../kaptan5/libkaptan/tabwidget.py" line="423"/>
+        <location filename="../kaptan5/libkaptan/tabwidget.py" line="425"/>
         <source>Button</source>
         <translation>Tlačítko</translation>
     </message>
     <message>
-        <location filename="../kaptan5/libkaptan/tabwidget.py" line="432"/>
+        <location filename="../kaptan5/libkaptan/tabwidget.py" line="434"/>
         <source>&lt;p&gt;Normal text &lt;a id=&apos;unclicked&apos; href=&apos;#&apos;&gt;link&lt;/a&gt; &lt;a id=&apos;clicked&apos; href=&apos;#&apos;&gt;visited&lt;/a&gt;&lt;/p&gt;</source>
         <translation>&lt;p&gt;Normální text &lt;a id=&apos;unclicked&apos; href=&apos;#&apos;&gt;odkaz&lt;/a&gt; &lt;a id=&apos;clicked&apos; href=&apos;#&apos;&gt;navštívený odkaz&lt;/a&gt;&lt;/p&gt;</translation>
     </message>
@@ -227,42 +227,42 @@
 <context>
     <name>PreviewWidgetStyle</name>
     <message>
-        <location filename="../kaptan5/libkaptan/tabwidget.py" line="259"/>
+        <location filename="../kaptan5/libkaptan/tabwidget.py" line="261"/>
         <source>Preview</source>
         <translation>Náhled</translation>
     </message>
     <message>
-        <location filename="../kaptan5/libkaptan/tabwidget.py" line="276"/>
+        <location filename="../kaptan5/libkaptan/tabwidget.py" line="278"/>
         <source>Group Box</source>
         <translation>Skupina</translation>
     </message>
     <message>
-        <location filename="../kaptan5/libkaptan/tabwidget.py" line="290"/>
+        <location filename="../kaptan5/libkaptan/tabwidget.py" line="292"/>
         <source>Radio Button</source>
         <translation>Přepínací tlačítko</translation>
     </message>
     <message>
-        <location filename="../kaptan5/libkaptan/tabwidget.py" line="301"/>
+        <location filename="../kaptan5/libkaptan/tabwidget.py" line="303"/>
         <source>Check Box</source>
         <translation>Zaškrtávací políčko</translation>
     </message>
     <message>
-        <location filename="../kaptan5/libkaptan/tabwidget.py" line="332"/>
+        <location filename="../kaptan5/libkaptan/tabwidget.py" line="334"/>
         <source>Button</source>
         <translation>Tlačítko</translation>
     </message>
     <message>
-        <location filename="../kaptan5/libkaptan/tabwidget.py" line="340"/>
+        <location filename="../kaptan5/libkaptan/tabwidget.py" line="342"/>
         <source>Combo Box</source>
         <translation>Rozbalovací seznam</translation>
     </message>
     <message>
-        <location filename="../kaptan5/libkaptan/tabwidget.py" line="350"/>
+        <location filename="../kaptan5/libkaptan/tabwidget.py" line="352"/>
         <source>Tab 1</source>
         <translation>Panel 1</translation>
     </message>
     <message>
-        <location filename="../kaptan5/libkaptan/tabwidget.py" line="355"/>
+        <location filename="../kaptan5/libkaptan/tabwidget.py" line="357"/>
         <source>Tab 2</source>
         <translation>Panel 2</translation>
     </message>
@@ -450,27 +450,27 @@
         <translation>Styl prvků</translation>
     </message>
     <message>
-        <location filename="../kaptan5/libkaptan/tabwidget.py" line="128"/>
+        <location filename="../kaptan5/libkaptan/tabwidget.py" line="130"/>
         <source>Window Style</source>
         <translation>Styl oken</translation>
     </message>
     <message>
-        <location filename="../kaptan5/libkaptan/tabwidget.py" line="155"/>
+        <location filename="../kaptan5/libkaptan/tabwidget.py" line="157"/>
         <source>Color Scheme</source>
         <translation>Barevné schéma</translation>
     </message>
     <message>
-        <location filename="../kaptan5/libkaptan/tabwidget.py" line="160"/>
+        <location filename="../kaptan5/libkaptan/tabwidget.py" line="162"/>
         <source>&lt;p&gt;Normal text &lt;a id=&apos;unclicked&apos; href=&apos;#&apos;&gt;link&lt;/a&gt; &lt;a id=&apos;clicked&apos; href=&apos;#&apos;&gt;visited&lt;/a&gt;&lt;/p&gt;</source>
         <translation>&lt;p&gt;Normální text &lt;a id=&apos;unclicked&apos; href=&apos;#&apos;&gt;odkaz&lt;/a&gt; &lt;a id=&apos;clicked&apos; href=&apos;#&apos;&gt;navštívený&lt;/a&gt;&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../kaptan5/libkaptan/tabwidget.py" line="220"/>
+        <location filename="../kaptan5/libkaptan/tabwidget.py" line="222"/>
         <source>Desktop Theme</source>
         <translation>Téma plochy</translation>
     </message>
     <message>
-        <location filename="../kaptan5/libkaptan/tabwidget.py" line="253"/>
+        <location filename="../kaptan5/libkaptan/tabwidget.py" line="255"/>
         <source>Icon Set</source>
         <translation>Sada ikon</translation>
     </message>
@@ -549,25 +549,25 @@
 <context>
     <name>WelcomeWidget</name>
     <message>
-        <location filename="../kaptan5/libkaptan/ui_welcome.py" line="8"/>
+        <location filename="../kaptan5/libkaptan/ui_welcome.py" line="9"/>
         <source>&lt;h2&gt;Welcome to KaOS&lt;/h2&gt;</source>
         <translation>&lt;h2&gt;Vítejte v KaOS&lt;/h2&gt;</translation>
     </message>
     <message>
-        <location filename="../kaptan5/libkaptan/ui_welcome.py" line="15"/>
+        <location filename="../kaptan5/libkaptan/ui_welcome.py" line="16"/>
         <source>&lt;h1&gt;What is KaOS?&lt;/h1&gt;
         &lt;p&gt;The idea behind KaOS is to create a tightly integrated rolling and&lt;br /&gt;
         transparent distribution for the modern desktop, build from scratch with&lt;br /&gt;
         a very specific focus. Focus on one DE (KDE), one toolkit (Qt) &amp; one architecture (x86_64).&lt;br /&gt;
         Plus a focus on evaluating and selecting the most suitable tools and applications.&lt;/p&gt;
         &lt;p&gt;This wizard will help you personalize your KaOS workspace easily and quickly.&lt;/p&gt;
-        &lt;p&gt;Please click &lt;i&gt;Next&lt;/i&gt; in order to begin. Click &lt;i&gt;Cancel&lt;/i&gt; anytime and changes won't be saved,&lt;br /&gt;
-        click &lt;i&gt;close window&lt;/i&gt; or &lt;i&gt;Finished&lt;/i&gt; and the wizard won&apos;t autostart any longer.&lt;/p&gt;</source>
-        <translation>&lt;h1&gt;Co je KaOS?&lt;/h1&gt;
-       &lt;p&gt; Myšlenka stojící za systémem KaOS je vytvořit vysoce celistvou průběžně aktualizovanou, srozumitelnou distribuci pro moderní pracovní prostředí. Je to distribuce s velmi přesně stanoveným zaměřením budovaná od nuly. Soustředí se na jedno grafické prostředí (KDE), jeden toolkit (Qt) a jednu architekturu (x86_64).
-A navíc se zaměřením na výběr a posouzení nejvhodnějších nástrojů a aplikací.&lt;/p&gt;
-&lt;p&gt;Tento průvodce vám pomůže přizpůsobit si pracovní prostředí KaOS jednoduše a rychle.&lt;/p&gt;
-&lt;p&gt;Pro pokračování, prosím, klepněte na &lt;i&gt;Další&lt;/i&gt;. Pokud kdykoli klepnete na &lt;i&gt;Zrušit&lt;/i&gt;, změny nebudou uloženy. Klepněte na &lt;i&gt;Uzavřít okno&lt;/i&gt; nebo &lt;i&gt;Zavřít&lt;/i&gt; a průvodce se už více nebude automaticky spouštět.&lt;/p&gt;</translation>
+        &lt;p&gt;Please click &lt;code style=color:#3498DB&gt;Next&lt;/code&gt; in order to begin. Click &lt;code style=color:#3498DB&gt;Cancel&lt;/code&gt; anytime and changes won&apos;t be saved.&lt;/p&gt;</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../kaptan5/libkaptan/ui_welcome.py" line="39"/>
+        <source>Run on system startup</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 </TS>
