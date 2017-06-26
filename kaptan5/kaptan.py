@@ -15,11 +15,11 @@ class Kaptan(QWizard):
         self.setWindowTitle(self.tr("Kaptan Desktop"))
         self.setWindowIcon(QIcon.fromTheme("kaptan"))
         self.setMinimumSize(850, 600)
-        self.setMaximumSize(950, 620)
+        self.setMaximumSize(950, 720)
         x = (QDesktopWidget().screen().width() - self.width())/2
         y = (QDesktopWidget().screen().height() - self.height())/2
         self.move(x, y)
-        self.setPixmap(QWizard.LogoPixmap, QPixmap(":/data/images/kaptan-logo.png"))
+        self.setPixmap(QWizard.LogoPixmap, QPixmap(":/data/images/logo.svg"))
 
         #self.setButtonText(QWizard.NextButton, self.tr("Next"))
         #self.button(QWizard.NextButton).setIcon(QIcon.fromTheme("arrow-right"))

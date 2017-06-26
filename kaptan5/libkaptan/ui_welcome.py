@@ -9,7 +9,7 @@ class WelcomeWidget(QWizardPage):
         self.setSubTitle(self.tr("<h2>Welcome to KaOS</h2>"))
 
         vlayout = QVBoxLayout(self)
-        vlayout.addItem(QSpacerItem(20, 100, QSizePolicy.Preferred, QSizePolicy.Minimum))
+        vlayout.addItem(QSpacerItem(20, 30, QSizePolicy.Preferred, QSizePolicy.Minimum))
 
         hlayout = QHBoxLayout(self)
         label = QLabel(self)
@@ -19,7 +19,7 @@ class WelcomeWidget(QWizardPage):
         a very specific focus. Focus on one DE (KDE), one toolkit (Qt) & one architecture (x86_64).<br />
         Plus a focus on evaluating and selecting the most suitable tools and applications.</p>
         <p>This wizard will help you personalize your KaOS workspace easily and quickly.</p>
-        <p>Please click <i>Next</i> in order to begin. Click <i>Cancel</i> anytime and changes won't be saved.</p>"""))
+        <p>Please click <code style=color:#3498DB>Next</code> in order to begin. Click <code style=color:#3498DB>Cancel</code> anytime and changes won't be saved.</p>"""))
         label.setWordWrap(True)
         label.setAlignment(Qt.AlignLeft)
         hlayout.addWidget(label)
