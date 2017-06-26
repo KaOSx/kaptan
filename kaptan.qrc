@@ -2,6 +2,7 @@
     <qresource prefix="/">
         <file>data/images/kaptan.png</file>
         <file>data/images/kaptan-logo.png</file>
+        <file>data/images/logo.png</file>
         <file>data/images/welcome.png</file>
         <file>data/images/menu-kicker.png</file>
         <file>data/images/menu-kickoff.png</file>
