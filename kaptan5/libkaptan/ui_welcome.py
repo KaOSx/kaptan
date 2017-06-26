@@ -1,4 +1,5 @@
-from PyQt5.QtWidgets import QWizardPage, QLabel, QHBoxLayout, QVBoxLayout, QSpacerItem, QSizePolicy
+import sys, os
+from PyQt5.QtWidgets import QWizardPage, QLabel, QHBoxLayout, QVBoxLayout, QSpacerItem, QSizePolicy, QCheckBox
 from PyQt5.QtGui import QPixmap
 from PyQt5.QtCore import Qt
 
@@ -8,7 +9,7 @@ class WelcomeWidget(QWizardPage):
         self.setSubTitle(self.tr("<h2>Welcome to KaOS</h2>"))
 
         vlayout = QVBoxLayout(self)
-        vlayout.addItem(QSpacerItem(20, 150, QSizePolicy.Preferred, QSizePolicy.Minimum))
+        vlayout.addItem(QSpacerItem(20, 100, QSizePolicy.Preferred, QSizePolicy.Minimum))
 
         hlayout = QHBoxLayout(self)
         label = QLabel(self)
@@ -18,8 +19,7 @@ class WelcomeWidget(QWizardPage):
         a very specific focus. Focus on one DE (KDE), one toolkit (Qt) & one architecture (x86_64).<br />
         Plus a focus on evaluating and selecting the most suitable tools and applications.</p>
         <p>This wizard will help you personalize your KaOS workspace easily and quickly.</p>
-        <p>Please click <i>Next</i> in order to begin. Click <i>Cancel</i> anytime and changes won't be saved,<br />
-        click <i>close window</i> or <i>Finished</i> and the wizard won't autostart any longer.</p>"""))
+        <p>Please click <i>Next</i> in order to begin. Click <i>Cancel</i> anytime and changes won't be saved.</p>"""))
         label.setWordWrap(True)
         label.setAlignment(Qt.AlignLeft)
         hlayout.addWidget(label)
@@ -32,3 +32,20 @@ class WelcomeWidget(QWizardPage):
         vlayout.addLayout(hlayout)
 
         vlayout.addItem(QSpacerItem(20, 40, QSizePolicy.Preferred, QSizePolicy.Preferred))
+        
+        desktop_file = os.path.join(os.environ["HOME"], ".config", "autostart", "kaptan.desktop")
+        if os.path.exists(desktop_file):
+            self.checkBox = QCheckBox()
+            self.checkBox.setText(self.tr("Run on system startup"))
+            self.checkBox.setChecked(True)
+            self.checkBox.clicked.connect(self.autoRemove)
+            vlayout.addWidget(self.checkBox)
+        
+    def autoRemove(self):
+        self.autoRemove != self.checkBox.isChecked()
+    
+    def autoRemove(self):
+        desktop_file = os.path.join(os.environ["HOME"], ".config", "autostart", "kaptan.desktop")
+        if os.path.exists(desktop_file):
+            os.remove(desktop_file)
+        

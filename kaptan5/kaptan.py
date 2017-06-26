@@ -82,10 +82,10 @@ class Kaptan(QWizard):
             self.button(QWizard.NextButton).setIcon(QIcon.fromTheme("arrow-right"))
             self.button(QWizard.HelpButton).setLayoutDirection(Qt.RightToLeft)
 
-    def closeEvent(self, event):
-        desktop_file = os.path.join(os.environ["HOME"], ".config", "autostart", "kaptan.desktop")
-        if os.path.exists(desktop_file):
-            os.remove(desktop_file)
+    #def closeEvent(self, event):
+    #    desktop_file = os.path.join(os.environ["HOME"], ".config", "autostart", "kaptan.desktop")
+    #    if os.path.exists(desktop_file):
+    #        os.remove(desktop_file)
 
 
 def main():
