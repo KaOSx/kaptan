@@ -19,7 +19,7 @@ class Kaptan(QWizard):
         x = (QDesktopWidget().screen().width() - self.width())/2
         y = (QDesktopWidget().screen().height() - self.height())/2
         self.move(x, y)
-        self.setPixmap(QWizard.LogoPixmap, QPixmap(":/data/images/logo.png"))
+        self.setPixmap(QWizard.LogoPixmap, QPixmap(":/data/images/logo.svg"))
 
         #self.setButtonText(QWizard.NextButton, self.tr("Next"))
         #self.button(QWizard.NextButton).setIcon(QIcon.fromTheme("arrow-right"))
