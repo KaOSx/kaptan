@@ -20,6 +20,7 @@ class Kaptan(QWizard):
         y = (QDesktopWidget().screen().height() - self.height())/2
         self.move(x, y)
         self.setPixmap(QWizard.LogoPixmap, QPixmap(":/data/images/logo.svg"))
+        self.setWizardStyle(QWizard.ModernStyle)
 
         #self.setButtonText(QWizard.NextButton, self.tr("Next"))
         #self.button(QWizard.NextButton).setIcon(QIcon.fromTheme("arrow-right"))
@@ -28,8 +29,9 @@ class Kaptan(QWizard):
         self.setButtonText(QWizard.CancelButton, self.tr("Cancel"))
         self.button(QWizard.CancelButton).setIcon(QIcon.fromTheme("dialog-cancel"))
         self.setOption(QWizard.NoCancelButtonOnLastPage, True)
-        self.setOption(QWizard.CancelButtonOnLeft, True)
+        self.setOption(QWizard.CancelButtonOnLeft, False)
 
+        #self.setOption(QWizard.HaveHelpButton, True)
         self.setButtonText(QWizard.BackButton, self.tr("Back"))
         self.setOption(QWizard.NoBackButtonOnLastPage, True)
         self.setOption(QWizard.NoBackButtonOnStartPage, True)
