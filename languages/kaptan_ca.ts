@@ -564,12 +564,20 @@ els botons del dispositiu de punter.&lt;/p&gt;</translation>
         Plus a focus on evaluating and selecting the most suitable tools and applications.&lt;/p&gt;
         &lt;p&gt;This wizard will help you personalize your KaOS workspace easily and quickly.&lt;/p&gt;
         &lt;p&gt;Please click &lt;code style=color:#3498DB&gt;Next&lt;/code&gt; in order to begin. Click &lt;code style=color:#3498DB&gt;Cancel&lt;/code&gt; anytime and changes won&apos;t be saved.&lt;/p&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;h1&gt;Què és el KaOS?&lt;/h1&gt;
+&lt;p&gt;La idea darrere del KaOS és crear una distribució contínua estretament integrada i &lt;br /&gt;
+transparent per a l&apos;escriptori modern, construïda des de zero amb una focalització &lt;br /&gt;
+
+molt específica: un entorn (KDE), una eina (Qt) i una arquitectura (x86_64). &lt;br /&gt;
+A més de l&apos;avaluació i la selecció de les eines i les aplicacions més adequades.&lt;/p&gt;
+&lt;p&gt;
+Aquest assistent us ajudarà a personalitzar l&apos;espai de treball del KaOS ràpidament i fàcil.&lt;/p&gt;
+Si us plau, cliqueu a &lt;code style=color:#3498DB&gt;Següent&lt;/code&gt; per començar. Cliqueu a &lt;code style=color:#3498DB&gt;Cancel·la&lt;/code&gt; en qualsevol moment i els canvis no es desaran,&lt;p&gt;</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_welcome.py" line="39"/>
         <source>Run on system startup</source>
-        <translation type="unfinished"/>
+        <translation>Executa en iniciar el sistema</translation>
     </message>
 </context>
 </TS>
