@@ -16,9 +16,9 @@ class Kaptan(QWizard):
         self.setWindowIcon(QIcon.fromTheme("kaptan"))
         self.setMinimumSize(850, 600)
         self.setMaximumSize(950, 720)
-        x = (QDesktopWidget().screen().width() - self.width())/2
-        y = (QDesktopWidget().screen().height() - self.height())/2
-        self.move(x, y)
+        #x = (QDesktopWidget().screen().width() - self.width())/2
+        #y = (QDesktopWidget().screen().height() - self.height())/2
+        #self.move(x, y)
         self.setPixmap(QWizard.LogoPixmap, QPixmap(":/data/images/logo.svg"))
         self.setWizardStyle(QWizard.ModernStyle)
 
