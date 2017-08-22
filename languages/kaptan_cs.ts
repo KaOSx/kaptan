@@ -562,12 +562,18 @@
         Plus a focus on evaluating and selecting the most suitable tools and applications.&lt;/p&gt;
         &lt;p&gt;This wizard will help you personalize your KaOS workspace easily and quickly.&lt;/p&gt;
         &lt;p&gt;Please click &lt;code style=color:#3498DB&gt;Next&lt;/code&gt; in order to begin. Click &lt;code style=color:#3498DB&gt;Cancel&lt;/code&gt; anytime and changes won&apos;t be saved.&lt;/p&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;h1&gt;Co je KaOS?&lt;/h1&gt;
+       &lt;p&gt; Myšlenka stojící za systémem KaOS je vytvořit vysoce celistvou &lt;br /&gt;
+průběžně aktualizovanou srozumitelnou distribuci s moderním pracovním prostředím. &lt;br /&gt;
+Je to distribuce s velmi přesně stanoveným zaměřením budovaná od nuly. Soustředí se na jedno grafické prostředí (KDE), jeden toolkit (Qt) a jednu architekturu (x86_64).&lt;br /&gt;
+A navíc se zaměřením na výběr a posouzení nejvhodnějších nástrojů a aplikací.&lt;/p&gt;
+&lt;p&gt;Tento průvodce vám pomůže přizpůsobit si pracovní prostředí KaOS jednoduše a rychle.&lt;/p&gt;
+&lt;p&gt;Pro pokračování, prosím, klepněte na &lt;code style=color:#3498DB&gt;Další&lt;/code&gt;. Pokud kdykoli klepnete na &lt;code style=color:#3498DB&gt;Zrušit&lt;/code&gt;, změny nebudou uloženy. &lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_welcome.py" line="39"/>
         <source>Run on system startup</source>
-        <translation type="unfinished"/>
+        <translation>Zobrazit po spuštění systému</translation>
     </message>
 </context>
 </TS>

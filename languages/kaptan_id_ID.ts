@@ -34,7 +34,7 @@
     <message>
         <location filename="../kaptan5/libkaptan/ui_avatar.py" line="74"/>
         <source>Recapture</source>
-        <translation>Tangkap ulang</translation>
+        <translation>Tangkap-ulang</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_avatar.py" line="133"/>
@@ -564,12 +564,18 @@ kamu dapat memilih menukar tombol kiri dan kanan pada perangkat penunjuk kamu.&l
         Plus a focus on evaluating and selecting the most suitable tools and applications.&lt;/p&gt;
         &lt;p&gt;This wizard will help you personalize your KaOS workspace easily and quickly.&lt;/p&gt;
         &lt;p&gt;Please click &lt;code style=color:#3498DB&gt;Next&lt;/code&gt; in order to begin. Click &lt;code style=color:#3498DB&gt;Cancel&lt;/code&gt; anytime and changes won&apos;t be saved.&lt;/p&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;h1&gt;Apa sih KaOS?&lt;/h1&gt;
+      &lt;p&gt;Gagasan di balik KaOS adalah untuk menciptakan distribusi bergulir terintegrasi dan&lt;br /&gt;
+     transparan untuk desktop modern, dibikin dari awal dengan&lt;br /&gt;
+fokus yang sangat spesifik. Fokus pada satu DE (KDE), satu toolkit (Qt) &amp; satu arsitektur (x86_64).&lt;br /&gt;
+Ditambah fokus pada evaluasi dan memilih alat dan aplikasi yang paling cocok.&lt;/p&gt;
+&lt;p&gt;Wizard ini akan membantu kamu mempersonalisasi ruang kerja KaOS-mu dengan mudah dan cepat.&lt;/p&gt;
+&lt;p&gt;Silakan klik &lt;code style=color:#3498DB&gt;Selanjutnya&lt;/code&gt; di dalam urutan untuk memulai. Klik &lt;code style=color:#3498DB&gt;Batal&lt;/code&gt; kapan saja dan perubahan tidak akan disimpan.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_welcome.py" line="39"/>
         <source>Run on system startup</source>
-        <translation type="unfinished"/>
+        <translation>Jalankan saat startup system</translation>
     </message>
 </context>
 </TS>
