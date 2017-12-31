@@ -20,6 +20,7 @@ TRANSLATIONS += languages/kaptan_en.ts
               languages/kaptan_es_AR.ts \
               languages/kaptan_fr.ts \
               languages/kaptan_id_ID.ts \
+              languages/kaptan_it.ts \
               languages/kaptan_nl_NL.ts \
               languages/kaptan_pl.ts \
               languages/kaptan_pt_PT.ts \

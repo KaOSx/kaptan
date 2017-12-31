@@ -9,7 +9,7 @@
     <message>
         <location filename="../kaptan5/libkaptan/ui_avatar.py" line="28"/>
         <source>&lt;p&gt;This screen helps you set your &lt;strong&gt;user picture&lt;/strong&gt;. You can either choose an image from a         file or you can capture an image from your camera. Select an option from the &lt;strong&gt;options&lt;/strong&gt; menu.&lt;/p&gt;</source>
-        <translation>&lt;p&gt;Na této obrazovce můžete nastavit svůj &lt;strong&gt;uživatelský obrázek&lt;/strong&gt;. Můžete buď vybrat obrázek ze souboru a nebo vytvořit obrázek pomocí kamery. Vyberte volbu z menu &lt;strong&gt;voleb&lt;/strong&gt;.&lt;/p&gt;</translation>
+        <translation>&lt;p&gt;Na této obrazovce můžete nastavit svůj &lt;strong&gt;uživatelský obrázek&lt;/strong&gt;. Můžete buď vybrat obrázek ze souboru a nebo vytvořit obrázek pomocí kamery. Vyberte volbu z nabídky &lt;strong&gt;voleb&lt;/strong&gt;.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_avatar.py" line="45"/>
@@ -140,7 +140,7 @@
     <message>
         <location filename="../kaptan5/libkaptan/ui_mouse.py" line="54"/>
         <source>Single-click to open files and folders.</source>
-        <translation>Jednoduché klepnutí pro otevření souboru nebo složky.</translation>
+        <translation>Jedno klepnutí pro otevření souboru nebo složky.</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_mouse.py" line="59"/>
@@ -297,7 +297,7 @@
     <message>
         <location filename="../kaptan5/libkaptan/ui_summary.py" line="63"/>
         <source>Single Click</source>
-        <translation>Jednoduché klepnutí</translation>
+        <translation>Jedno klepnutí</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_summary.py" line="65"/>
