@@ -130,7 +130,7 @@
         <source>&lt;p&gt;The &lt;strong&gt;clicking behavior&lt;/strong&gt; defines how many times you want
         to click when you are opening a file. If you are &lt;strong&gt;left handed&lt;/strong&gt;, you may prefer to
         swap the left and right buttons of your pointing device.&lt;/p&gt;</source>
-        <translation>&lt;p&gt;Il &lt;strong&gt;comportamento del click del mouse&lt;/strong&gt;definisce quante volte vorresti
+        <translation>&lt;p&gt;Il &lt;strong&gt;comportamento del click del mouse&lt;/strong&gt; definisce quante volte vorresti
 cliccare per aprire un file o una cartella. Se tu sei &lt;strong&gt;mancino&lt;/strong&gt;, potresti preferire scambiare i pulsanti destro e sinistro del mouse.&lt;/p&gt;</translation>
     </message>
     <message>
@@ -288,12 +288,12 @@ cliccare per aprire un file o una cartella. Se tu sei &lt;strong&gt;mancino&lt;/
     <message>
         <location filename="../kaptan5/libkaptan/ui_summary.py" line="58"/>
         <source>Right Handed</source>
-        <translation>Destri</translation>
+        <translation>Destro</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_summary.py" line="60"/>
         <source>Left Handed</source>
-        <translation>Mancini</translation>
+        <translation>Mancino</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_summary.py" line="63"/>
@@ -357,7 +357,31 @@ cliccare per aprire un file o una cartella. Se tu sei &lt;strong&gt;mancino&lt;/
                 &lt;/ul&gt;
             &lt;/li&gt;
         &lt;/ul&gt;</source>
-        <translation type="unfinished"/>
+        <translation>
+        &lt;ul&gt;
+            &lt;li&gt;&lt;strong&gt;Opzioni del Mouse&lt;/strong&gt;
+            &lt;/li&gt;
+                &lt;ul&gt;
+                    &lt;li&gt;Ordine dei pulsanti: &lt;strong&gt;{}&lt;/strong&gt;&lt;/li&gt;
+                    &lt;li&gt;Comportamento del click: &lt;strong&gt;{}&lt;/strong&gt;&lt;/li&gt;
+                &lt;/ul&gt;
+            &lt;li&gt;&lt;strong&gt;Opzioni del Tema&lt;/strong&gt;
+                &lt;ul&gt;
+                    &lt;li&gt;Numero di Scrivanie: &lt;strong&gt;{}&lt;/strong&gt;&lt;/li&gt;
+                    &lt;li&gt;Tipo di Scrivania: &lt;strong&gt;{}&lt;/strong&gt;&lt;/li&gt;
+                    &lt;li&gt;Stile dei Widget: &lt;strong&gt;{}&lt;/strong&gt;&lt;/li&gt;
+                    &lt;li&gt;Stile delle Finestre: &lt;strong&gt;{}&lt;/strong&gt;&lt;/li&gt;
+                    &lt;li&gt;Schema dei Colori: &lt;strong&gt;{}&lt;/strong&gt;&lt;/li&gt;
+                    &lt;li&gt;Tema della Scrivania: &lt;strong&gt;{}&lt;/strong&gt;&lt;/li&gt;
+                    &lt;li&gt;Set di Icone: &lt;strong&gt;{}&lt;/strong&gt;&lt;/li&gt;
+                &lt;/ul&gt;
+            &lt;/li&gt;
+            &lt;li&gt;&lt;strong&gt;Opzioni del Menu&lt;/strong&gt;
+                &lt;ul&gt;
+                    &lt;li&gt;Menu Selezionato: &lt;strong&gt;{}&lt;/strong&gt;&lt;/li&gt;
+                &lt;/ul&gt;
+            &lt;/li&gt;
+        &lt;/ul&gt;</translation>
     </message>
     <message>
         <location filename="../kaptan5/libkaptan/ui_summary.py" line="135"/>
@@ -547,7 +571,7 @@ cliccare per aprire un file o una cartella. Se tu sei &lt;strong&gt;mancino&lt;/
           tool e applicazioni. &lt;/p&gt;
         &lt;p&gt;Questo wizard ti aiuterà a personalizzare il tuo spazio di lavoro facilmente e
           velocemente.&lt;/p&gt;
-         &lt;p&gt;Clicca su &lt;code style=color:#3498DB&gt;Prossimo&lt;/code&gt;per cominciare. Clicca su &lt;code style=color:#3498DB&gt;Cancella&lt;/code&gt;e i
+         &lt;p&gt;Clicca su &lt;code style=color:#3498DB&gt;Prossimo&lt;/code&gt; per cominciare. Clicca su &lt;code style=color:#3498DB&gt;Cancella&lt;/code&gt; e i
           cambiamenti non saranno salvati.&lt;/p&gt;</translation>
     </message>
     <message>
